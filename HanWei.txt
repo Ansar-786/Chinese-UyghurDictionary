@@ -4867,3 +4867,134 @@ Y射线	Y shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8
 不可重用程序	bù kě zhòng yòng chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا ئىشلەتكىلى بولمايدىغان پروگرامما</p>\n\n
 不可限量	bù kě xiàn liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چەكلەنمەس مىقدار</p>\n\n
 不吃劲	bù chī jìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىرەن قىلماسلىق، پەرۋا قىلماسلىق، پىسەنت قىلماسلىق، ئېتىبارسىز قارىماق، كارى بولماسلىق، كېرەك يوق، كارايىتى چاغلىق</p>\n\n
+不吃苦中苦不知甜上甜	不吃苦中苦，不知甜上甜； \nbù chī kǔ zhōng kǔ bù zhī tián shàng tián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاچچىقنى تېتىمىغان ئادەم، تاتلىقنىڭ قەدرىنى بىلمەس</p>\n\n
+不吃黄连不知药苦	不吃黄连，不知药苦； \nbù chī huáng lián bù zhī yào kǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاچچىق-تاتلىقنى تېتىغان بىلىدۇ، يىراق-يېقىننى يۈرگەن بىلىدۇ</p>\n\n
+不合	bù hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياقماسلىق؛ كېلىشەلمەسلىك، چىقىشالماسلىق، پېتىشالماسلىق، سىغىشالماسلىق، پىيىزى گىچ-گىچ، ئەپ ئۆتەلمەسلىك؛ توغرا كەلمەسلىك، ماس كەلمەسلىك، ياقماسلىق؛ چىقىشالماسل؛ كېلىشەلمەسلىك؛ ماس كەلمەسلىك؛ توغرا كەلمەسلىك</p>\n\n
+不合味	bù hé wèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېتىماسلىق، ياقماسلىق</p>\n\n
+不合时宜	bù hé shí yí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زامانغا لايىق كەلمەسلىك؛  دەۋرگە باب كەلمەسلىك؛ پەيتى ئەمەس؛ زامانغا لايىق ئەمەس</p>\n\n
+不合理占用	bù hé lǐ zhàn yòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نامۇۋاپىق ئىگىلىۋېلىش</p>\n\n
+不合理占用资金	bù hé lǐ zhàn yòng zī jīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نامۇۋاپىق ئىگىلىۋېلىنغان مەبلەغ</p>\n\n
+不合理开支	bù hé lǐ kāi zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نامۇۋاپىق چىقىم</p>\n\n
+不合理歧视手段	bù hé lǐ qí shì shǒu duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نامۇۋاپىقكەمسىتىش ۋاسىتىسى</p>\n\n
+不合规格	bù hé guī gé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لاياقەتسىز</p>\n\n
+不合规格的邮件	bù hé guī gé de yóu jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆلچەمگە ئۇيغۇن كەلمەيدىغان يوللانما</p>\n\n
+不同	bù tóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەڭ ئەمەس؛ ئوخشىماسلىق، ئوخشىمايدىغان، باشقا خىل؛ قارشى، تەتۈر، ئەكسىچە؛ پەرق، پەرقلىق، باشقىچە</p>\n\n
+不同凡响	bù tóng fán xiǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاجايىپ؛ كارامەت؛ ئاجايىپ، كارامەت؛ ئاجايىپ؛  كارامەت؛  قالتىس</p>\n\n
+不同步	bù tóng bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماس قەدەمدە بولماسلىق</p>\n\n
+不同步起动	bù tóng bù qǐ dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىنخرونسىز قوزغىتىش</p>\n\n
+不同测度的	bù tóng cè duó de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گېتېرومېتىرىك</p>\n\n
+不同的	bù tóng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوخشاش بولمىغان</p>\n\n
+不同类函件合封交寄	bù tóng lèi hán jiàn hé fēng jiāo jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوخشاش بولمىغان تۈردىكى خەت-ئالاقىلەرنى ئارىلاشتۇرۇپ، پېچەتلەپ ئەۋەتىشكە تاپشۇرۇش</p>\n\n
+不名一文	bù míng yī wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تىيىنمۇ پۇلى يوق</p>\n\n
+不名一钱	bù míng yī qián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تىيىنمۇ پۇلى يوق</p>\n\n
+不名誉	bù míng yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رەسۋا؛ ئۇياتسىز؛ سەتچىلىك؛ سەتچىلىك، رەسۋاچىلىق</p>\n\n
+不吐气音	bù tǔ qì yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نەپەسسىز تاۋۇش</p>\n\n
+不吝	bù lìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئايىماسلىق</p>\n\n
+不吝啬的	bùlìn sè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەرد، سېخى، مەردلىك، سېخىلىك</p>\n\n
+不吝珠玉	bù lìn zhū yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىممەتلىك پىكىرلىرىنى ئايىمىغايلا</p>\n\n
+不含恶意的	bù hán è yì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامان نىيىتى يوق، يامان غەرىزى يوق</p>\n\n
+不含时微扰	bù hán shí wēi rǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ۋاقىتقا باغلانمىغان مىكرو تەسىر</p>\n\n
+不含税价格	bù hán shuì jià gé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باجسىز باھا</p>\n\n
+不含糊	bù hán hú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېنىق؛ پەيزى؛ ئوبدان؛ قالتىس؛ جايىدا؛ كارامەت؛ ئېنىق، شەك يوق، جايىدا، ئوبدان، پەيزى، كارامەت، قالتىس؛ چاتاشماسلىق</p>\n\n
+不含醇的	bù hán chún de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىسپىرتسىز</p>\n\n
+不听老人言吃亏在眼前	不听老人言，吃亏在眼前； \nbù tīng lǎo rén yán chī kuī zài yǎn qián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چوڭلارنىڭ نەسىھەتنى ئاڭلىمىساڭ، زىيان تارتماي قالمايسەن</p>\n\n
+不呈	bù chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇرادىغا يېتەلمەسلىك، ئارزۇ-ئارمىنىغا يېتەلمەسلىك؛ توپىلاڭ كۆتۈرمەك، قوزغىلاڭ كۆتۈرمەك، ئىسيان كۆتۈرمەك، خائىنلىق قىلماق؛ يول قويماسلىق، مەيلىگە قويۇپ بەرمەسلىك، بولۇشىغا تاشلىۋەتمەسلىك</p>\n\n
+不周	bù zhōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قانائەتلىنەرلىك ئەمەس، رازى بولغۇدەك ئەمەس</p>\n\n
+不和	bù hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆچلۈك؛ توقۇنۇش؛ ئىختىلاپ؛ سوغاقچىلىق؛ سۈركىلىش، تالاش تارتىش، سوقۇش، جەڭگە-جېدەل؛ ئىناق ئەمەس؛ ئىناقسىزلىق، ئىتتىپاقسىزلىق؛ كېلىشەلمەسلىك، ئىناقسىزلىق؛ ئەپ بولماسلىق؛ كېلىشەلمەسلىك؛ چىقىشالماسلىق؛ پىيىزى گىچ-گىچ</p>\n\n
+不咎既往	bù jiù jì wǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇرۇنقىنى سۈرۈشتۈرمەسلىك، ئۆتكەن ئىشقا سالاۋات؛ بۇرۇنقىنى سۈرۈشتۈرمەسلىك؛  ئۆتكەن ئىشقا سالاۋات؛ ئۆتكەن ئىشقا سالاۋەت</p>\n\n
+不咸	bù xián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇزى كەم، تۇزسىز</p>\n\n
+不咸不淡	bù xián bù dàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەسخىرە (قىلىدىغان گەپلەرنى قىلماق)، زاڭلىق (قىلىدىغان گەپلەرنى قىلماق)；ئادەتتىكى، ئادەتتىكىچە</p>\n\n
+不哼不哈	bù hēng bù hā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈن-تىنسىز؛ ئۈن چىقارماسلىق، ئۈنتىنسىز، ئېنىق پوزىتسىيە بىلدۈرمەسلىك؛ ئۇنچۇقماسلىق؛ ئۈن چىقارماسلىق</p>\n\n
+不啻	bùchì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاز ئەمەس، تۆۋەن ئەمەس، تەڭ، ئوخشاش، قېلىشماسلىق</p>\n\n
+不善	bù shàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماھىر ئەمەس، ماھىر بولماسلىق، يامان ئەمەس؛ ماھىر ئەمەس؛ ياخشى ئەمەس؛ ياخشى ئەمەس، مۇۋاپىق ئەمەس؛ مۇۋاپىق ئەمەس؛ ماھىر بولماسلىق</p>\n\n
+不喝几口海水练不成好水手	不喝几口海水，练不成好水手； \nbù hē jǐ kǒu hǎi shuǐ liàn bù chéng hǎo shuǐ shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇشەققەتسىز ھۈنەر بولماس</p>\n\n
+不嚼碎不知味	不嚼碎，不知味； \nbù jiáo suì bù zhī wèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاينىماي يېگەن تاماقنىڭ تەمى يوق</p>\n\n
+不因不由	bù yīn bù yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاڭسىز ھالدا، مەقسەتسىز ھالدا</p>\n\n
+不图	bù tú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈتۈلمىگەن؛ بېرىلمەسلىك؛ ئىنتىلمەسلىك، بېرىلمەسلىك، قوغلاشماسلىق؛ ئىنتىلمەسلىك؛ قوغلاشماسلىق؛ كۈتۈلمىگەندە</p>\n\n
+不圣洁	bù shèng jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاك ئەمەس، ناپاك</p>\n\n
+不圣洁的	bù shèng jié de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاك ئەمەس، پاكلانمىغان، ناپاك</p>\n\n
+不在	bù zài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يوق؛ تۈگەپ كەتمەك؛ يوق، تۈگەپ كەتمەك</p>\n\n
+不在乎	bù zài hū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىرەن قىلماسلىق، ئېتىبارسىز قارىماق، پىسەنت قىلماسلىق، پەرۋاسىز قارىماق؛ ئېتىبارسىز قارىماق؛ ئىرەن قىلماسلىق؛ پەرۋاسىز قارىماق؛ پىسەنت قىلماسلىق</p>\n\n
+不在其位不谋其政	不在其位，不谋其政； \nbù zài qí wèi bù móu qí zhèng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەمەلدە بولمىغانكەنسەن، ئىشنىڭمۇ غېمىدە بولما</p>\n\n
+不在意	bù zài yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆڭلىگە كەلمەسلىك، ئېغىر ئالماسلىق</p>\n\n
+不在话下	bù zài huà xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گەپ يوق؛ ھېچ گەپ ئەمەس؛  گەپ يوق؛  چاتاق يوق؛ ھېچ گەپ ئەمەس؛ ھېچ گەپ ئەمەس، گەپ يوق</p>\n\n
+不均匀	bù jūn yún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەكشى بولمىغان، تەكشىسىزلىك</p>\n\n
+不均匀传输线	bù jūn yún chuán shū xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەكشىسىز يوللاش لىنىيىسى</p>\n\n
+不均匀性	bù jūn yún xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەكشىسىزلىك</p>\n\n
+不均匀电容	bù jūn yún diàn róng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەكشىسىز ئېلېكتر سىغىمى</p>\n\n
+不均匀电码	bù jūn yún diàn mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەكشىسىز كود</p>\n\n
+不堪	bù kān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەسكى؛ يامان؛ چىدىماسلىق؛ ئىش-ھەرىكەتنىڭ چىدىغۇسىز دەرىجىگە يېتىپ بارغانلىقىنى بىلدۈرىدۇ؛ چىدىماسلىق، بەرداشلىق بېرەلمەسلىك؛ ئەسكى، يامان؛ بەرداشلىق بېرەلمەسلىك</p>\n\n
+不堪一击	bù kān yī jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر پەشۋاغا توغرا تۇرالمايدىغان، ئاجىز، چۈرۈك، زەئىپ؛ بىر پەشۋاغىمۇ يارىماسلىق</p>\n\n
+不堪人耳	bù kān rén ěr； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاڭلىغۇسىز</p>\n\n
+不堪入耳	bù kān rù ěr； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاڭلىغۇسىز، سەت، سېسىق</p>\n\n
+不堪回首	bù kān huí shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەسلەش ئېغىر كەلمەك، ئەسلىسە دىلى ئازابلانماق؛ ئۆتمۈشنى ئەسلەشكە رايى بارماسلىق؛  ئكتكەن ئىشلارنى ئەسلەشنى خالىماسلىق؛ ئەسلىسە ۋىجدانى قاينىماق؛ ئەسلەش ئېغىر كەلمەك</p>\n\n
+不堪言状	bù kān yán zhuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېغىزغا ئالغۇسىز، ئېغىزدىن چىقارغۇسىز</p>\n\n
+不堪设想	bù kān shè xiǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەسەۋۋۇر قىلغۇسىز، تەسەۋۋۇر قىلىش قىيىن، تەسەۋۋۇر قىلىش مۇمكىن ئەمەس؛ تەسەۋۋۇر قىلغۇسىز؛  تەسەۋۋۇر قىلىش قىيىن؛ تەسەۋۋۇر قىلىش مۇمكىن ئەمەس؛ تەسەۋۋۇر قىلغۇسىز؛ تەسەۋۋۇر قىلىش قىيىن</p>\n\n
+不堪造就	bù kān zào jiù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەربىيىلەش ئىستىقبالى يوق، ئادەم بولمايدىغان؛ ئادەم بولمايدىغان؛  ئوڭشالمايدىغان؛ ئوڭشالمايدىغان</p>\n\n
+不塞不流不止不行	不塞不流，不止不行； \nbù sāi bù liú bù zhǐ bù xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونىنىڭ يولىنى توسماي تۇرۇپ، يېڭىغا يول ئاچقىلى بولمايدۇ</p>\n\n
+不墨守成规	bù mò shǒu chéng guī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونا قائىدە-يوسۇنلارنى رەد قىلماق، كونا ئەنئەنىگە قارشى تۇرماق</p>\n\n
+不声不吭	bù shēng bù kēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈن-تىنسىز، لام-جىم دېمەسلىك</p>\n\n
+不声不响	bù shēng bù xiǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈن-تىنسىز؛ لام-جىم دېمەسلىك؛ ئۈن-تىنسىز، لام-جىم دىمەي؛ ئۈن-تىنسىز، لام-جىم دېمەسلىك</p>\n\n
+不备	bù bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەييارلىقسىز، تەييارلىقسىزلىق</p>\n\n
+不复堪命	bù fù kān mìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياشاشنىڭ يولى قالماسلىق، تىرىكچىلىكنىڭ يولى قالماسلىق</p>\n\n
+不复存在	bù fù cún zài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇرۇپ كەتمەك، يوقالماق، يوقىلىپ كەتمەك</p>\n\n
+不外	bù wai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باشقا ئەمەس</p>\n\n
+不夜	bù yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېچە بولماسلىق</p>\n\n
+不夜城	bù yè chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېچە بولماس شەھەر</p>\n\n
+不够	bù gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېتەرسىز؛ يەتمەسلىك؛ دېگۈدەك ... بولماسلىق، يېتەرسىز، كۇپايە قىلماسلىق، يەتمەسلىك، توشماسلىق；... دېگۈدەك بولماسلىق؛ كۇپايە قىلماسلىق</p>\n\n
+不大	bù dà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاتتىق بولماسلىق، كەسكىن بولماسلىق، جىددىي بولماسلىق؛ يۇقىرى ئەمەس، تۆۋەن، چوڭقۇر ئەمەس، تېيىز؛ كۆپ ئەمەس، ئاز؛ چوڭ ئەمەس، كىچىك</p>\n\n
+不大不小	bù dà bù xiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇرا ھال؛ چوڭمۇ ئەمەس، كىچىكمۇ ئەمەس</p>\n\n
+不大于号	不大于号（≯is not moret han）； bù dà yú hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دىن چوڭ ئەمەس</p>\n\n
+不大可能	bù dà kě néng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئانچە مۇمكىن ئەمەس، مۇمكىن بولماس</p>\n\n
+不大对头	bù dà duì tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاتاق چىققاندەك تۇرماق، مەسىلە باردەك تۇرماق، مەسىلە چىقىدىغاندەك تۇرماق، چاتاق چىقىدىغاندەك تۇرماق</p>\n\n
+不大点	bù dà diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىچىك، يۇمران</p>\n\n
+不大离	bù dà lí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامان ئەمەس، ئوخشاش، ئانچە پەرقلەنمەسلىك</p>\n\n
+不大紧	bù dà jǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھېچ ۋەقەسى يوق، كېرەك يوق</p>\n\n
+不失为	bù shī wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇناسىپ؛ دېيىشكە بولىدۇ؛ دېيىشكە بولىدۇ، مۇناسىپ</p>\n\n
+不失体面的	bù shī tǐ miàn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سالاپەتلىك</p>\n\n
+不失信号	bù shī xìn hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆچمەس سىگنال</p>\n\n
+不失时机	bù shī shí jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەيتىنى قولدىن بەرمەسلىك، پۇرسەتنى قولدىن بەرمەسلىك؛ پەيتنى قولدىن بەرمەسلىك</p>\n\n
+不好不坏	bù hǎo bù huài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قەدىر ئەھۋال، ئوتتۇراھال</p>\n\n
+不好惹	bù hǎo rě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چېقىلغىلى بولماسلىق؛ تاقابىل تۇرماق تەس</p>\n\n
+不好意思	bù hǎo yì sī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تارتىنماق؛ ئوڭايسىزلانماق، ئىزا تارتماق، خىجىل بولماق، تارتىنماق، يۈزى چىدىماسلىق؛ ئىزا تارتماق؛ خىجىل بولماق؛ ئوڭايسىزلانماق؛ يۈزى چىدىماسلىق</p>\n\n
+不好活	bù hǎo huó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىئارام بولماق، راھەت تاپماسلىق</p>\n\n
+不好过	bù hǎo guò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاتتىق، جاپالىق؛ قىينالماق، ئازابلانماق</p>\n\n
+不如	bù rú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆرە；... غىچە؛ يەتمەسلىك؛ يەتمەسلىك، كۆرە، ... غىچە</p>\n\n
+不妙	bù miào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەپسىز؛ پايدىسىز؛ ئىشەنچ يوق؛ ياخشى ئەمەس؛ چاتاق، چاتاق چىقماق، كاشلا، كاشلا چىقماق؛ ئوچۇق ئەمەس، تۇتۇق، ئېنىق ئەمەس؛ ئەپلەشمەسلىك؛ چاتاق بولماق؛ قىيىن، خەتەرلىك، خەۋپلىك</p>\n\n
+不妥	bù tuǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خاتالىق؛ نامۇۋاپىق؛ نامۇۋاپىق، مۇۋاپىق ئەمەس</p>\n\n
+不妥协报	《不妥协报》 （阿根）； bù tuǒ xié bào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇرەسسەسىز</p>\n\n
+不妨	bù fáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زەرىرى يوق؛ زەرەرى يوق، ئورۇنسىز بولماس، زىيانلىق بولماس؛ ئورۇنسىز بولماس؛ زىيانلىق بولماس</p>\n\n
+不妨事	bù fáng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشقا دەخلى بولماسلىق، ئىشقا دەخلى قىلماسلىق</p>\n\n
+不媚妩的	bù mèi wǔ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىمسىز، ئادەمنى جەلپ قىلالمايدىغان، زېرىكەرلىك، قىززىقى يوق، كىشىنى مەپتۇن قىلالمايدىغان</p>\n\n
+不孕	bù yùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھامىلىدار بولماسلىق</p>\n\n
+不孕花	bù yùn huā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېتىلمەيدىغان گۈل</p>\n\n
+不存	bù cún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولماسلىق</p>\n\n
+不存不济	bù cún bù jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆلۈكمىكىن دېسە تىرىكتەك، تىرىكمىكىن دېسە ئۆلۈكتەك؛ ئۆلەرمەن، روھسىز، جۈرئەتسىز، جاسارەتسىز؛ يا ئۆلۈك ئەمەس، يا تىرىك ئەمەس</p>\n\n
+不存好意	bù cún hǎo yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامان نىيەتتە بولماق</p>\n\n
+不孝	bù xiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ۋاپاسىزلىق قىلماق</p>\n\n
+不孝顺的	bù xiào shùn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ۋاپاسىز</p>\n\n
+不学好	bù xué hǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامان ئۆگەنمەك، يامان ئۆگىنىپ قالماق</p>\n\n
+不学无术	bù xué wú shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىلىمسىز؛ بىلىمسىز ۋە ئىقتىدارسىز، قارا قورساق، پوقنى بىلمەيدىغان؛ قارا قورساق؛ قارا قورساق؛  بىلىمسىزلىك؛  نادانلىق؛ قابىلىيەتسىز</p>\n\n
+不学无识	bù xué wú shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نادان، بىلىمسىز، ساۋاتسىز</p>\n\n
+不宁	bù níng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىنچ بولماسلىق</p>\n\n
+不宁唯是	bù níng wéi shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شۇنداق بولۇپلا قالماستىن ...；شۇنداق بۇلۇپلا قالماستىن...；شۇنداق بولۇپلا قالماستىن</p>\n\n
+不宁静的	bù níng jìng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىنچ بولماسلىق، ساق بولماسلىق، ئاراملىق بولماسلىق، خاتىرجەم بولماسلىق</p>\n\n
+不安	bù ān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەنسىزلىك؛ ئەنسىرىمەك؛ ئەنسىزلەنمەك، ئەنسىرىمەك، خاتىرجەم بولالماسلىق، تەشۋىشلەنمەك؛ تىنچسىزلىق، قالايمىقانچىلىق، توپىلاڭ؛ خىجىل بولماق؛ تەشۋىشلەنمەك؛ ھاياجانلانماق؛ خاتىرجەم بولالماسلىق؛ بىئارام بولماق؛ دىققەت قىلماق، ئېھتىيات قىلماق، پەخەس بولماق</p>\n\n
+不安于室	bù ān yú shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىئارام بولماق، دەككە دۈككە بولماق، ئۆيىدىن خاتىرجەم بولالماسلىق</p>\n\n
+不安全因素	bù ān quán yīn sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خەۋپ ئامىللىرى</p>\n\n
+不安全的	bù ān quán de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىخەتەر ئەمەس، خەتەرلىك</p>\n\n
+不安其室	bù ān qí shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تالاغا قاراپ قالماق</p>\n\n
+不完全	bù wán quán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تولۇق بولمىغان</p>\n\n
+不完全区组设计	bù wán quán qū zǔ shè jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تولۇقسىز كاندۇك گۇرۇپپىسى لايىھىسى</p>\n\n
+不完全占有	bù wán quán zhàn yǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تولۇق بولمىغان ئىگىلەش</p>\n\n
+不完全变态	bù wán quán biàn tai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چالا ھالەت ئۆزگەرتىش</p>\n\n
+不完全叶	bù wán quán yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چالا يوپۇرماق</p>\n\n
+不完全性	bù wán quán xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇكەممەل بولماسلىق</p>\n\n
+不完全权利	bù wán quán quán lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تولۇم بولمىغان ھوقۇق</p>\n\n
+不完全菌	bù wán quán jūn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇكەممەللەشمىگەن زەمبۇرۇغ</p>\n\n
+不完全证据	bù wán quán zhèng jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تولۇق بولمىغان دەلىل-ئىسپات</p>\n\n
+不定向天线	bù dìng xiàng tiān xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۆنىلىشسىز ئانتېننا</p>\n\n
+不定命题	bù dìng mìng tí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېنىقسىز ھۆكۈم</p>\n\n
+不定年	bù dìng nián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۈجمەل يىل (قەدىمكى مىسىرلىقلار رىملىقلار تەرىپىدىن بويسۇندۇرۇلۇشتىن ئىلگىرى قوللانغان 563 كۈنلۈك يىل)</p>\n\n
+不定式	bù dìng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېنىقسىز ئىپادە</p>\n\n
+不定性	bù dìng xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېنىقسىزلىق</p>\n\n
