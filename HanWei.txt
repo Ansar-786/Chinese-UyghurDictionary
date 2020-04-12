@@ -1932,6 +1932,7 @@ Y射线	Y shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8
 万马奔腾	wàn mǎ bēn téng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈمەن تۇلپار بەيگىگە چۈشمەك؛  ھەممە قاينام-تاشقىنلىققا چۆممەك؛ ھەممە قاينام-تاشقىنلىققا چۆممەك؛ تۈمەنلىگەن ئات بەيگىگە چۈشمەك</p>\n\n
 万马皆喑	wànmǎ jiē yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەممە بۇرۇقتۇرما بولۇپ يۈرمەك؛  جانسىز، ئۆلۈك كەيپىيات ھۆكۈم سۈرمەك</p>\n\n
 万马齐喑	wànmǎqí yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەممە بۇرۇقتۇرما بولۇپ يۈرمەك؛  جانسىز، ئۆلۈك كەيپىيات ھۆكۈم سۈرمەك؛ سۆزلىمەسلىك؛ ھېچكىم ئاۋاز چىقارماسلىق (كۆپچىلىك)；گەپ قىلماسلىق؛ ھەممە سۈكۈت قىلماق؛ ھېچكىم ئاۋاز چىقارماسلىق؛ ھەممە بۇرۇقتۇرما بولۇپ قالماق؛ ھەممە بۇرۇقتۇرما بولۇپ يۈرمەك؛ ئۈن-تىن چىقارماسلىق</p>\n\n
+丈	zhàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېرى؛ بوۋاي؛ يېزنە؛ كۈيۆسى؛ ئاقساقال؛ ئۆلچىمەك؛ جاڭ (ئۇزۇنلۇق بىرلىكى، 10 چىغا تەڭ)；جاڭ (ئۇزۇنلۇق بىرلىكى 10 گەز)；جاڭ (فامىلە)；ئېرى، كۈيۆسى؛ جاڭ (ئۇزۇنلۇق بىرلىكى)；قەدىمكى زاماندا ياشانغان ئەر كىشىنىڭ ھۆرمەت نامى؛ ياشانغان ئەرلەرنى ھۆرمەتلەپ ئاتاشتا ئىشلىتىلىدۇ</p>\n\n
 丈二和尚摸不着头脑	zhàng èr hé shang mō bù zhuó tóu nǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھاڭ-تاڭ قالماق؛ ھېچ چۈشىنىپ بولماسلىق</p>\n\n
 丈二金刚	zhàng èr jīn gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پالۋان؛ زەبەردەست؛ ناھايىتى چوڭ؛ ناھايىتى چوڭ، زەبەر-دەست</p>\n\n
 丈人	zhàng rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چوڭ دادا، تاغا (ئۆزىدىن چوڭلارنى ھۆرمەتلەپ ئېيتقاندا)；قېيىن ئاتا (خوتۇننىڭ دادىسى)</p>\n\n
@@ -2059,3 +2060,443 @@ Y射线	Y shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8
 三倍字	sān bèi zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسىلەنگەن سۆز</p>\n\n
 三倍字长	sān bèi zì cháng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسىلەنگەن سۆز ئۇزۇنلۇقى</p>\n\n
 三倍字长工作	sān bèi zì cháng gōng zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خەت ئۇزۇنلۇقىدا ئىشلەش</p>\n\n
+三倍性	sān bèi xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىپلوئىدلىق</p>\n\n
+三倍精度	sān bèi jīng dù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسە ئېنىقلىق</p>\n\n
+三倍量公式	sān bèi liàng gōng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسىلەش فورمۇلىسى</p>\n\n
+三倍长寄存器	sān bèi cháng jì cún qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسە ئۇزۇنلۇقتىكى رېگىستېر</p>\n\n
+三倍频器	sān bèi pín qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىپلېر</p>\n\n
+三倚音	sān yǐ yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تايانچ ئاھاڭ</p>\n\n
+三值的	sān zhí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قىممەتكە ئىگە</p>\n\n
+三偏磷酸盐	sān piān lín suān yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمېتافوسفات</p>\n\n
+三停损失	“三停”损失； \nsān tíng sǔn shī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇ، توك، گاز توختاش زىيىنى؛ سۇ، توك گاز توختاش زىيىنى</p>\n\n
+三偶氮的	三偶氮［的］； sān ǒu dàn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئازو-</p>\n\n
+三元	sān yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلېمېنت</p>\n\n
+三元共聚物	sān yuán gòng jù wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىپولىمېر</p>\n\n
+三元化合物	sān yuán huà hé wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسلىق بىرىكمە</p>\n\n
+三元合金	sān yuán hé jīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسلىق قېتىشما</p>\n\n
+三元合金钢	sān yuán hé jīn gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسلىق قېتىشما پولات</p>\n\n
+三元图解	sān yuán tú jiě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسلىق دىئاگرامما</p>\n\n
+三元复合肥料	三元［复合］肥料； \nsān yuán fù hé féi liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلېمېنتلىق مۇرەككەپ ئوغۇت</p>\n\n
+三元市场	sān yuán shì chǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 مەنبەلىك بازار؛ ئۈچ مەنبەلىك بازار</p>\n\n
+三元树	sān yuán shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلېمېنتلىق دەرەخ</p>\n\n
+三元码	sān yuán mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك ساناق سىستېمىسىدىكى-كود</p>\n\n
+三元系，三元体系	sān yuán xì , sān yuán tǐxì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسلىق سىستېما</p>\n\n
+三元组	sān yuán zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلېمېنتلىق گۇرۇپپا؛ ئۈچ ئېلېمېنتلىك گۇرۇپپا</p>\n\n
+三元组表	sān yuán zǔ biǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلېمېنتلىق گۇرۇپپا جەدۋىلى</p>\n\n
+三元结构	sān yuán jié gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 مەنبەلىك قۇرۇلما</p>\n\n
+三元酸	sān yuán suān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترى كىسلاتا، ئۈچ مەنبەلىك كىسلاتا</p>\n\n
+三元醇	sān yuán chún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىگىدرىك ئالكوگول</p>\n\n
+三元，三元的	sān yuán , sān yuán de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مەنبەلىك، ئۈچ ئاساسلىق</p>\n\n
+三光	sān guāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇياش، ئاي ۋە يۇلتۇز</p>\n\n
+三光政策	sān guāng zhèng cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تۈگىتىش سىياسىتى (كۆيدۈرۈپ تۈگىتىش، قىرىپ تۈگىتىش، بۇلاپ تۈگىتىش)</p>\n\n
+三光灯	sān guāng dēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خىل يورۇتۇش ئىقتىدارىغا ئىگە چىراغ</p>\n\n
+三光灯泡	sān guāng dēng pào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خىل يورۇتۇش ئىقتىدارىغا ئىگە لامپۇچكا</p>\n\n
+三光球	三光球（仙人掌科）； sān guāng qiú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لالە كاكتۇس</p>\n\n
+三全属	sān quán shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىتېلېيە ئوتى ئۇرۇقدىشى</p>\n\n
+三全音	sān quán yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تولۇق تونلۇق</p>\n\n
+三八妇女节，三八节	sānbā fùnǚ jié , sānbā jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">8-مارت ئاياللار بايرىمى</p>\n\n
+三八式	sān bā shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياپونكا، سەنبا مىلتىقى</p>\n\n
+三八式步枪	sān bā shì bù qiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياپونكا، 38 تىپلىق مىلتىق</p>\n\n
+三八线	sān bā xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">38-پاراللېل</p>\n\n
+三八面体	sān bā miàn tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">38 يۈزلۈك (كرىستال)</p>\n\n
+三六九等	sān liù jiǔ děng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خىلمۇ خىل پەرقلەر؛ خىلمۇ-خىل پەرقلەر؛ ھەر خىل دەرىجە</p>\n\n
+三兰属	sān lán shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىزوترىيە چىغىرتماقلىرى ئۇرۇقدىشى</p>\n\n
+三关	sān guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۆتكەل (جۇڭگو تېبابەتچىلىكىدە بالىلارغا دىئاگنوز قويۇشتىكى)</p>\n\n
+三典化磷	sān diǎn huà lín； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">فوسفوروئۇس ترىيودىد</p>\n\n
+三内脏的	sān nèi zàng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىسپلانچلىق</p>\n\n
+三军	sān jūn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خىل ئارمىيە (قۇرۇقلۇق، ھاۋا، دېڭىز ئارمىيىلىرى)；ئارمىيە، قوشۇنلار</p>\n\n
+三军一体	sān jūn yī tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 ئارمىيە بىر گەۋدە</p>\n\n
+三农问题	“三农”问题（工作）； sān nóng wèn tí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېزا ئىەىلىك، يېزا، دېھقانلار مەسىلىسى (خىزمىتى)</p>\n\n
+三冬	sān dōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قىش؛ قىشنىڭ ئۈچ ئېيى</p>\n\n
+三出叶	sān chū yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك يوپۇرماق</p>\n\n
+三出复叶	sān chū fù yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك مۇرەككەپ يوپۇرماق</p>\n\n
+三出的	sān chū de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچتىن، ئۈچلۈك</p>\n\n
+三出脉菜豆	sān chū mài cài dòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېرۇسالېم پۇرچىقى</p>\n\n
+三击不中出局	sān jī bù zhōng chū jú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ رەت ئۇرالماي چەتكە چىقىش (كالتەك توپتا)</p>\n\n
+三刀开关	sān dāo kāi guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تىغلىق ۋېكليۇچاتېل</p>\n\n
+三分	sān fēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك؛ ئۈچ نومۇر</p>\n\n
+三分之一	sān fēn zhī yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچتىن بىر</p>\n\n
+三分之七定则	sān fēn zhī qī dìng zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچتە يەتتە قائىدىسى</p>\n\n
+三分之二规则	sān fēn zhī èr guī zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچتىن ئىككى قائىدىسى</p>\n\n
+三分叉属	sān fēn chā shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىترىناكس پالمىسى ئۇرۇقدىشى</p>\n\n
+三分天才七分勤劳	三分天才，七分勤劳； \nsān fēn tiān cái qī fēn qín láo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۈلۈش ئەقىل، يەتتە ئۈلۈش ئەجىر</p>\n\n
+三分子的	sān fēn zǐ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مولېكۇلىلىق</p>\n\n
+三分格窗	sān fēn gé chuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۆزنەكلىك دېرىزە</p>\n\n
+三分法	sān fēn fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچكە بۆلۈش ئۇسۇلى؛ 3 بۆلۈش ئۆسۈلى</p>\n\n
+三分绕组	sān fēn rào zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بۆلەكلىك ئورام گۇرۇپپىسى</p>\n\n
+三分裂变	sān fēn liè biàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچكە بۆلۈنۈش</p>\n\n
+三分裂的	sān fēn liè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچكە يېرىلغان</p>\n\n
+三分贝耦合器	sān fēn bèi ǒu gě qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ دېتسىبېللىق مۇفتا</p>\n\n
+三分贝超科	sān fēn bèi chāo kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمېرېللا سەدەپلىرى سۇپېر ئائىلىسى</p>\n\n
+三分钟定时器	sān fēn zhōng dìng shí qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مىنۇتلۇق تايمېر</p>\n\n
+三分靠教七分靠学	三分靠教，七分靠学； \nsān fēn kào jiào qī fēn kào xué； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۈلۈشكە ئۆگىتىشكە باغلىق، يەتتە ئۈلۈش ئۆگنىشكە</p>\n\n
+三分鼎足	sān fēn dǐng zú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپ تىركەشمەك؛  ئۈچ تەرەپ تىركىشىش ۋەزىيىتى؛ داڭقان پۇتى</p>\n\n
+三分，三分的	sān fēn , sān fēn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۈلۈش</p>\n\n
+三列的	sān liè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قاتار</p>\n\n
+三列节，三行节	sān liè jié , sān háng jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇسەللەس (شېئىر شەكلى)</p>\n\n
+三列蕨纲	sān liè jué gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمېروپىتىنا سارچىسى سىنىپى</p>\n\n
+三列齿兽	sān liè chǐ shòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىتىلودونت</p>\n\n
+三列齿兽科	sān liè chǐ shòu kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىتىلودونت ئائىلىسى</p>\n\n
+三判决问题	sān pàn jué wèn tí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھۆكۈملۈك مەسىلە</p>\n\n
+三刷发电机	sān shuā fā diàn jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چوتكىلىق گېنېراتور</p>\n\n
+三刺光鲳	sān cì guāng chāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پورونوتۇس بېلىقى</p>\n\n
+三刺激色度计	sān cì jī sè dù jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەسىر قىلغۇچى كولورىمېتر</p>\n\n
+三刺皂荚	sān cì zào jiá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تىكەنلىك سوپۇن دەرىخى</p>\n\n
+三刺皂角	三刺皂角（豆科）； sān cì zào jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاچىماق تىكەنلىك سوپۇن دەرىخى</p>\n\n
+三副	sān fù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مۇئاۋىن ئوفىتسېر</p>\n\n
+三加一地址	sān jiā yī dì zhǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ پىلوس بىر ئادرېس</p>\n\n
+三化的	sān huà de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئەۋلادلىق (پىلە قۇرتى)</p>\n\n
+三化螟	sān huà míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئەۋلادلىق شال كېپىنىكى</p>\n\n
+三区的	sān qū de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ رايونلۇق</p>\n\n
+三十	sān shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇز (30)</p>\n\n
+三十一烷	sān shí yī wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گېنترىئاكونتان</p>\n\n
+三十三	sān shí sān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇز ئۈچ (33)</p>\n\n
+三十三日节	sān shí sān rì jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لاگب ئومېر (يەھۇدى دىنىدا بىر خىل ھېيت)</p>\n\n
+三十三碳烷	三十三［碳］烷； \nsān shí sān tàn wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىترىئاكونتان</p>\n\n
+三十个	sān shí gè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇز (دانە، تال)</p>\n\n
+三十二分休止符	sān shí èr fēn xiū zhǐ fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ سېكوندلۇق توختاش بەلگىسى</p>\n\n
+三十二分音符	sān shí èr fēn yīn fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ سېكوندلۇق نوتا بەلگىسى</p>\n\n
+三十二开	sān shí èr kāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">32 فورمات</p>\n\n
+三十二核	sān shí èr hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">32 يادرو</p>\n\n
+三十二烷	sān shí èr wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دوترىكونتان</p>\n\n
+三十二英尺音高	sān shí èr yīng chǐ yīn gāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">32 فۇتلۇق ئاۋاز ئېگىزلىكى</p>\n\n
+三十五烷	sān shí wǔ wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پېنتاترىئاكونتان</p>\n\n
+三十六	sān shí liù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇز ئالتە (36)</p>\n\n
+三十六分之一	sān shí liù fēn zhī yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">36 دىن بىر</p>\n\n
+三十六烷	sān shí liù wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گېكساترىكونتان</p>\n\n
+三十六策走为上策	sān shí liù cè zǒu wéi shàng cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېزرەك كەتكەن ياخشىراق؛ ئوتتۇز ئالتە چارىنىڭ ئەڭ ياخشىسى-كېتىش</p>\n\n
+三十六计走为上计	三十六计，走为上计； \nsān shí liù jì zǒu wéi shàng jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەممىدىن ياخشى چارە-كېتىش؛  قۇتۇلاي دېسەڭ تېز كەت؛ ئوتتۇزا ئالتە تەدبىر ئىچىدە، پەشنى قېقىپ كېتىش ھەممىدىن ئەلا</p>\n\n
+三十六计，走为上计	sānshíliù jì , zǒu wéi shàng jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇ يەردىن كەتكەن ھەممىدىن ئەلا؛ ئوتتۇز ئالتە چارىنىڭ ئەڭ ياخشىسى كېتىش</p>\n\n
+三十几	sān shí jǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇز نەچچە</p>\n\n
+三十分之一	sān shí fēn zhī yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇزدىن بىر</p>\n\n
+三十多度	sān shí duō dù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوتتۇز نەچچە گرادۇس</p>\n\n
+三十天预报	sān shí tiān yù bào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">30 كۈنلۈك مەلۇمات</p>\n\n
+三十年代	sān shí nián dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">30-يىللار</p>\n\n
+三十年风水轮流转	sān shí nián fēng shui lún liú zhuǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇ دۆلەت سەندە تۇرماس، بۇ مەينەت مەندە؛ ئاينىڭ ئون بەشى ئايدىڭ، ئون بەشى قاراڭغۇ</p>\n\n
+三十日弥撒	sān shí rì mí sā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">30 كۈنلۈك مىسسا</p>\n\n
+三十烷	sān shí wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاكونتان</p>\n\n
+三十而立	sān shí ér lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">30 ياشتا مۇستەقىل تۇرمۇش كەچۈرمەك</p>\n\n
+三单元	sān dān yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلېمېنت</p>\n\n
+三卤化物	sān lǔ huà wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىگالىد</p>\n\n
+三卤化硼	sān lǔ huà péng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بور ترىگالىد</p>\n\n
+三卤甲烷	sān lǔ jiǎ wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گالوفورم</p>\n\n
+三原子的	sān yuán zǐ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاتوملۇق</p>\n\n
+三原色印刷	sān yuán sè yìn shuā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ رەڭلىك باسما</p>\n\n
+三叉体	sān chā tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېن (بۇلۇتنىڭ سۆڭىكى)</p>\n\n
+三叉大麦	sān chā dà mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىسقا قىلتىرىقلىق بۇغداي</p>\n\n
+三叉戟的	sānchājǐ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۇچلۇق نەيزە</p>\n\n
+三叉戟饰	sānchājǐ shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۇچلۇق نەيزىسىمان بېزەك</p>\n\n
+三叉树	sān chā shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاچىلىق دەرەخ</p>\n\n
+三叉棕榈属	sān chā zōng lǘ shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىناكس پالمىسى ئۇرۇقدىشى</p>\n\n
+三叉神经痛	sān chā shén jīng tòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك نېرۋا ئاغرىش</p>\n\n
+三叉蕨属	sān chā jué shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسپىدىئۇم پاپوروتنىكى ئۇرۇقدىشى</p>\n\n
+三叉钻头	sān chā zuàn tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاچا ئۈشكە</p>\n\n
+三发飞机	sān fā fēi jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ موتورلۇق ئايروپىلان</p>\n\n
+三叔	sān shū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى تاغا</p>\n\n
+三取代基的	sān qǔ dài jī de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىسۇبستۇتلۇق، ئۈچ ئورۇن ئىگىلەيدىغان ئاساسقا ئىگە بولغان</p>\n\n
+三变数的	sān biàn shù de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ۋاريانتلىق</p>\n\n
+三叠系	sān dié xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاس سىستېمىسى</p>\n\n
+三叠纪	sān dié jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاس ئېراسى</p>\n\n
+三叠龟属	sān dié guī shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاسسوخېلىس تاشپاقىسى ئۇرۇقدىشى</p>\n\n
+三句半	sān jù bàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنجۈيبەن (بىر خىل ئەلنەغمە)</p>\n\n
+三句话不离本行	sān jù huà bù lí běn xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەركىم ئۆز ھۈنىرىنى سۆزلەر</p>\n\n
+三只手	sān zhī shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يانچۇقچى؛ قولى ئەگرى؛ قولى ئەگرى، يانچۇقچى</p>\n\n
+三台镇	三台镇【新疆各地】； sān tái zhèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنتەي بازىرى</p>\n\n
+三叶亚门	sān yè yà mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلوبىتا كەنجى تىپى</p>\n\n
+三叶人参	sān yè rén shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق يالغان ئادەمگىياھ</p>\n\n
+三叶伞斯珀	sān yè sǎn sī pò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق تاسپىئۇم ئوتى</p>\n\n
+三叶十大功劳	sān yè shí dà gōng láo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق ماخونىيە چاتقىلى</p>\n\n
+三叶吊种	三叶吊种（柳叶菜科）； sān yè diào zhǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق ئاسمىگۈل</p>\n\n
+三叶图	sān yè tú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقسىمان سخېما</p>\n\n
+三叶幼虫	sān yè yòu chóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلوبىتا قۇرتىنىڭ لىچىنكىسى</p>\n\n
+三叶星云	sān yè xīng yún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچقۇلاق تۇمانلىقى</p>\n\n
+三叶期	sān yè qī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماق مەزگىلى</p>\n\n
+三叶榆桔	sān yè yú jú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق پتېلېيە دەرىخى</p>\n\n
+三叶海棠素	sān yè hǎi táng sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تورىنگىن</p>\n\n
+三叶白粉藤	sān yè bái fěn téng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق سىسسۇس ئوتى</p>\n\n
+三叶白铁木	sān yè bái tiě mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق گىپېلات دەرىخى</p>\n\n
+三叶草	sān yè cǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇچقۇلاق؛ ئۈچقۇلاق؛ ئۈچقۇلاق ئوت</p>\n\n
+三叶草北方炭疽病	sān yè cǎo běi fāng tàn jū bìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېدىسىمان ئۆسۈملۈكلەرنىڭ شىمال كۆيدۈرگە كېسىلى</p>\n\n
+三叶草夜蛾	sān yè cǎo yè é； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچقۇلاق ئوت پەرۋانىسى</p>\n\n
+三叶草车轴草	三叶草／车轴草（豆科）； sān yè cǎo chē zhóu cǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچقۇلاق ئوت</p>\n\n
+三叶菜	sān yè cài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچقۇلاق</p>\n\n
+三叶蔷薇	sān yè qiángwéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق گىللېنىيە ئوتى</p>\n\n
+三叶藤桔	sān yè téng jú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق لاۋۇنگا سكاندېنس ئۆسۈملۈكى</p>\n\n
+三叶虫	sān yè chóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلوبىتا قۇرتى</p>\n\n
+三叶虫属	sān yè chóng shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلوبىتا قۇرتى ئۇرۇقدىشى</p>\n\n
+三叶虫幼虫期	sān yè chóng yòu chóng qī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلوبىتا قۇرتىنىڭ لىچىنكىسى</p>\n\n
+三叶虫类	sān yè chóng lèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلوبىتا قۇرتلىرى</p>\n\n
+三叶虫纲	sān yè chóng gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىىلوبىتا قۇرتى سىنىپى</p>\n\n
+三叶饰	sān yè shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقسىمان بېزەك</p>\n\n
+三叶香蜂叶	sān yè xiāng fēng yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق سېدرومېللا ئوتى</p>\n\n
+三号木高尔夫球棒	sān hào mù gāo ěr fū qiú bàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سپۇن (بىر خىل ياغاچ ساپلىق گولف توپى تايىقى)</p>\n\n
+三合一	sān hé yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچنىڭ بىرلەشمىسى</p>\n\n
+三合一宝石	sān hé yī bǎo shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرىكمە ئۈچ تەركىبلىك ياقۇت</p>\n\n
+三合一混合精饲料	sān hé yī hùn hé jīng sì liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەركىبلىك بىرىكمە بوغۇز</p>\n\n
+三合光谱	sān hé guāng pǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشمە سپېكتر</p>\n\n
+三合土	sān hé tǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېتون؛ ھاك بېتون</p>\n\n
+三合星	sān hé xīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كەررىلىك يۇلتۇز</p>\n\n
+三合板	sān hé bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەنەركە؛ ئۈچ قەۋەتلىك پەنەركە</p>\n\n
+三合模吹制的	sān hé mó chuí zhì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك قېلىپتا پۈۋدەپ ياسالغان</p>\n\n
+三合滤波器	sān hé lǜ bō qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قات دولقۇن سۈزگۈچ</p>\n\n
+三合能谱	sān hé néng pǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك ئېنېرگىيە سپېكترى</p>\n\n
+三合透镜	sān hé tòu jìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك لېنزا</p>\n\n
+三合，三合的	sān gě , sān gě de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قات</p>\n\n
+三名法	sān míng fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ نام بېرىش ئۇسۇلى؛ ئۈچ نام بېرىش قائىدىسى</p>\n\n
+三吐	sān tǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ پۈۋلەش (پۈۋلەپ چېلىنىدىغان چالغۇلاردا بىرلەشمە ئۈچ ئاھاڭ چىقىرىش)</p>\n\n
+三向导电体	sān xiàng dǎo diàn tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يۈنىلىشتە توك ئۆتكۈزگۈچ</p>\n\n
+三向的	sān xiàng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يۆنىلىشلىك</p>\n\n
+三向色性	sān xiàng sè xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىخروئىزم</p>\n\n
+三周的	sān zhōu de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەپتىلىك</p>\n\n
+三和企业集团	sān hé qǐ yè jí tuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سانۋا كارخانا گۇرۇھى</p>\n\n
+三和弦	sān hé xián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشمە ئاھاڭ</p>\n\n
+三和银行	sān hé yín háng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سانۋا بانكىسى</p>\n\n
+三品	sān pǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەبىئەت، ئۈچ مىزاج</p>\n\n
+三哥	sān gē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى ئاكا</p>\n\n
+三唇属	sān chún shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىخىلىيە دەرىخى</p>\n\n
+三唇形的	sān chún xíng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ گۈلتاجلىق</p>\n\n
+三唇瓣驼峰楝	sān chún bàn tuó fēng liàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىپار دەرىخى</p>\n\n
+三唑	sān zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئازول</p>\n\n
+三唑基	sān zuò jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئازولىل</p>\n\n
+三唑磷	sān zuò lín； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">فېنترىئازوفوس</p>\n\n
+三喷机	sān pēn jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ پۈركۈگۈچ موتورلۇق رېئاكتىۋ ئايروپىلان</p>\n\n
+三嗪	sān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئازىن</p>\n\n
+三嗪基	sān  jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئازىنىل</p>\n\n
+三囊花粉	sān náng huā fěn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تۆشۈكلۈك گۈل چېڭى</p>\n\n
+三四面体	sān sì miàn tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">34 يۈزلۈك</p>\n\n
+三回五次	sān huí wǔ cì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا-قايتا، تەكرار-تەكرار، يېنىشلاپ-يېنىشلاپ</p>\n\n
+三回羽状全裂的	sān huí yǔ zhuàng quán liè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قايتىلانما پەيسىمان تولۇق يېرىلغان</p>\n\n
+三回羽状半裂的	sān huí yǔ zhuàng bàn liè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قايتىلانما پەيسىمان يېرىم يېرىلغان</p>\n\n
+三回羽状的	sān huí yǔ zhuàng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قايتىلانما پەيسىمان</p>\n\n
+三因	sān yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ سەۋەب</p>\n\n
+三国	sān guó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بەگلىك (مىلادىيە 222-263 يىللىرىدىكى ۋېي، شۇ، ۋۇ بەگلىكلىرىنى كۆرسىتىدۇ)</p>\n\n
+三圃制	sān pǔ zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كاندۇكلۇق تېرىش تۈزۈمى؛ ئۈچ كاندۇك تۈزۈمى</p>\n\n
+三圈径向环流	三圈［径向］环流； \nsān quān jìng xiàng huán liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چەمبەرلىك (مېرىدىئانلىق)ئايلانما ئېقىم</p>\n\n
+三地址	sān dì zhǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئادرېس</p>\n\n
+三地址制	sān dì zhǐ zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئادرېس سىستېمىسى؛ ئۈچ ئادرېسلىق سىستېما</p>\n\n
+三地址指令	sān dì zhǐ zhǐ lìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئادرېسلىق بۇيرۇق</p>\n\n
+三地址码	sān dì zhǐ mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئادرېسلىق كود؛ ئۈچ ئادرېس كودى</p>\n\n
+三地址计算机	sān dì zhǐ jì suàn jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئادرېسلىق كومپيۇتېر</p>\n\n
+三坪派出所	sān píng pai chū suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنپىڭ ساقچىخانىسى</p>\n\n
+三型文法	sān xíng wén fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تىپلىق گرامماتىكا</p>\n\n
+三型的	sān xíng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىك</p>\n\n
+三型语言	sān xíng yǔ yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تىپلىق تىل</p>\n\n
+三垒	sān lěi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قورغان</p>\n\n
+三垒打	sān lěi dǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قورغاندىن توپ باشلاش</p>\n\n
+三城	sān chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ شەھەر</p>\n\n
+三基药	sān jī yào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسىي دورا</p>\n\n
+三堡乡	三堡乡【新疆各地】； sān bǎo xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستانا يېزىسى</p>\n\n
+三塘湖乡	三塘湖乡【新疆各地】； sān táng hú xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنتاڭخۇ يېزىسى</p>\n\n
+三声中部	sān shēng zhōng bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈينىڭ ئوتتۇرا قىسمى</p>\n\n
+三夏	sān xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياز ئايلىرى؛ يازلىق يىغىم، تېرىم ۋە پەرۋىش ئىشلىرى؛ يازنىڭ ئۈچ ئىشى</p>\n\n
+三大发明	sān dà fā míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چوڭ كەشپىيات</p>\n\n
+三大差别	sān dà chā bié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چوڭ پەرق</p>\n\n
+三大洋	sān dà yáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چوڭ ئوكيان (تىنچ ئوكيان، ھىندى ئوكيان، ئاتلانتىك ئوكيان)</p>\n\n
+三大纪律八项注意	sān dà jì lǜ bā xiàng zhù yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چوڭ ئىنتىزام، سەككىز دىقەت</p>\n\n
+三天不唱口生三年不做手生	三天不唱口生，三年不做手生； \nsān tiān bù chàng kǒu shēng sān nián bù zuò shǒu shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھۈنەرنى قىلمىساڭ، ھۈنىرىڭ داتلىشار</p>\n\n
+三天两头，三天两头儿	sāntiān liǎng tóu , sāntiān liǎng tóu ér； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەر كۈنى دېگۈدەك، دائىم دېگۈدەك، كۈنن ئارىلاپ</p>\n\n
+三天打鱼两天晒网	三天打鱼，两天晒网； \nsān tiān dǎ yú liǎng tiān shai wǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۈن بېلىق تۇتۇپ، ئىككى كۈن تور قۇرۇتماق؛  بىر كۈن ئىشلەپ، ئىككى كۈن تاشلاپ قويماق؛  بۈگۈن تۇتقان ئىشنى ئەتىسى تاشلاپ قويماق؛ ئۈچ كۈن بېلىق تۇتۇپ، ئىككى كۈن تور قۇرۇتۇپتۇ؛ ئۈچ كۈن بېلىق تۇتۇپ، ئىككى كۈن تور قۇرۇتماق؛ بىر كۈن ئىشلىسە ئىككى كۈن لاغايلاپ يۈرمەك</p>\n\n
+三天打鱼天晒网	sān tiān dǎ yú tiān shai wǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر كۈن ئىشلىسە ئىككى كۈن ئارام ئالماق؛ ئۈچ كۈن بېلىق تۇتۇپ، ئىككى كۈن تور قۇرۇتماق</p>\n\n
+三头六臂	sān tóu liù bì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەر قانچە كارامىتىڭ بولسىمۇ؛ ھەرقانچە كارامىتىڭ بولسىمۇ؛ ئون بېشىڭ بولسىمۇ؛ ھەممىگە قابىل؛  قولىدىن ھەممە ئىش كېلىدىغان؛  بىڭسى چوڭ</p>\n\n
+三头对案	sān tóu duì àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇناسىۋەتلىك ئۈچ تەرەپنى يۈزلەشتۈرۈپ؛ ھەقىقىي ئەھۋالنى ئېنىقلىماق</p>\n\n
+三头政治	sān tóu zhèng zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئۇمۋىرات، ئۈچ باشلىق سىياسەت</p>\n\n
+三头政治执政官	sān tóu zhèng zhì zhí zhèng guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئۇمۋىر، ئۈچ باشلىق سىياسەتنى ئىجرا قىلغۇچى ئەمەلدار</p>\n\n
+三头政治的	sān tóu zhèng zhì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئۇمۋىرال</p>\n\n
+三头烛台	sān tóu zhú tái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ باشلىق قەندىل، ئۈچ باشلىق شامدان، ئۈچ باشلىق چىراغپاي</p>\n\n
+三头的	sān tóu de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ باشلىق</p>\n\n
+三头肌	sān tóu jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ باشلىق مۇسكۇل</p>\n\n
+三头螺纹	sān tóu luó wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ باشلىق رېزبا</p>\n\n
+三套装	sān tào zhuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ياقىلىق بىر يۈرۈش كىيىم</p>\n\n
+三姑六婆	sān gū liù pó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناباب ئىشلار بىلەن شۇغۇللانغۇچى ئايال، كاززاپ خوتۇن</p>\n\n
+三子树	sān zǐ shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالېۋرىتېس دەرىخى</p>\n\n
+三孔亚目	sān kǒng yà mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىپىلېيە قۇلۇلىسى كەنجى ئەترىتى</p>\n\n
+三孔亚部	sān kǒng yà bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىپىلېيە قۇلۇلىسى كەنجى بۆلۈمى</p>\n\n
+三孔插座	sān kǒng chā zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تۆشۈكلۈك روزېتكا</p>\n\n
+三字母组	sān zì mǔ zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىگرامما</p>\n\n
+三季稻	sān jì dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ پەسىللىك شال</p>\n\n
+三安培计方法	sān ān péi jì fāng fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئامپېرمېتر ئۇسۇلى</p>\n\n
+三官能团的	sān guān néng tuán de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ فۇنكسىيىلىك</p>\n\n
+三宝	sān bǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىراتنا (بۇددانىڭ ئۈچ ئەنگۈشتىرى)</p>\n\n
+三室的	sān shì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بۆلمىلىك</p>\n\n
+三宫六苑	sān gōng liù yuàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پادىشاھ ھەرەمخانىسى</p>\n\n
+三宫回族乡	三宫回族乡【新疆各地】； sān gōng huí zú xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنگۇڭ خۇيزۇ يېزىسى</p>\n\n
+三宫派出所	sān gōng pai chū suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنگۇڭ ساقچىخانىسى</p>\n\n
+三宫组	sān gōng zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بۇرج گۇرۇپپىسىى</p>\n\n
+三家村	sān jiā cūn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىچىك يېزا، كىچىك قىشلاق، كىچىك مەھەللە</p>\n\n
+三寸之不烂舌	sān cùn zhī bù làn shé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گەپكە ئۇستىلىق؛  سۆزمەنلىك</p>\n\n
+三寸之舌	sān cùn zhī shé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گەپكە ئۇستىلىق؛  سۆزمەنلىك</p>\n\n
+三寸之舌，三寸不烂之舌	sān cùn zhī shé , sān cùn bù làn zhī shé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چېچەنلىك، پاساھەت، ناتىقلىق؛ ئوبدان يېتىلگەن تىل؛ گەپكە ئۇستىلىق؛ سۆزمەنلىك قابىلىيىتى</p>\n\n
+三寸金莲	sān cùn jīn lián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونا زاماندىكى ئاياللارنىڭ تېڭىلغان پۇتى</p>\n\n
+三对基因杂种	sān duì jī yīn zá zhǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ جۈپ گېنلىق شالغۇت</p>\n\n
+三射	sān shè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ رادىئۇسلۇق</p>\n\n
+三小叶翠雀花	sān xiǎo yè cuì què huā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق دېلفىنىئۇم ئوتى</p>\n\n
+三小叶达里木	sān xiǎo yè dá lǐ mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوپۇرماقلىق تاررىئېتىيە دەرىخى</p>\n\n
+三尖瓣	sān jiān bàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۇچلۇق كلاپان</p>\n\n
+三尖锥齿鲨	sān jiān zhuī chǐ shā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۇچلۇق چىشلىق ئاكۇلا</p>\n\n
+三尖齿	sān jiān chǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۇچلۇق چىش</p>\n\n
+三尺门里	sān chǐ mén lǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆيدە، ئۆي ئىچىدە، ئائىلە ئىچىدە</p>\n\n
+三尾褐凤蝶	sān wěi hè fèng dié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۇڭچۇەن قوڭۇر كېپىنىكى</p>\n\n
+三尾鱼	sān wěi yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇيرۇقلۇق بېلىق</p>\n\n
+三尾鲷	sān wěi diāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇيرۇقلۇق قىزىل قاۋان بېلىق</p>\n\n
+三层三明治	sān céng sān míng zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قات ساندۋىچ</p>\n\n
+三层二极管	sān céng èr jí guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قەۋەتلىك دىئود</p>\n\n
+三层刺网	sān céng cì wǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قەۋەتلىك تور</p>\n\n
+三层坡度减小筛	sān céng pō dù jiǎn xiǎo shāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قات يانتۇلۇقنى كىچىكلىتىش تاسقىغۇچى</p>\n\n
+三层桌	sān céng zhuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قات ئىش ئۈستىلى</p>\n\n
+三层桨战船计划	sān céng jiǎng zhàn chuán jì huà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېرارخىيە پلانى</p>\n\n
+三层甲板舰	sān céng jiǎ bǎn jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قەۋەت پالۇبىلىق كرېيسېر، ئۈچ قەۋەت پالۇبىلىق ھەربىي پاراخوت</p>\n\n
+三层甲板船	sān céng jiǎ bǎn chuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قەۋەت پالۇبىلىق كېمە</p>\n\n
+三层的	sān céng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قەۋەتلىك</p>\n\n
+三岁冠顶海豹	sān suì guàn dǐng hǎi bào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇرنېر خۇد تيۇلېنى</p>\n\n
+三岁琴海豹	sān suì qín hǎi bào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇرنېر خارپ تيۇلېنى</p>\n\n
+三岁驹	sān suì jū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۆنەن</p>\n\n
+三岔口镇	三岔口镇【新疆各地】； sān chà kǒu zhèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاچال بازىرى</p>\n\n
+三岔路	sān chà lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاچا يول، ئاچال</p>\n\n
+三岔路口	sān chà lù kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاچا يول؛ ئۈچ ئاچا يول، ئاچال</p>\n\n
+三岛式船	sān dǎo shì chuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئارال ئۇسلۇبىدىكى كېمە</p>\n\n
+三岛法	sān dǎo fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىشىما ئۇسۇلى</p>\n\n
+三峡	sān xiá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بوغۇز، سەنمېنشيا</p>\n\n
+三峡水利枢纽二期工程	sān xiá shuǐ lì shū niǔ èr qī gōng chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنشيا سۇچىلىق تۈگۈنى 2-قەرەللىك قۇرۇلۇشى</p>\n\n
+三嵴牙型的	sān  yá xíng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قىرلىق چىشسىمان</p>\n\n
+三州的	sān zhōu de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ شتات، ئۈچ شتاتقا تەۋە</p>\n\n
+三工乡	三工乡【新疆各地】； sān gōng xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنگۇڭ يېزىسى</p>\n\n
+三工制	sān gōng zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك سىستېما</p>\n\n
+三工河哈萨克族乡	三工河哈萨克族乡【新疆各地】； sān gōng hé hā sà kè zú xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنگۇڭ قازاق يېزىسى</p>\n\n
+三带裂吻蛇	sān dài liè wěn shé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تررىمېرورىنۇس ترىئېنىئاتۇس يىلىنى</p>\n\n
+三干牌利口酒	sān gàn pái lì kǒu jiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاپېلسىن بىلەن تەمى تەڭشەلگەن شاراب</p>\n\n
+三年不上门当亲也不亲	三年不上门，当亲也不亲； \nsān nián bù shàng mén dāng qīn yě bù qīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توغقانى تاشلىساڭ يات بولار، تۆمۈرنى تاشلىساڭ دات (بولۇر)</p>\n\n
+三年五载	sān nián wǔ zǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆت-بەش يىل؛ تۆت-بەش يىل؛  بىر نەچچە يىل؛ بىر نەچچە يىل، تۆت-بەش يىل؛ بىر نەچچە يىل</p>\n\n
+三年桐	sān nián tóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇڭەۇ دەرىخى</p>\n\n
+三年烂饭买匹马	sān nián làn fàn mǎi pǐ mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇرۇچتىن پوستەك پۈتەر</p>\n\n
+三年藓科	sānnián xiǎn kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كلىماتسىئۇم مۇخلىرى ئائىلىسى</p>\n\n
+三底彩色片	sān dǐ cǎi sè piàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەگ رەڭلىك كىنوپليونكا</p>\n\n
+三废	sān fèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تاشلاندۇق</p>\n\n
+三废综合利用项目	“三废”综合利用项目； \nsān fèi zōng hé lì yòng xiàng mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 كېرەكسىزدىن ھەر تەرەپلىمە پايدىلىنىش تۈرى</p>\n\n
+三度灼伤	sān dù zhuó shāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى دەرىجىلىك كۆيۈك</p>\n\n
+三度空间	sān dù kōng jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۆلچەملىك بوشلۇق؛ ئۈچ دىمېنسىئونال بوشلۇق</p>\n\n
+三度音栓	sān dù yīn shuān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاۋاز ماژورى</p>\n\n
+三度音程	sān dù yīn chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاۋاز ماژورى</p>\n\n
+三张纸牌赌	sān zhāng zhǐ pái dǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قارتا بىلەن ئوينىلىدىغان قىمار</p>\n\n
+三弦	sān xián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇد، سېھتار، سەنشيەن (چالغۇ)</p>\n\n
+三弦书	sān xián shū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇد تەڭكەش قىلىنىدىغان ئەلنەغمە</p>\n\n
+三弧饰	sān hú shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يايسىمان بېزەك</p>\n\n
+三形	sān xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورف</p>\n\n
+三形性	sān xíng xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىزم</p>\n\n
+三形的	sān xíng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفلۇق؛ ترىفورمىلىق</p>\n\n
+三彩	sān cǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىڭ دەۋرىدىكى ئۈچ خىل رەڭلىك ساپال قاچىلار</p>\n\n
+三径间式	sān jìng jiān shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دىئاستىل</p>\n\n
+三心二意	sān xīn èr yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەم ئۇنداق؛ تەۋرىنىپ قالماق؛ بىردەم مۇنداق بولماق؛ ئالا كۆڭۈللۈك قىلماق؛  دېلىغۇل بولماق؛  ھەمدەم خىياللىق؛ ئالا كۆڭۈللۈك قىلماق</p>\n\n
+三心二意，三心两意	sān xīn èr yì , sān xīn liǎng yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەم ئۇنداق، بىردەم مۇنداق بولماق؛ تەۋرىنىپ قالماق؛ ئالا كۆڭۈللۈك قىلماق</p>\n\n
+三心平圆拱	sān xīn píng yuán gǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مەركەزلىك دۈگىلەك ئەگمە</p>\n\n
+三心拱	sān xīn gǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مەركەزلىك ئەگمە</p>\n\n
+三心皮的	sān xīn pí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۆزەك قاپلىق</p>\n\n
+三态	sān tai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەت</p>\n\n
+三态性	sān tai xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىزم</p>\n\n
+三态总线	sān tai zǒng xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەتلىك غول لىنىيە</p>\n\n
+三态控制	sān tai kòng zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەتلىك كونترول</p>\n\n
+三态现象	sān tai xiàn xiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىزم، ئۈچ ھالەتلىك ھادىسە</p>\n\n
+三态缓冲器	sān tai huǎn chōng qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەتلىك بۇففېر</p>\n\n
+三态输出	sān tai shū chū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەتلىك چىقىرىش</p>\n\n
+三态逻辑	sān tai luó jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەت لوگىكىسى</p>\n\n
+三态门	sān tai mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھالەتلىك قاپقاق</p>\n\n
+三思	sān sī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا-قايتا ئويلانماق</p>\n\n
+三思而行	sān sī ér xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوبدان ئويلاپ ئىش قىل؛  يەتتە ئۆلچەپ بىر كەس؛ يەتتە ئۆلچەپ بىر كەس</p>\n\n
+三性花同株的	sān xìng huā tóng zhū de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇكەممەل گۈل، ئاتىلىق گۈل ۋە ئانىلىق گۈل بىر تۈپتە بولغان</p>\n\n
+三性花异株的	sān xìng huā yì zhū de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇكەممەل گۈل، ئاتىلىق گۈل ۋە ئانىلىق گۈل باشقا-باشقا تۈپتە بولغان</p>\n\n
+三戊胺	sān wù àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئامىلامىن</p>\n\n
+三成	sān chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">30 پىرسەنت</p>\n\n
+三战两胜	sān zhàn liǎng shèng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئېلىشىشنىڭ ئىككىسىدە يەڭمەك</p>\n\n
+三戟刑架	sān jǐ xíng jià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ پۇتلۇق جازالاش جازىسى</p>\n\n
+三折喇叭形反射器天线	sān shé lǎ ba xíng fǎn shè qì tiān xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قاتلىنىدىغان كانايسىمان رېفلېكتور ئانتېننا</p>\n\n
+三折肱为良医	三折肱，为良医； \nsān shé gōng wéi liáng yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تولا كېسەل بولغان كىشى تىۋىپ بولار؛  ئۈچ قوي سويغان قاسساپ بوپتۇ</p>\n\n
+三拇指	sān mǔ zhǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئورتا قول</p>\n\n
+三指沙蚕科	sān zhǐ shā cán kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بارماقلىق دېڭىز سازىنى</p>\n\n
+三指的	sān zhǐ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بارماقلىق</p>\n\n
+三排桨古战舰	sān pái jiǎng gǔ zhàn jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قاتار ئەشكەكلىك قەدىمكى جەڭ كېمىسى</p>\n\n
+三描礼士人	sān miáo lǐ shì rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سامباللار</p>\n\n
+三描礼士族	sān miáo lǐ shì zú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سامبال مىللىتى</p>\n\n
+三描礼士语	sān miáo lǐ shì yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سامبال تىلى</p>\n\n
+三摩四多	sān mó sì duō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساماخىتا</p>\n\n
+三摩地	sān mó dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سامادى</p>\n\n
+三收	sān shōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قېتىم ھوسۇل ئېلىش</p>\n\n
+三故六婆	sān gù liù pó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناباب ئىشلار بىلەن شۇغۇللانغۇچى ئايال؛ كاززاپ خوتۇن</p>\n\n
+三教九流	sān jiào jiǔ liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈرلۈك دىنى مەزھەبلەر؛ خىلمۇخىل ئىلىم ئېقىملىرى؛  ھەر ساھە-ھەر كەسىپتىكىلەر. ئۈچ مەسلەك؛  توققۇز ئېقىم؛ تۈرلۈك دىنىي مەزھەپلەر؛ خىلمۇخىل ئېقىملار</p>\n\n
+三敛	sān liǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاۋېرروئا بىلىمبى موزىسى</p>\n\n
+三文科	sān wén kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مەدەنىيەت ئىلمى</p>\n\n
+三文鱼沙拉特	sān wén yú shā lā tè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رەڭلىك بېلىق سالاتى</p>\n\n
+三斑毛腹鱼	sān bān máo fù yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىخوگاستېر بېلىقى</p>\n\n
+三斜晶体	sān xié jīng tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىكلىنىك كرىستال</p>\n\n
+三斜晶系	sān xié jīng xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىكلىنىك سىستېما</p>\n\n
+三斜石	sān xié shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمېرىت</p>\n\n
+三斜磷钙石	sān xié lín gài shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مونېتىت</p>\n\n
+三斜磷钙铁矿	sān xié lín gài tiě kuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاناپائىت</p>\n\n
+三斜磷锌矿	sān xié lín xīn kuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاربۇتتىت</p>\n\n
+三斜闪石	sān xié shǎn shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېنىگماتىت</p>\n\n
+三斜霞石	sān xié xiá shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كارنېگىئېئىت</p>\n\n
+三斜，三斜的	sān xié , sān xié de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئانورتىك؛ ترىكلىنىك</p>\n\n
+三方	sān fāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپ</p>\n\n
+三方协商机制	sān fāng xié shāng jī zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 تەرەپ كېڭىشىش مېخانىزمى</p>\n\n
+三方委员会	sān fāng wěi yuán huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپلىك ھەيئەت</p>\n\n
+三方拉线	sān fāng lā xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپتىن سىم تارتىش، ئۈچ تەرەپلىك تارتما سىم</p>\n\n
+三方拉线的定位	sān fāng lā xiàn de dìng wèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپلىك تارتما سىمنىڭ ئورنىنى بېكىتىش</p>\n\n
+三方通话	sān fāng tōng huà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپ تېلېفونلىشىش</p>\n\n
+三方通话业务	sān fāng tōng huà yè wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپ تېلېفونلىشىش كەسپى</p>\n\n
+三方，三方的	sān fāng , sān fāng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپلىك؛ ئۈچ تەرەپنىڭ</p>\n\n
+三无人员	sān wú rén yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوق خادىملار</p>\n\n
+三日敬礼	sān rì jìng lǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۈنلۈك ئېھتىرام</p>\n\n
+三日热	sān rì rè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۈنلۈك قىزىتما</p>\n\n
+三日班	sān rì bān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۈندە بىر نۆۋەتلىك ئىسمېنا</p>\n\n
+三日疟	sān rì nüè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۈندە بىر تۇتىدىغان بەزگەك</p>\n\n
+三日疟原虫	sān rì nüè yuán chóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەزگەك پلازمودىيىسى</p>\n\n
+三日病	sān rì bìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كۈنلۈك كېسەل</p>\n\n
+三时间估算	sān shí jiān gū suàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ۋاقىتلىق تەقرىبىي ھېسابلاش</p>\n\n
+三明市	三明市【国内省市】； sān míng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنمىڭ شەھىرى</p>\n\n
+三明治	sān míng zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساندۋىچ</p>\n\n
+三明治吧	sān míng zhì bā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساندۋىچ قاۋاقخانىسى</p>\n\n
+三星体	sān xīng tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاستېر، ئۈچ يۇلتۇز جىسمى</p>\n\n
+三星际	sān xīng jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستېرىزم</p>\n\n
+三春	sān chūn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باھارنىڭ ئۈچ ئېيى</p>\n\n
+三春靠一冬三早当一工	三春靠一冬，三早当一工； \nsān chūn kào yī dōng sān zǎo dāng yī gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش ۋاقىتىدا ئۇل سالساڭ ئەتىيازلىق تېىلغۇغا، بۇغداي، قۇناق گۇرۇچلار پاتماي قالار ئامبارغا</p>\n\n
+三昧	sān mèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سامادى؛ ماھىيەت؛ مەخپىيەت؛ مەخپىيەت، ماھىيەت، يۈرەكتىكى پىكىرلەر، يۈرەك سىرلىرى؛ يۈرەك سىرلىرى؛ يۈرەكتىكى پىكىرلەر</p>\n\n
+三晶	sān jīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىزم</p>\n\n
+三晶现象	sān jīng xiàn xiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىزم</p>\n\n
+三晶的	sān jīng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىمورفىك</p>\n\n
+三更	sān gēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى جىڭ (يېرىم كېچىدىكى سائەت 12 بولغان ۋاقىت)</p>\n\n
+三更半夜	sān gēng bàn yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نىسپى شەب؛ يېرىم كېچىدە، تۈن نىسپى بولغاندا</p>\n\n
+三月	sān yuè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مارت؛ 3-ئاي؛ مارت، 3-ئاي</p>\n\n
+三月桂精	sān yuè guì jīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىلائۇرىن</p>\n\n
+三朋四友	sān péng sì yǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەل-ئاغىنە، يارۇ بۇرادەرلەر؛  دوست-يارەن؛ ئەل-ئاغىنىلەر؛ دوست-يارەنلەر</p>\n\n
+三朝元老	sān cháo yuán lǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ دەۋرنىڭ مۆتىۋىرى، ئۈچ پادىشالىقنى بېشىدىن كەچۈرگەن كىشى؛ ئۈچ سۇلالە ئەربابى؛  دەۋرمۇ دەۋر ئەمەلدار بولماق</p>\n\n
+三末多	sān mò duō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سامماتا</p>\n\n
+三机摄影术	sān jī shè yǐng shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كامېرىلىق فوتوگرافىيە</p>\n\n
+三杂交种	sān zá jiāo zhǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ مەنبەلىك شالغۇت</p>\n\n
+三权分立	sān quán fēn lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھوقۇقنىڭ بۆلۈنۈشى (قانۇن، مەمۇرىيەت، ئەدلىيىنىڭ مۇستەقىل بولۇشى)</p>\n\n
+三杆定位仪，三杆分度仪	sān gān dìngwèi yí , sān gān fēn dù yí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قەدەملىك پروتراكتور</p>\n\n
+三条保障线	“三条保障线”； sān tiáo bǎo zhàng xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 كاپالەت سىستېمىسى؛ ئۈچ كاپالەت سىستېمىسى</p>\n\n
+三条纹军官	sān tiáo wén jūn guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ سىزىقلىق ئوفىتسېر (ئاقش دېڭىز ئارمىيىسىنىڭ كوماندېرى)</p>\n\n
+三板	sān bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنبەن (بىر خىل قېيىق)</p>\n\n
+三极四极管振荡器	三极-四极管振荡器； \nsān jí sì jí guǎn zhèn dàng qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئود-تېترودلۇق ئوسسىللياتور</p>\n\n
+三极坐标	sān jí zuò biāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق كوئوردېنات</p>\n\n
+三极开关	sān jí kāi guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق ۋېكليۇچاتېل؛ ئۈچ قۇتۇپلۇق ۋىكليۇچاتېل</p>\n\n
+三极放大器	sān jí fàng dà qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق كۈچەيتكۈچ</p>\n\n
+三极树	sān jí shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق دەرەخ</p>\n\n
+三极电子管	sān jí diàn zǐ guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق ئېلېكترون لامپا؛ ئۈچ قۇتۇپلۇق ئېلېكترون لامپا</p>\n\n
+三极管	sān jí guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئود، ئۈچ قۇتۇپلۇق لامپا؛ 3 قۇتۇپلۇق لامپا؛ ئۈچ قۇتۇپلۇق لامپا؛ ئۈچ قۇتۇپلۇق لامپا</p>\n\n
+三极管倍频器	sān jí guǎn bèi pín qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىلىق چاستوتا ھەسسىلىگۈچ</p>\n\n
+三极管回授式检波器	sān jí guǎn huí shòu shì jiǎn bō qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇلترائۇدىئون، ئۈچ قۇتۇپلۇق لامپىلىق يىغىۋالغۇچى دولقۇن تەكشۈرگۈچ</p>\n\n
+三极管放大器	sān jí guǎn fàng dà qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىلىق كۈچەيتكۈچ</p>\n\n
+三极管检波器	sān jí guǎn jiǎn bō qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىلىق دولقۇن تاسقىغۇچ</p>\n\n
+三极管气体激光器	sān jí guǎn qì tǐ jī guāng qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئودلۇق لازېر</p>\n\n
+三极管混频器	sān jí guǎn hùn pín qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىلىق چاستوتا ئارىلاشتۇرغۇچ</p>\n\n
+三极管混频管	sān jí guǎn hùn pín guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىلىق ئارىلاشتۇرۇش چاستوتا لامپىسى</p>\n\n
+三极管激光器	sān jí guǎn jī guāng qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىلىق لازېر ئەسۋابى</p>\n\n
+三极管线性整流器	sān jí guǎn xiàn xìng zhěng liú qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىركىفىيېر، ترىئودلۇق سىملىق ئېقىم توغرىلىغۇچ</p>\n\n
+三极管钳位电路	sān jí guǎn qián wèi diàn lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئودلۇق قىسقۇچ توك يولى</p>\n\n
+三极管饱和状态	sān jí guǎn bǎo hé zhuàng tai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق لامپىنىڭ تويۇنۇش ھالىتى</p>\n\n
+三极结构	sān jí jié gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق قۇرۇلما</p>\n\n
+三极，三极的	sān jí , sān jí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قۇتۇپلۇق</p>\n\n
+三枝形	sān zhī xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاچىسىمان</p>\n\n
+三枝钩虫	sān zhī gōu chóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېنوپورۇس قۇرتى</p>\n\n
+三枝钩虫属	sān zhī gōu chóng shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېنوپورۇس قۇرتى ئۇرۇقدىشى</p>\n\n
+三柱门	sān zhù mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تۈۋرۈكلۈك ۋاراتا</p>\n\n
+三标线的	sān biāo xiàn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ يوللۇق</p>\n\n
