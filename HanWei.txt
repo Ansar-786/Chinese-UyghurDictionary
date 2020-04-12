@@ -3312,3 +3312,690 @@ Y射线	Y shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8
 三Ｋ党	sān K dǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۇ كلۇكس كلان</p>\n\n
 三Ｋ党主义	sān K dǎng zhǔyì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۇ كلۇكسىزم</p>\n\n
 三Ｋ党党员	sān K dǎng dǎngyuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۇ كلۇكس كلانچىلار</p>\n\n
+上	shàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرى؛ كونا؛ ئالىي؛ ئۈستى؛ ئۆتكەن؛ يۇقىرى؛ ئاسمان، كۆ؛ مەلۇم سانغا ياكى دەرىجىگە يەتكەنلىكىنى بىلدۈرىدۇ؛ ئۈست، ئۈستۈن، يۇقىرى، بۈيۈك، ئالىي، يۇقىرى سۈپەتلىك، ئەڭ ياخشى، بىرىنچى؛ كۆپەيمەك، قوشۇلماق، ئاۋۇماق؛ پېشقەدەم، ياشانغان، چوڭلار؛ ئۈستى، يۇقىرى；-دا،-دە،-تا،-تە، جەھەتتە؛ ئالدىنقى، ئۆتكەن؛ ئەزىز، مۆھتەرەم؛ ئەڭ ياخشى ئالدىنقى؛ ئېغىر، قاتتىق، چوڭ؛ ياخشى ، ئەڭ ياخشى؛ بارماق، چىقماق؛ ئالدانماق، قىلت؛ يۇقىرى سۈپەتلىك؛ ئالىي، يۇقىرى، ئۈستۈنكى؛ ئەلا، ئەلا دەرىجىلىك، بىرىنچى؛ يۇقىرىدىكى ، ئۈستىدىكى؛ ھۆرمەتلىك، قەدىرلىك؛ ھەرىكەتنىڭ يۆنىلىشىنى بىلدۈرىدۇ</p>\n\n
+上上	shàng shàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى؛ ئەڭ ياخشى؛ ئىلگىرىكى؛ بۇرۇنقى، ئىلگىرىكى، ئالدىنقى؛ ئەڭ ياخشى بۇرۇنقى</p>\n\n
+上上大吉	shàng shàng dà jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەلىيى كەلمەك، ئامەت كەلمەك، پېشانىسى ئوڭ</p>\n\n
+上上宾	shàng shàng bīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەزىز مېھمان؛ ھۆرمەتلىك مېھمان</p>\n\n
+上上级	shàng shàng jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى؛ يۇقىرى دەرىجىلىك</p>\n\n
+上下	shàng xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەرق؛ تەخمىنەن؛ ئۆپچۆرىسىدە؛ يۇقىرى-تۆۋەن؛ يۇقىرى ۋە تۆۋەن؛ يۇقىرىدىن تۆۋەنگىچە؛ چىقىش ۋە چۈشۈش؛ بېشىدىن ئايىغىغىچە؛ يۇقىرى-تۆۋەن، بېشىدىن ئايىغىغىچە</p>\n\n
+上下三番	shàng xià sān fān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدىن تۆۋەنگە ئۈچ قاتلىماق (ئەلنەغمە ئاتالغۇسى)</p>\n\n
+上下交替的	shàng xià jiāo tì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن ئالمىشىپ تۇرىدىغان</p>\n\n
+上下位锁	shàng xià wèi suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆتۈرۈلۈش-چۈشۈش قۇلۇپى</p>\n\n
+上下其手	shàng xià qí shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساماننىڭ تېگىدىن سۇ يۈگۈرتمەك؛  كۆز بويامچىلىق قىلماق؛  مەككارلىق قىلماق؛  ئالدامچىلىق قىلماق؛ كۆز بويامچىلىق قىلماق؛ ئالدامچىلىق قىلماق؛ ساماننىڭ تېگىدىن سۇ يۈگۈرتمەك</p>\n\n
+上下层窗空间	shàng xià céng chuāng kōng jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن دېرىزىلەر ئارىسىدىكى بوشلۇق</p>\n\n
+上下层窗间墙	shàng xià céng chuāng jiān qiáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن دېرىزىلەر ئارىسىدىكى تام</p>\n\n
+上下弦平均高潮间隙	shàng xià xián píng jūn gāo cháo jiàn xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاينىڭ ئالدىنقى ۋە كېيىنكى يېرىم چەمبەر ھالىتى ۋاقتىدىكى ئەڭ يۇقىرى سۇ كۆتۈرۈلۈش ئارىلىقى</p>\n\n
+上下往复操作	shàng xià wǎng fù cāo zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن ۋە ئالدى-ئارقىغا ھەرىكەتلەندۈرمەك</p>\n\n
+上下往复运动	shàng xià wǎng fù yùn dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن ۋە ئالدى-ئارقىغا ھەرىكەتلەنمەك</p>\n\n
+上下打量	shàng xià dǎ liang； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېشىدىن ئايىغىغىچە قاراپ چىقماق، سىنچىلاپ قاراپ چىقماق</p>\n\n
+上下文	shàng xià wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست؛ ماقالىنىڭ باش-ئايىغى؛  كونتېكىس؛  پۈتۈن بىر جۈملە؛ كونتېكسىت، ماقالىنىڭ باش-ئايىغى، پۈتۈن بىر جۈملە</p>\n\n
+上下文中的	shàng xià wén zhōng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكسىتتىكى</p>\n\n
+上下文关系	shàng xià wén guān xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست مۇناسىۋىتى</p>\n\n
+上下文关键字	shàng xià wén guān jiàn zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىسىت ئاچقۇچلۇق سۆزى</p>\n\n
+上下文关键词索引	shàng xià wén guān jiàn cí suǒ yǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست ئاچقۇچلۇق سۆزى ئىندېكسى</p>\n\n
+上下文内关键字	shàng xià wén nèi guān jiàn zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتلىك ئىچكى ئاچقۇچلۇق سۆز</p>\n\n
+上下文内关键字母	shàng xià wén nèi guān jiàn zì mǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتلىك ئىچكى ئاچقۇچلۇق ھەرپ</p>\n\n
+上下文内关键字索引	shàng xià wén nèi guān jiàn zì suǒ yǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكسىت ئىچىدىكى مۇناسىۋەتلىك كۇنۇپكا ئىندېكسى</p>\n\n
+上下文功能	shàng xià wén gōng néng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست ئىقتىدارى</p>\n\n
+上下文外	shàng xià wén wai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستتىن سىرت</p>\n\n
+上下文外关键字	shàng xià wén wai guān jiàn zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست سىرتقى ئاچقۇچلۇق سۆزى</p>\n\n
+上下文外关键词索引	shàng xià wén wai guān jiàn cí suǒ yǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست سىرتقى ئاچقۇچ لۇق سۆزى ئىندېكسى</p>\n\n
+上下文意义	shàng xià wén yì yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست ئەھمىيىتى</p>\n\n
+上下文无关	shàng xià wén wú guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز</p>\n\n
+上下文无关分支规则	shàng xià wén wú guān fēn zhī guī zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز تارماق قائىدە</p>\n\n
+上下文无关分析程序	shàng xià wén wú guān fēn xī chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز ئانالىز پروگراممىسى</p>\n\n
+上下文无关文法	shàng xià wén wú guān wén fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز گرامماتىكا</p>\n\n
+上下文无关文法产生式	shàng xià wén wú guān wén fǎ chǎn shēng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز گرامماتىكا شەكىللەندۈرۈش شەكلى</p>\n\n
+上下文无关文法推断	shàng xià wén wú guān wén fǎ tuī duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز ھۆكۈم</p>\n\n
+上下文无关的程序	shàng xià wén wú guān de chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز پروگرامما</p>\n\n
+上下文无关短语结构规则	shàng xià wén wú guān duǎn yǔ jié gòu guī zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەت سىز سۆز بىرىكمىسى قۇرۇلما قائىدىسى</p>\n\n
+上下文无关语言	shàng xià wén wú guān yǔ yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز تىل</p>\n\n
+上下文无关重定规则	shàng xià wén wú guān zhòng dìng guī zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز قايتا بېكىتىش قائىدىسى</p>\n\n
+上下文有关	shàng xià wén yǒu guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتلىك</p>\n\n
+上下文有关分析程序	shàng xià wén yǒu guān fēn xī chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتلىك ئانالىز پروگراممسى</p>\n\n
+上下文有关文法	shàng xià wén yǒu guān wén fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتلىك گرامماتىكا</p>\n\n
+上下文有关语言	shàng xià wén yǒu guān yǔ yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتلىك تىل</p>\n\n
+上下文检索	shàng xià wén jiǎn suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست ئىزدەش</p>\n\n
+上下文特征	shàng xià wén tè zhēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست ئالاھىدىلىكى</p>\n\n
+上下文相关性	shàng xià wén xiāng guān xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست باغلىنىشچانلىقى</p>\n\n
+上下文编辑	shàng xià wén biān jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست تەھرىرلەش</p>\n\n
+上下文说明	shàng xià wén shuō míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست چۈشەندۈرۈش</p>\n\n
+上下文转换	shàng xià wén zhuǎn huàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست ئالماشتۇرۇش</p>\n\n
+上下文限制	shàng xià wén xiàn zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىست چەكلىمىسى</p>\n\n
+上下浮动	shàng xià fú dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لەپپەڭشىپ تۇرماق، لەپپەڭشىپ لەيلەپ تۇرماق</p>\n\n
+上下滑动吊窗	shàng xià huá dòng diào chuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن سىيرىلما دېرىزە</p>\n\n
+上下眼丹	shàng xià yǎn dān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆز قىزىرىپ ئىششىش كېسىلى</p>\n\n
+上下级关系	shàng xià jí guān xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەننىڭ مۇناسىۋىتى</p>\n\n
+上下翻腾	shàng xià fān téng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەم كۆتۈرۈلۈپ، دەم چۈشۈپ تۇرماق؛ ئۆرلەپ-پەسىيىپ تۇرماق</p>\n\n
+上下限	shàng xià xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى-تۆۋەن چەك</p>\n\n
+上下颌牙齿不同	shàngxià hé yáchǐ bùtóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ۋە ئاستىنقى چىشلار ماسلاشماسلىق</p>\n\n
+上下颠倒的	shàng xià diān dǎo de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەتۈر قويۇلغان، تەتۈر تىزىلغان</p>\n\n
+上丘	shàng qiū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى دۆڭچە</p>\n\n
+上中天	shàng zhōng tiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى كۇلمىناتسىيە</p>\n\n
+上主静脉	shàng zhǔ jìng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇپراكاردىنال ۋېنا</p>\n\n
+上举	shàng jǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇنىڭ يۇقىرىغا بولغان ناپورى؛ يۇقىرىغا سىلجىماق</p>\n\n
+上举断距	shàng jǔ duàn jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈزۈلمە قاتلامنىڭ يۇقىرىغا سىلجىش ئارىلىقى</p>\n\n
+上乌喙骨	shàng wū huì gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قۇش تۇمشۇقىسىمان سۆڭەك</p>\n\n
+上乘	shàng chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېسىل؛ نادىر؛ ئېسىل، نادىر</p>\n\n
+上书	shàng shū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالىيجانابلارغا خەت يازماق</p>\n\n
+上乳胶	shàng rǔ jiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېلىملىمەك، يېلىم بىلەن بىر تەرەپ قىلماق</p>\n\n
+上了	shàng le； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بارماق، چىقماق</p>\n\n
+上了…当	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">shàng le …dāng； ... غا ئالدىنىپ قالماق</p>\n\n
+上了圈套	shàng le quān tào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇزاققا چۈشمەك، قىلتاققا چۈشمەك</p>\n\n
+上了贼船	shàng le zéi chuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوغرى كېمىسىگە چىقماق</p>\n\n
+上了赌博场不认爹和娘	上了赌博场，不认爹和娘； \nshàng le dǔ bó chǎng bù rèn diē hé niáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىمارۋاز ئاتىسىغىمۇ يول بەرمەس</p>\n\n
+上交	shàng jiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاپشۇرماق، تاپشۇرۇپ بەرمەك</p>\n\n
+上代	shàng dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاتا-بوۋىلار؛ ئۆتكەن ئەجدادلار</p>\n\n
+上件	shàng jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يوللانما چىقىرىپ بېرىش</p>\n\n
+上件机	shàng jiàn jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يوللانما چىقىرىپ بېرىش ماشىنىسى</p>\n\n
+上任	shàng rèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سابىق؛ ئالدىنقى؛ ئالدىنقى، سابىق؛ ۋەزىپىسىگە بارماق</p>\n\n
+上位法	shàng wèi fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈن قانۇن</p>\n\n
+上位潮	shàng wèi cháo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى كۆتۈرۈلۈش</p>\n\n
+上位类	shàng wèi lèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تۈر</p>\n\n
+上位词自动登录	shàng wèi cí zì dòng dēng lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى بىتلىق سۆزنى ئاپتوماتىك خاتىرىلەش</p>\n\n
+上位，上位的	shàng wèi , shàng wèi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئورۇن، ئۈستۈنكى ئورۇندىكى</p>\n\n
+上低音双簧管	shàng dī yīn shuāng huáng guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گېككېلفون (بىر خىل كلارنېت)</p>\n\n
+上低音古提琴	shàng dī yīn gǔ tí qín； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باس ئاۋازلىق ۋىيولا</p>\n\n
+上低音号	shàng dī yīn hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بارىتون (بىر خىل ساكسوفون)</p>\n\n
+上体腔	shàng tǐ qiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى بەدەن بوشلۇقى</p>\n\n
+上供	shàng gòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نەزىرلىك نەرسىلەرنى تىزماق</p>\n\n
+上侧方的	shàng cè fāng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستكى يان تەرەپتىكى</p>\n\n
+上侧片	shàng cè piàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قوڭغۇز قانىتىنىڭ ئۈستكى ياپراقچىسى</p>\n\n
+上侧的	shàng cè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستى يان تەرەپتىكى</p>\n\n
+上光	shàng guāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پارقىراتماق، يالتىراتماق، جۇلا بەرمەك، پەرداز بەرمەك؛ جۇلا بەرمەك؛ پارقىراتماق؛ يالتىراتماق؛ پەرداز بەرمەك</p>\n\n
+上光摩洛哥羊皮	shàng guāng mó luò gē yáng pí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پارقىرىتىلغان ماراكەش خۇرۇمى</p>\n\n
+上光板	shàng guāng bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">فېرروتىپ تاختىسى (فوتو سۈرەتچىلىكىدە)</p>\n\n
+上光纸板	shàng guāng zhǐ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پارقىرىتىلغان قەغەز تاختا</p>\n\n
+上六放珊瑚属	shàng liù fàng shān hú shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىزوئانتۇس مارجانلىرى ئۇرۇقدىشى</p>\n\n
+上关	shàng guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭگۇەن (پەللە نامى)</p>\n\n
+上冒头	shàng mào tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دېرىزە بېشى</p>\n\n
+上冲	shàng chōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە ئۇرۇلۇش</p>\n\n
+上冲作用	shàng chōng zuò yòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە ئۇرۇلۇش رولى</p>\n\n
+上冲头	shàng chōng tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە ئۇرۇش سۈمبىسى</p>\n\n
+上冲断裂	shàng chōng duàn liè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە ئۇرۇلۇپ ئۈزۈلۈش</p>\n\n
+上冻	shàng dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توڭلىماق، مۇزقاتماق</p>\n\n
+上刀闯火海	shàng dāo chuǎng huǒ hǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەر قانداق قۇربان بېرىشلەرگىمۇ تەييار تۇرماق</p>\n\n
+上切	shàng qiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا قارىتىپ يونۇماق</p>\n\n
+上刑	shàng xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىينىماق؛ قىيىن-قىستاققا ئالماق</p>\n\n
+上列	shàng liè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدا زىكرى قىلىنغان (ئەسلىتىپ ئۆتۈلگەن، بايان قىلىنغان، كۆرسىتىلگەن)；يۇقىرىدىكى، يۇقىرىدا زىكرى قىلىنغان، يۇقىرىدا كۆرسىىتىلگەن</p>\n\n
+上刺刀	shàng cì dāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نەيزە سېلىش، ئىتتىك سېلىش (مىلتىققا)</p>\n\n
+上前	shàng qián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىنلاشماق؛ يېقىنلاشماق، ئالدىغا يېقىن بارماق؛ ئالدىغا يېقىن بارماق</p>\n\n
+上前尖	shàng qián jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئېزىق چىشنىڭ ئالدىنقى ئۇچى</p>\n\n
+上劲	shàng jìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېرىلىپ؛ غەيرەت ئاشماق، غەيرەت بىلەن؛ غەيرەت بىلەن؛ غەيرەت ئاشماق</p>\n\n
+上包	shàng bāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پوسۇلكىنى جازا ئۈستىگە قويۇش، پوسۇلكا چىقىرىپ بىرىش</p>\n\n
+上包皮	shàng bāo pí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاشلىماق (كىتابنى)</p>\n\n
+上匙骨	shàng chí gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېلىقنىڭ يەلكە سۆڭىكى</p>\n\n
+上区段	shàng qū duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئۇچاستكا</p>\n\n
+上升	shàng shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاشماق؛ ئۆرلەش؛ ئۆرلىمەك؛ كۆتۈرۈلمەك؛ ئاشماق، ئۆرلىمەك</p>\n\n
+上升二合元音	shàng shēng èr hé yuán yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئۆرلىگەن قوش سوزۇق تاۋۇش</p>\n\n
+上升岸线	shàng shēng àn xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىك ساھىل سىزىقى</p>\n\n
+上升时间	shàng shēng shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش ۋاقتى</p>\n\n
+上升曲线	shàng shēng qǔ xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش ئەگرى سىزىقى</p>\n\n
+上升曲调	shàng shēng qǔ diào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئاۋازلىق كۈي</p>\n\n
+上升段	shàng shēng duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش بۆلىكى</p>\n\n
+上升气流	shàng shēng qì liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلىگەن ھاۋا ئېقىمى</p>\n\n
+上升海滩	shàng shēng hǎi tān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەشتىن شەكىللەنگەن ساھىل قۇملۇقى</p>\n\n
+上升率	shàng shēng lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش نىسبىتى</p>\n\n
+上升管	shàng shēng guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش تۇرۇبىسى</p>\n\n
+上升角	shàng shēng jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش بۇلۇڭى</p>\n\n
+上升计划	“上升”计划； \nshàng shēng jì huà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ۋوسخود پىلانى</p>\n\n
+上升运动	shàng shēng yùn dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش ھەرىكىتى</p>\n\n
+上升韵律	shàng shēng yùn lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش رىتىمى</p>\n\n
+上午	shàng wǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشكىچە؛ چۈشتىن بۇرۇن</p>\n\n
+上午班	shàng wǔ bān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن بۇرۇنقى سمېنا، ئەتىگەنلىك سمېنا</p>\n\n
+上半场	shàng bàn chǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئويۇننىڭ ياكى مۇسابىقىنىڭ بىرىنچى يېرىمى، ئالدىنقى مەيدان</p>\n\n
+上半夜	shàng bàn yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاۋۋال ئاخشام؛ يېرىم كېچىدىن ئاۋۋال؛ كېچىنىڭ ئالدىنقى يېرىمى؛ يېرىم كېچىدىن ئاۋۋال، ئاۋۋال ئاخشام</p>\n\n
+上半天	shàng bàn tiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن بۇرۇن؛ چۈشتىن ئاۋۋال</p>\n\n
+上半晌	shàng bàn shǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن بۇرۇن؛ چۈشتىن ئاۋۋال</p>\n\n
+上半月	shàng bàn yuè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى يېرىم ئاي</p>\n\n
+上半身	shàng bàn shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەدەننىڭ يۇقىرىقى يېرىمى، بەلنىڭ يۇقىرىسى</p>\n\n
+上半连续函数	shàng bàn lián xù hán shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يېرىم ئۈزلۈكسىز فۇنكسىيە</p>\n\n
+上半连续分解	shàng bàn lián xù fēn jiě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يېرىم ئۈزلۈكسىز ئاجرىتىش</p>\n\n
+上卷	shàng juàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە تۈرمەك (چاچنى)</p>\n\n
+上卷发式	shàng juàn fā shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە تۈرۈلگەن چاچ شەكلى</p>\n\n
+上压力	shàng yā lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا كۆتۈرۈش بېسىمى</p>\n\n
+上去	shàng qù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چىقماق، يۇقىرى كۆتۈرۈلمەك؛ يۇقىرى چىقماق؛ يۇقىرى كۆتۈرۈلمەك</p>\n\n
+上反的	shàng fǎn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دىگېدرال</p>\n\n
+上发条	shàng fā tiáo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇر ىنىسىنى چىڭىتماق</p>\n\n
+上发背	shàng fā bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">غولغا چىققان غەلۋىرەك</p>\n\n
+上发酵	shàng fā jiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېچىتماق، بولدۇرماق</p>\n\n
+上变频器	shàng biàn pín qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چاستوتا ئۆزگەرتكۈچ</p>\n\n
+上口	shàng kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۇدۇقلىماستىن، سۇدەك ئوقۇماق؛ ئېغىزغا ئەپ چۈشۈپ بەرمەك</p>\n\n
+上古	shàng gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇزاق قەدىمكى زامان</p>\n\n
+上台	shàng tái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ۋەزىپىگە ئولتۇرماق، ھاكىمىيەت بېشىغا چىقماق؛ ۋەزىپىگە ئولتۇرماق؛ سەھنىگە چىقماق؛ ۋەزىپىگە بەلگىلەنمەك؛ ھاكىمىيەت بېشىغا چىقماق</p>\n\n
+上台阶	shàng tái jiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەلەمپەيگە چىقىش</p>\n\n
+上司	shàng sī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باشلىق؛ رەھبەر؛ باشلىق، رەھبەر</p>\n\n
+上合	shàng hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى كونيۇكسىيە</p>\n\n
+上吊	shàng diào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېسىلىپ ئۆلۈۋالماق</p>\n\n
+上吊自杀	shàng diào zì shā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېسىلىپ ئۆلۈۋېلىش</p>\n\n
+上后内尖	shàng hòu nèi jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئېزىق چىشنىڭ ئىچكى ئۇچى</p>\n\n
+上后尖	shàng hòu jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئېزىق چىشنىڭ ئۇچى</p>\n\n
+上向梯段回采工作面	shàng xiàng tī duàn huí cǎi gōng zuò miàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يۈزلەنگەن پەلەمپەيسىمان رۇدا قېزىش مەشغۇلات كۆلىمى</p>\n\n
+上向梯段回采法	shàng xiàng tī duàn huí cǎi fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يۈزلەنگەن پەلەمپەيسىمان رۇدا قېزىش ئۇسۇلى</p>\n\n
+上向，上向的	shàng xiàng , shàng xiàng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يۈزلىنىش، يۇقىرىغا يۈزلەنگەن</p>\n\n
+上吸	shàng xī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا سۈمۈرمەك</p>\n\n
+上吸式化油器	shàng xī shì huà yóu qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا سۈمۈرىدىغان كاربيۇراتور</p>\n\n
+上吹效应	shàng chuí xiào yīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا پۈۋلەش ئېففېكتى</p>\n\n
+上告	shàng gào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئەرز قىلماق؛ يۇقىرىغا مەلۇم قىلماق</p>\n\n
+上呼吸道	shàng hū xī dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى نەپەس يولى</p>\n\n
+上呼吸道感染	shàng hū xī dào gǎn rǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى نەپەس يولىنىڭ يۇقۇملىنىشى</p>\n\n
+上品	shàng pǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى دەرىجىلىك بۇيۇم، ئەلا سورتلۇق بۇيۇم، بىرىنچى دەرىجىلىك بۇيۇم</p>\n\n
+上唇	shàng chún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى لەۋ؛ يۇقىرىقى كالپۇك</p>\n\n
+上唇侧片	shàng chún cè piàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى كالپۇكنىڭ يان تەرىپى</p>\n\n
+上唇根	shàng chún gēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى كالپۇك تۈۋى</p>\n\n
+上唇沟	shàng chún gōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لەۋ يېرىقچىسى</p>\n\n
+上唇额神经	shàng chún é shén jīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى كالپۇك ۋە ماڭلاي نېرۋىسى (ھاشاراتنىڭ)</p>\n\n
+上嘴鞘	shàng zuǐ qiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇشلارنىڭ ئۈستۈنكى تۇمشۇقىنىڭ غىلىپى</p>\n\n
+上四边形帆	shàng sì biān xíng fān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تۆت بۇرجەك يەلكەن</p>\n\n
+上回	shàng huí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى قېتىم، ئۆتكەن قېتىم؛ ئۆتكەن قېتىم؛ ئالدىنقى قېتىم</p>\n\n
+上回行	shàng huí xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قۇرغا كۆچۈرۈلگەن خەت</p>\n\n
+上圈套	shàng quān tào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدام خالتىغا چۈشمەك؛ قىلتاققا چۈشمەك، تۇزاققا چۈشمەك، قارماققا ئىلىنماق</p>\n\n
+上地幔	shàng dìmàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەر پوستىنىڭ ئاسىتى قىسمى</p>\n\n
+上场	shàng chǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەھنىگە چىقماق، مەيدانغا چىقماق؛ مەيدانغا چىقماق؛ سەھنىگە چىقماق</p>\n\n
+上场击球	shàng chǎng jī qiú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەيدانغا چىقىپ توپ ئۇرماق</p>\n\n
+上场时间	shàng chǎng shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەيدانغا چىقىش ۋاقتى</p>\n\n
+上坟	shàng fén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قەبرىستانلىقنى يوقلىماق، تۇپراق بېشىغا چىقماق؛ تۇپراق بېشىغا چىقماق</p>\n\n
+上坡	shàng pō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆر، دۆڭ</p>\n\n
+上坡牵引车	shàng pō qiān yǐn chē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رۇدا توشۇش ۋاگونىنى يۇقىرىغا سۆرەش ماشىنىسى</p>\n\n
+上坡路	shàng pō lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۆڭ (يول)；گۈللىنىش يولى؛ تەرەققىيات يولى؛ تەرەققىيات يولى، گۈللىنىش يولى</p>\n\n
+上坡道	shàng pō dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۆڭ يول</p>\n\n
+上坡雾	shàng pō wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۆڭلۈك تۇمانى</p>\n\n
+上坡风	shàng pō fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دۆڭگە ئۇرغان شامال</p>\n\n
+上垒率	shàng lěi lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەللىگە چىقىش نىسبىتى (كالتەك توپتا)</p>\n\n
+上堵头布	shàng dǔ tóu bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لېنتا</p>\n\n
+上墨皮垫	shàng mò pí diàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">داببېر (مەتبەئەدە)</p>\n\n
+上士	shàng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ستارشىي سېرژانت</p>\n\n
+上声	shàng shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى تون (ھازىرقى خەنزۇ ئاممىباب تىلىدا)；ئىككىنچى تون (قەدىمكى خەنزۇ تىلىدا)</p>\n\n
+上天	shàng tiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەرش؛ ئاسمانغا كۆتۈرۈلمەك، ئاسمانغا ئۇچۇپ چىقماق؛ ئاسمانغا كۆتۈرۈلمەك؛ ئاسمانغا ئۇچۇپ چىقماق؛ ئۇ ئالەمگە كەتمەك (ئۆلمەك)</p>\n\n
+上天入地	shàng tiān rù dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھېچنېمىدىن قورقماسلىق، دادىللىق بىلەن ئىشلەش</p>\n\n
+上天无路人地无门	上天无路，人地无门； \nshàng tiān wú lù rén dì wú mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسمانغا چىقاي دېسە ئېگىز، يەرگە كىرەي دېسە قاتتىق؛  ئاسمان يىراق، يەر قاتتىق؛  ياشاش يولى توسۇلۇپ قالماق</p>\n\n
+上天无路入地无门	shàng tiān wú lù rù dì wú mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەر قاتتىق؛ ئاسمانغا چىقاي دېسەم ئاسمان يىرا، يەرگە كىرەي دېسە يەر قاتتىق؛ ئاسمان يىراق</p>\n\n
+上天极	shàng tiān jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش قۇتۇپى</p>\n\n
+上头	shàng tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىدە؛ جەھەتتە؛ تۆپىسىدە؛ رەھبەرلىك؛ ئۈستىدە، تۆپىسىدە</p>\n\n
+上夸克	shàng kuā kè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى كۋارك</p>\n\n
+上奇努克语	shàng qí nǔ kè yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى چىنوك تىلى</p>\n\n
+上套	shàng tào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سافا ياكى ئورۇندۇقنى قاپلىماق</p>\n\n
+上好	shàng hǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سۈپەتلىك، يۇقىرى سورتلۇق؛ يۇقىرى سورتلۇق؛ يۇقىرى سۈپەتلىك</p>\n\n
+上存资金行	shàng cún zī jīn xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەبلەغ ئامانەت قويغۇچى بانكا</p>\n\n
+上学	shàng xué； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەكتەپكە بارماق؛ مەكتەپكە كىرمەك</p>\n\n
+上官	shàng guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭگۇەن (فامىلە)</p>\n\n
+上宝剑	shàng bǎo jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خان شەمشىرى</p>\n\n
+上宽下窄的	shàng kuān xià zhǎi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستى كەڭ، ئاستى تار</p>\n\n
+上宾	shàng bīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھۆرمەتلىك مېھمان، ئەزىز مېھمان</p>\n\n
+上寒下热	shàng hán xià rè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاشقازاننىڭ سوغۇقى ئېشىپ، ئۈچەينى ئىسسىق تۇتۇش كېسىلى</p>\n\n
+上射式水车	shàng shè shì shuǐ chē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا سۇ پۈركۈش ماشىنىسى</p>\n\n
+上将	shàng jiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گېنېرال؛ شاڭجياڭ؛ ئادمىرال؛ شاڭجياڭ، گېنېرال، پولكوۋنىك؛ گېنېرال-پولكوۋنىك</p>\n\n
+上尉	shàng wèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ستارشىي لېيتېنانت؛ شاڭۋېي، كاپىتان</p>\n\n
+上尖牙	shàng jiān yá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قوزۇق چىش</p>\n\n
+上尼罗人	shàng ní luó rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نىل دەرياسىنىڭ يۇقىرى ئېقىمىدا ياشىغۇچىلار</p>\n\n
+上层	shàng céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى قەۋەت؛ يۇقىرى قاتلام؛ يۇقىرى تەبىقە؛ يۇقىرى قاتلام (تەبىقە، قاتلام)</p>\n\n
+上层人物	shàng céng rén wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى تەبىقە كىشىلىرى</p>\n\n
+上层协议	shàng céng xié yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قاتلام كېلىشىمى</p>\n\n
+上层叠置冰川	shàng céng dié zhì bīng chuān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى قاتلامدا ئۈست-ئۈستىگە ئورۇنلاشقان مۇزلۇق</p>\n\n
+上层底栖生物	shàng céng dǐ qī shēng wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى قاتلامنىڭ ئەڭ ئاستىدا ماكانلاشقان جانلىقلار</p>\n\n
+上层建筑	shàng céng jiàn zhù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستقۇرۇلما</p>\n\n
+上层建筑甲板	shàng céng jiàn zhù jiǎ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە قۇرۇلغان پالۇبا</p>\n\n
+上层浮游生物	shàng céng fú yóu shēng wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى قاتلامدا ئۈزۈپ يۈرگۈچى جانلىقلار</p>\n\n
+上层牛奶	shàng céng niú nǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۈتنىڭ يۈزى، سۈتنىڭ يۇقىرى قەۋىتى</p>\n\n
+上层的群像	shàng céng de qún xiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى تەبىقىدىكى كىشىلەر</p>\n\n
+上层社会人士	shàng céng shè huì rén shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى تەبىقە كىشىلىرى</p>\n\n
+上层线圈边	shàng céng xiàn quān biān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قەۋەتتىكى كاتۇشكا گىرۋىكى</p>\n\n
+上层结构	shàng céng jié gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قاتلام قۇرۇلمىسى؛ يۇقىرى قۇرۇلما</p>\n\n
+上层阶级	shàng céng jiē jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سىنىپ؛ يۇقىرى تەبىقە</p>\n\n
+上届	shàng jiè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇنجى قېتىملىق، ئالدىنقى قېتىملىق، تۇنجى نۆۋەتلىك</p>\n\n
+上山擒虎易开口告人难	上山擒虎易，开口告人难； \nshàng shān qín hǔ yì kāi kǒu gào rén nán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قەرز سورىماق شەھەر سورىماقتىن تەس</p>\n\n
+上山钓不着鱼下水打不着柴	上山钓不着鱼，下水打不着柴； \nshàng shān diào bù zhuó yú xià shuǐ dǎ bù zhuó chái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاغقا چىقىپ بېلىق تۇتقىلى بولماس، دەرياغا چۈشۈپ ئوتۇن تەرگىلى (بولماس)</p>\n\n
+上岁数	shàng suì shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياشانغان، قېرىغان</p>\n\n
+上岗证	shàng gǎng zhèng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش ئورنى گۇۋاھنامىسى</p>\n\n
+上岸	shàng àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىرغاققا چىقماق، قۇرۇقلۇققا چىقماق</p>\n\n
+上岸保险	shàng àn bǎo xiǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىرغاققا چىقىش سۇغۇرتىسى</p>\n\n
+上岸假日	shàng àn jià rì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىرغاققا چىقىپ دەم ئېلىش كۈنى</p>\n\n
+上工	shàng gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشقا بارماق (ياللىنىپ بىرىنچى كۈنى ئىشقا بارماق)；ئىشقا بارماق؛ ئىشقا (ئەمگەككە)چىقماق؛ ئىشقا (ئەمگەككە) چىقماق</p>\n\n
+上市	shàng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بازارغا كىرمەك، بازارغا چىقماق (مال)；بازارغا كىرمەك؛ بازارغا چىقماق (مال)</p>\n\n
+上市公司	shàng shì gōng sī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاي چېكى بازارغا سېلىنىدىغان شىركەت؛ پېيى بازارغا سېلىنغان شىركەتلەر；(پاي چېكى) بازارغا سېلىنىدىغان شىركەت</p>\n\n
+上市成熟的	shàng shì chéng shú de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بازارغا ئۈلگۈرۈپ پىشىدىغان</p>\n\n
+上市的股份有限公司	shàng shì de gǔ fèn yǒu xiàn gōng sī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاي چېكى بازارغا سېلىنىدىغان چەكلىك پاي شىركىتى</p>\n\n
+上市证券	shàng shì zhèng quàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بازارغا سېلىنغا ئاكسيە؛ بازارغا سېلىنغان ئاكسىيە</p>\n\n
+上帐	shàng zhàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بوغالتىرلىق دەپتىرىگە ئورناتماق</p>\n\n
+上帝	shàng dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خۇدا؛ ئاللا؛ تەڭرى؛ خۇدا، ئاللا، تەڭرى</p>\n\n
+上帝保佑	shàng dì bǎo yòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خۇدا ساقلىسۇن، خۇداغا ئامانەت</p>\n\n
+上帝创造说	shàng dì chuàng zào shuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەممىنى خۇدا يارىتىش تەلىماتى</p>\n\n
+上帝赐予	shàng dì cì yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خۇدا بەرگەن</p>\n\n
+上年	shàng nián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇلتۇر؛ ئۆتكەن يىل</p>\n\n
+上年纪	shàng nián jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قېرىغان؛ ياشانغان؛ ياشانغان، قېرىغان</p>\n\n
+上床	shàng chuáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كارىۋاتقا چىقماق</p>\n\n
+上床安歇	shàng chuáng ān xiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېتىپ ئارام ئالماق، ئۇخلىماق</p>\n\n
+上床干	shàng chuáng gàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كارىۋاتقا چىقىپ مۇناسىۋەت قىلىشماق</p>\n\n
+上床睡觉	shàng chuáng shuì jiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كارىۋاتقا چىقىپ ئۇخلىماق</p>\n\n
+上底漆	shàng dǐ qī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەگ سىر</p>\n\n
+上座	shàng zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆر؛ پەخرىي ئورۇن، تۆر، يۇقىرى ئورۇن؛ خېرىدارى كۆپ؛ پەخرىي ئورۇن؛ تاماشىچىلىرى كۆپ</p>\n\n
+上座儿	shàng zuò ér； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خېرىدارى كۆپ؛ تاماشىچىلىرى كۆپ</p>\n\n
+上座天使	shàng zuò tiān shǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترونېس (- پەرىشتەنىڭ بىرى)</p>\n\n
+上廉泉	shàng lián quán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭليەنچۈەن (پەللە نامى)</p>\n\n
+上弓	shàng gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كامالچىنىڭ تۈۋى بىلەن چالماق (ئىسكىرىپكىنى)</p>\n\n
+上弦	shàng xián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاينىڭ ئالدىنقى يېرىم چەمبەر ھالىتى، دەسلەپكى چارەك؛ سائەت پۇرژىنىسىنى چىڭىتماق</p>\n\n
+上弦机构	shàng xián jī gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سائەت پۇرژىنىسى، پۇرژىنا</p>\n\n
+上弯	shàng wān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئېگىلمەك</p>\n\n
+上当	shàng dàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدانماق؛ ئەخمەق بولۇپ قالماق، ئالدانماق، ئالدام خالتىغا چۈشمەك، قىلتاققا چۈشمەك؛ ئالدىنىش، ئالدام خالتىغا چۈشۈش؛ قىلتاققا چۈشمەك؛ ئالدام خالتىسىغا چۈشمەك؛ ئەخمەق بولۇپ قالماق</p>\n\n
+上当受骗	shàng dàng shòu piàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنىپ قالماق</p>\n\n
+上当学乖吃亏学能	上当学乖，吃亏学能； \nshàng dàng xué guāi chī kuī xué néng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇرنىغا يېمىگۈچە ئادەم بولماس</p>\n\n
+上当者	shàng dàng zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنىپ قالغۇچى</p>\n\n
+上德意志语	shàng dé yì zhì yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى گېرمان تىلى</p>\n\n
+上心拱	shàng xīn gǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى مەركەزلىك ئەگمە</p>\n\n
+上恩小惠	shàng ēn xiǎo huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاز-تولا ئىلتىپات؛ ئانچە-مۇنچە نەپ؛ ئاز-تولا خەير-سەدىقە</p>\n\n
+上户乡	上户乡【新疆各地】； shàng hù xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخۇ يېزىسى</p>\n\n
+上户沟哈萨克族乡	上户沟哈萨克族乡【新疆各地】； shàng hù gōu hā sà kè zú xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاققول قازاق يېزىسى</p>\n\n
+上房	shàng fáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆر ئۆي؛ تۆر ئۆي (دەرۋازىنىڭ ئۇدۇلىدىكى ئۆي)</p>\n\n
+上手	shàng shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆردە ئولتۇرىدىغانلار، تۆرنىڭ ئىگىلىرى، ھۆرمەتلىك؛ باشلىماق، تۇتۇش قىلماق؛ ئالدىدىكى، ئالدىنقى</p>\n\n
+上手下手	上手、下手； \nshàng shǒu xià shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوڭ قول، سول قول (ئەلنەغمە ئاتالغۇسى)</p>\n\n
+上托	shàng tuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش</p>\n\n
+上托显示	shàng tuō xiǎn shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆرسىتىش</p>\n\n
+上托栈	shàng tuō zhàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش تۇراسى</p>\n\n
+上托空栈	shàng tuō kōng zhàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش قۇرۇق تۇراسى</p>\n\n
+上托运算符	shàng tuō yùn suàn fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەش ئەمەل بەلگىسى</p>\n\n
+上扬	shàng yáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باھاسى ئۆسمەك</p>\n\n
+上承桥	shàng chéng qiáo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆۋرۈك (باشقا ئىنشائاتلارنى كۆتۈرۈپ تۇرىدىغان)</p>\n\n
+上投	shàng tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئاتماق، يۇقىرىغا ئىنتىلمەك، يۇقىرىغا تاشلىماق</p>\n\n
+上投物	shàng tóu wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئېتىلغان نەرسە</p>\n\n
+上抛运动	shàng pāo yùn dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئېتىلغان جىسىم ھەرىكىتى</p>\n\n
+上报	shàng bào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گېزىتكە بېرىش، ئېلان قىلىش؛  گېزىتكە چىقىش؛ يۇقىرىغا مەلۇم قىلماق، خەۋەر قىلماق؛ گېزىتتە ئېلان قىلماق (باسماق)；خەۋەر قىلماق؛ يۇقىرىغا مەلۇم قىلماق</p>\n\n
+上报下发的各种公文	shàng bào xià fā de gè zhǒng gōng wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يوللىنىلىدىغان تۆۋەنگە چۈشۈرۈلىدىغان ھۆججەت-ئالاقىلەر</p>\n\n
+上担子	shàng dàn zi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىبازىدىيە؛ ئۈستۈنكى بازىدى</p>\n\n
+上拉杆	shàng lā gǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تارتما خادا</p>\n\n
+上挂锁	shàng guà suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسما قۇلۇپ سالماق</p>\n\n
+上挡键	shàng dǎng jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈست خوت كۇنۇپكىسى؛ ئۈستۈنكى خوت كۇنۇپكىسى</p>\n\n
+上损及下	shàng sǔn jí xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆپكە كېسىلى تەسىرىدىن باشقا ئىچكى ئورگانلار زەخىملىنىش</p>\n\n
+上推	shàng tuī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سۈرۈش</p>\n\n
+上推下卸	shàng tuī xià xiè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەسئۇلىيەتنى باشقىلارغا ئىتتىرىپ قويماق، مەسئۇلىيەتسىزلىك قىلماق</p>\n\n
+上推存储器	shàng tuī cún chǔ qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سۈرگۈچى ساقلىغۇچ</p>\n\n
+上推排序	shàng tuī pái xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا تەرتىپلەش</p>\n\n
+上推菜单	shàng tuī cài dān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سۈرۈش تىزىملىكى</p>\n\n
+上推表	shàng tuī biǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۈرۈپ ھېسابلىنىدىغان ھېسابات جەدۋىلى؛ يۇقىرى سۈرۈش جەدۋىلى</p>\n\n
+上搭手	shàng dā shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قولتۇققا چىققان غەلۋىرەك</p>\n\n
+上播状态	shàng bō zhuàng tai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىگە تارقىتىش ھالىتى</p>\n\n
+上操	shàng cāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىمناستىكىغا چىقماق</p>\n\n
+上文	shàng wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى تېكىست؛ ئالدىنقى تېكىست</p>\n\n
+上斜桁前端	shàng xié héng qián duān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماچتا يېنىدىكى كۆندىلەڭ لىمنىڭ ئالدىنقى ئۇچى</p>\n\n
+上斜肌	shàng xié jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆز قارىچۇقىنى يۇقىرىغا ھەرىكەتلەندۈرگۈچى مۇسكۇل</p>\n\n
+上新世	shàng xīn shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يېڭى ئېرا</p>\n\n
+上新世时期	shàng xīn shì shí qī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يېڭى ئېرا دەۋرى</p>\n\n
+上新蹄兔亚科	shàng xīn tí tù yà kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يېڭى ئېرا تۇياقلىق توشقانلىرى كەنجى ئائىلىسى</p>\n\n
+上新马属	shàng xīn mǎ shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يېڭى ئېرا ئاتلىرى ئۇرۇقدىشى</p>\n\n
+上无片瓦下无插针之地	上无片瓦，下无插针之地； \nshàng wú piàn wǎ xià wú chā zhēn zhī dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باش تىققۇدەك ماكان، پۇت قويغۇدەك يەر بولماسلىق</p>\n\n
+上旬	shàng xún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى ئون كۈن</p>\n\n
+上映	shàng yìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىنو قويماق؛ كىنو كۆرسەتمەك</p>\n\n
+上智下愚	shàng zhì xià yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېسىللارنىڭ دانىشمەنلىكى ۋە ئاۋام خەلقنىڭ نادانلىقى</p>\n\n
+上曳气流	shàng yè qì liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا سۆرەلگەن ھاۋا ئېقىمى</p>\n\n
+上有政策下有对策	上有政策，下有对策； \nshàng yǒu zhèng cè xià yǒu duì cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەيدىغىنىڭنى دەۋەر، قىلىدىغاننى قىلىۋېرىمەن، ئات ئايلىخانغا، يول سارىخانغا</p>\n\n
+上朝	shàng cháo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خاننىڭ ئەمەلدارلارنى قوبۇل قىلىشى ۋە دۆلەت ئىشلىرى بىلەن مەشغۇل بولۇشى؛ خان ھۇزۇرىغا بارماق (ۋەزىرلەر)</p>\n\n
+上机程序	shàng jī chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كودلاشتۇرۇش پروگراممىسى</p>\n\n
+上杆子	shàng gǎn zi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدانماق</p>\n\n
+上杆钉	shàng gǎn dìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ستولبىغا چىقىش مىخى</p>\n\n
+上条方柄头	shàng tiáo fāng bǐng tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆت قىرلىق پۇرژىنا چىڭىتىش تۇتقۇچى</p>\n\n
+上条柄	shàng tiáo bǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇر ىنا چىڭىتىش تۇتقۇچى (قول سائەتنىڭ)</p>\n\n
+上条齿板	shàng tiáo chǐ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سائەت پۇرژىنىسىنى چىڭىتىىش چىشلىق تاختىچىسى</p>\n\n
+上来	shàng lái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چىقماق</p>\n\n
+上松下实	shàng sōng xià shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستى بوش، ئاستى چىڭ</p>\n\n
+上枪托	shàng qiāng tuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىلتىققا پاينەك سالماق</p>\n\n
+上架准备工作	shàng jià zhǔn bèi gōng zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىتابنى جاۋەنگە تىزىش ئالدىدىكى تەييارلىق خىزمىتى</p>\n\n
+上枷	shàng jiā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاقاق سالماق (مەھبۇسقا)</p>\n\n
+上标	shàng biāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئىندېكس؛ ئۈستۈنكى بەلگە</p>\n\n
+上树拔梯	shàng shù bá tī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆگزىگە چىقىرىپ قويۇپ، شوتىنى تارتىۋەتمەك؛  دەرەخكە چىقىرىپ قويۇپ شوتىنى تارتىۋەتمەك. يوشۇرۇن سۇيقەست پىلانلىماق. باشقىلارنى قىزىقتۇرۇپ تۇزاققا دەسسەتمەك</p>\n\n
+上校	shàng xiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭشياۋ، پولكوۋنىك</p>\n\n
+上校衔	shàng xiào xián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭشياۋ ئۇنۋانى، پولكوۋنىك ئۇنۋانى</p>\n\n
+上桅，上桅的	shàng wéi , shàng wéi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ماچتا، يۇقىرى ماچتىلىق</p>\n\n
+上梁	shàng liáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ۋېلىسىپىتنىڭ ئۈستۈنكى ئۇزۇن بالدىقى؛ ئۈستۈنكى لىم</p>\n\n
+上梁不正下梁歪	shàng liáng bù zhèng xià liáng wāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇنىڭ بېشى لاي بولسا، ئايىغىمۇ لاي بولىدۇ؛ سۇنىڭ بېشى لاي بولسا، ئايىغىمۇ لاي؛ سۇنىڭ بېشى لاي بولسا، ئايىغىمۇ لاي بولىدۇ</p>\n\n
+上梯段式开采法	shàng tī duàn shì kāi cǎi fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەلەمپەيسىمان رۇدا قېزىش ئۇسۇلى</p>\n\n
+上楼	shàng lóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى قەۋەتكە چىقماق، بىناغا چىقماق</p>\n\n
+上楼去梯	shàng lóu qù tī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆگزىگە چىقىرىپ قويۇپ، شوتىنى تارتىۋەتمەك؛  دەرەخكە چىقىرىپ قويۇپ شوتىنى تارتىۋەتمەك. يوشۇرۇن سۇيقەست پىلانلىماق. باشقىلارنى قىزىقتۇرۇپ تۇزاققا دەسسەتمەك</p>\n\n
+上楼投递	shàng lóu tóu dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىناغا چىقىپ يەتكۈزۈش</p>\n\n
+上楼投递费	shàng lóu tóu dì fèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىناغا چىقىپ يەتكۈزۈش ھەققى</p>\n\n
+上楼电梯	shàng lóu diàn tī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لىفت</p>\n\n
+上槎作物	shàng chá zuòwù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى زىرائەت</p>\n\n
+上模削刀	shàng mó xuē dāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇرۇم يونۇش پىچىقى</p>\n\n
+上横木	shàng héng mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى توغرا ياغاچ</p>\n\n
+上横桁升降索具	shàng héng héng shēng jiàng suǒ jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى توغرا لىمنى چۈشۈرۈش-كۆتۈرۈش ئارقىنى</p>\n\n
+上橄榄	shàng gǎn lǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى زەيتۇن سۆڭەك</p>\n\n
+上次	shàng cì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆتكەن قېتىم؛ ئالدىنقى قېتىم؛ ئالدىنقى قېتىم، ئۆتكەن قېتىم</p>\n\n
+上款	shàng kuǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باش تەرىپىگە يېزىلغان خەت، قاشقا يېزىلغان خەت</p>\n\n
+上歪一尺下歪一丈	上歪一尺，下歪一丈； \nshàng wāi yī chǐ xià wāi yī zhàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىردا شامال چىقسا، تۆۋەندە بوران چىقار</p>\n\n
+上死点	shàng sǐ diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى ئۆلۈك نۇقتا</p>\n\n
+上气	shàng qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئۆرلىگەن قۇۋۋەت</p>\n\n
+上气不接下气	shàng qì bù jiē xià qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھاسىراپ دەم ئالالماي قالماق</p>\n\n
+上水	shàng shuǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئېقىن؛ ئېقىنغا قارشى يۈرمەك</p>\n\n
+上水工人	shàng shuǐ gōng rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاپتوموبىل رادىئاتورلىرىغا سۇ قاچىلاش ئىشچىسى</p>\n\n
+上水平	shàng shuǐ píng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆلچەمگە يەتكۈزۈش</p>\n\n
+上水道	shàng shuǐ dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇ بىلەن تەمىنلەش لىنىيىسى</p>\n\n
+上水面来	shàng shuǐ miàn lái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇ يۈزىگە چىقماق</p>\n\n
+上水鱼	shàng shuǐ yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قولتۇققا چىققان چىقان</p>\n\n
+上江	shàng jiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاڭجياڭ دەرياسىنىڭ يۇقىرى ئېقىمىدىكى رايونلار</p>\n\n
+上沃	shàng wò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ۋولتا (قىسقارتىلمىسى)</p>\n\n
+上沃尔特	shàng wò ěr tè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ۋولتا</p>\n\n
+上油	shàng yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مايلىماق؛ ماي بەرمەك؛ ماي قۇيماق</p>\n\n
+上洗	shàng xǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يۈزلەنگەن ھاۋا ئېقىمى</p>\n\n
+上流	shàng liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىبارلار؛ ئاقسۆڭەكلەر؛ كىبارلار، ئاقسۆڭەكلەر؛ دەريانىڭ يۇقىرى ئېقىنى</p>\n\n
+上流人物	shàng liú rén wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاقسۆڭەكلەر، كىبارلار</p>\n\n
+上流女人	shàng liú nǚ rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېسىل خېنىملار، ئاقسۆڭەك ئايال</p>\n\n
+上流社会	shàng liú shè huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاقسۆڭەكلەر جەمئىيىتى</p>\n\n
+上流阶层	shàng liú jiē céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى تەبىقە</p>\n\n
+上浆	shàng jiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پات بەرمەك؛ پات بەرمەك، پات بېرىپ سىلغايتماق (كىيىم-كېچەكلەرنى)；پاتلىماق (كىيىمنى)</p>\n\n
+上浆工	shàng jiāng gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاتلاش ئىشچىسى</p>\n\n
+上海	shàng hǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخەي</p>\n\n
+上海人	shàng hǎi rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخەيلىكلەر</p>\n\n
+上海市	上海市【国内省市】； shàng hǎi shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخەي شەھىرى</p>\n\n
+上海绿石砂层	shàng hǎi lǜ shí shā céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سۈپەتلىك يېشىل قۇم</p>\n\n
+上海说唱	shàng hǎi shuō chàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخەي ئەلنەغمىسى</p>\n\n
+上海青蜂	shàng hǎi qīng fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخەي كۆك ھەرىسى</p>\n\n
+上海鸡	shàng hǎi jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭخەي توخۇسى</p>\n\n
+上消	shàng xiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاڭقاش كېسىلى</p>\n\n
+上涨	shàng zhǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلىمەك؛ كۆتۈرۈلمەك</p>\n\n
+上清液	shàng qīng yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىدىكى سۈزۈلگەن سۇيۇقلۇق</p>\n\n
+上游	shàng yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىلغار؛ ئالدىنقى؛ دەريانىڭ يۇقىرى ئېقىنى</p>\n\n
+上游产品	shàng yóu chǎn pǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرلەمچى مەھسۇلات</p>\n\n
+上溢	shàng yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېشىپ كېتىش</p>\n\n
+上溯	shàng sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇ ئېقىمىغا قارشى ماڭماق؛ ھازىردىن باشلاپ ئارقىغا ياندۇرۇپ سانىماق (ئۆتمۈشتىكى دەۋرنى)</p>\n\n
+上滑	shàng huá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېيىلماق، تېيىلىپ كەتمەك</p>\n\n
+上滑距	shàng huá jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا تېيىلىش ئارىلىقى</p>\n\n
+上滑锋	shàng huá fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا سۈرۈلگەن فرونت</p>\n\n
+上滩船具	shàng tān chuán jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمىلەرنى قىرغاققا چىقىرىش ئەسۋابلىرى</p>\n\n
+上漆先去锈	shàng qī xiān qù xiù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇزمىغۇچە تۈزىگىلى بولماس</p>\n\n
+上演	shàng yǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئويۇن قويماق (كۆرسەتمەك)</p>\n\n
+上澳大利亚	shàng ào dà lì yà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئاۋسترالىيە</p>\n\n
+上火	shàng huǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">غەزەپلەنمەك؛ ئاچچىقلانماق؛ ئىسسىقى ئاشماق؛ قىزىتما پەيدا بولماق؛ غەزەپلەنمەك، ئاچچىقلانماق</p>\n\n
+上灯	shàng dēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چىراغ ياقماق</p>\n\n
+上焦	shàng jiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭجياۋ (بوغۇزدىن تۆش ئاستىغىچە بولغان ئارىلىق)</p>\n\n
+上焦如雾	shàng jiāo rú wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭجياۋدىن پۈتۈن بەدەنگە تۇماندەك تارقالماق</p>\n\n
+上爬	shàng pá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ياماشماق</p>\n\n
+上爬水	shàng pá shuǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئېتىلغان سۇ</p>\n\n
+上环节组织	shàng huán jié zǔ zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ھالقىلىق قۇرۇلما</p>\n\n
+上班	shàng bān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خىزمەتكە بارماق، ئىشقا بارماق؛ ئىشقا بارماق؛ خىزمەتكە بارماق</p>\n\n
+上瓣	shàng bàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستكى قاسىراق، ئۈستكى قاپ (قۇلۇلىنىڭ)；دىئاتومنىڭ ئۈستكى تېرىسى</p>\n\n
+上甲板	shàng jiǎ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى پالۇبا</p>\n\n
+上电视镜头的	shàng diàn shì jìng tóu de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېلېۋىزورغا چىقىدىغان</p>\n\n
+上界定理	shàng jiè dìng lǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چېگرا تېئورېمىسى</p>\n\n
+上界算法	shàng jiè suàn fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چېگرىنى ھېسابلاش ئۇسۇلى</p>\n\n
+上病下取	shàng bìng xià qǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېسەل ئورۇننىڭ ئاستىدىن پەللە ئېلىپ داۋالاش</p>\n\n
+上瘾	shàng yǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خۇمار قىلماق؛ خۇمار كەلمەك؛ خۇمارى تۇتماق</p>\n\n
+上皮	shàng pí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىيە</p>\n\n
+上皮内淋巴细胞	shàng pí nèi lín bā xì bāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىيە ئىچىدىكى لىمفا ھۈجەيرىسى</p>\n\n
+上皮层	shàng pí céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىيە قەۋىتى</p>\n\n
+上皮瘤	shàng pí liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىئوما، ئېپىتېلىيە ئۆسمىسى</p>\n\n
+上皮癌	shàng pí ái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىئوما، ئېپىتېلىيە راكى</p>\n\n
+上皮组织	shàng pí zǔ zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىيە توقۇلمىسى</p>\n\n
+上皮绒膜胎盘	shàng pí róng mó tāi pán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىئوخورىئال بالا ھەمراھى</p>\n\n
+上皮肌肉细胞	shàng pí jī ròu xì bāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىيە مۇسكۇل ھۈجەيرىسى</p>\n\n
+上皮软疣	shàngpí ruǎn yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىتېلىيە يۇمشاق سۆگىلى</p>\n\n
+上盆	shàng pén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەشتەككە ئېلىش</p>\n\n
+上盘	shàng pán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەخسىگە تىزماق، تەخسىگە قويماق؛ ئۈستكى دىسكا، ئۈستۈنكى تاختا</p>\n\n
+上盘平巷	shàng pán píng xiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قاتلامدىكى تۈز خاڭ يولى</p>\n\n
+上相	shàng xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۈرەتباب؛ سۈرەتباب، سۈرەتتە ياخشى چىقىدىغان؛ سۈرەتتە ياخشى چىقىدىغان</p>\n\n
+上睫毛	shàng jié máo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى كىرپىك</p>\n\n
+上矢状窦	shàng shǐ zhuàng dòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى يا ئوقىسىمان سىنۇس</p>\n\n
+上石炭统	shàng shí tàn tǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى كاربون سېرىيىسى</p>\n\n
+上石疸	shàng dàn dǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بويۇنغا چىققان چىقان</p>\n\n
+上磨石	shàng mó shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈست تاش (تۈگمەننىڭ)</p>\n\n
+上神经节	shàng shén jīng jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى نېرۋا تۈگۈنى</p>\n\n
+上离合轮，立轮	shàng lí gě lún , lì lún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇر ىنا چىڭىتىش چىشلىق چاقى (قول سائەتتە)</p>\n\n
+上积分	shàng jī fēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئىنتېگرال</p>\n\n
+上移	shàng yí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سىلجىش</p>\n\n
+上税	shàng shuì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باج تۆلىمەك</p>\n\n
+上空	shàng kōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسمان؛ ھاۋا بوشلۇقى؛ ھاۋا بوشلۇقى، ئاسمان</p>\n\n
+上窍	shàng qiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تۆشۈكلەر (كۆز، قۇلاق، ئېغىز، بۇرۇن كۆزدە تۇتۇلىدۇ)</p>\n\n
+上窜下跳	shàng cuàn xià tiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدىمۇ تۆۋەندىمۇ نەيرەڭۋازلىق ۋە پىتنىچىلىك قىلماق؛ يۇقىرىدىمۇ، تۆۋەندىمۇ نەيرەڭۋازلىق، پىتنىچىلىق قىلماق؛ يۇقىرى-تۆۋەن قاترىماق؛  ئۇيان-بۇيان سوكۇلداپ يۈرمەك</p>\n\n
+上端入口	shàng duān rù kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئۇچ كىرىش ئېغىزى</p>\n\n
+上第二尖	shàng dì èr jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ئىككى قوزۇق چىش</p>\n\n
+上等	shàng děng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سۈپەتلىك، ئەلا سورتلۇق، بىرىنچى دەرىجىلىك؛ ئەلا سورتلۇق؛ يۇقىرى سۈپەتلىك؛ بىرىنچى دەرىجىلىك</p>\n\n
+上等人	shàng děng rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى تەبىقىدىكىلەر</p>\n\n
+上等兵	shàng děng bīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى دەرىجىلىك ئەسكەر</p>\n\n
+上等白色煤油	shàng děng bái sè méi yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرىنچى دەرىجىلىك ئاق كىرسىن</p>\n\n
+上等皮革	shàng děng pí gé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەلا سۈپەتلىك خۇرۇم</p>\n\n
+上等纸	shàng děng zhǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەلا سۈپەتلىك قەغەز</p>\n\n
+上等细布	shàng děng xì bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خەسە</p>\n\n
+上等细软布	shàng děng xì ruǎn bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەتىس</p>\n\n
+上等酒	shàng děng jiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالىي سورتلۇق ھاراق</p>\n\n
+上等阶层的	shàng děng jiē céng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى قاتلامدىكى</p>\n\n
+上等面粉	shàng děng miàn fěn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرىنچى دەرىجىلىك ئۇن</p>\n\n
+上策	shàng cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەڭ ئوبدان پىلان (ئامال، تەدبىر، چارە)</p>\n\n
+上筛骨	shàng shāi gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېلىقنىڭ بۇرۇن ئارىلىقىدىكى پاسىل سۆڭەك</p>\n\n
+上算	shàng suàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نەپ؛ پايدا؛ مەنپەئەت؛ پايدا، مەنپەئەت، نەپ</p>\n\n
+上粪	shàng fèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوغۇت تۆكمەك</p>\n\n
+上索诺拉生物带	shàng suǒ nuò lā shēng wù dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىقى سونورا جانلىقلار بەلبېغى</p>\n\n
+上繁草	shàng fán cǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېگز باراقسانلايدىغان ئوتلار</p>\n\n
+上红虫属，血虫体属	shàng hóng chóng shǔ , xiě chóng tǐ shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپېرىتروزون قۇرتى ئۇرۇقدىشى</p>\n\n
+上红虫病	shàng hóng chóng bìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپېرىتروزونوز كېسىلى (چوشقىلاردا)</p>\n\n
+上级	shàng jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى، يۇقىرى دەرىجىلىك</p>\n\n
+上级指示	shàng jí zhǐ shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىنىڭ يوليورۇقى</p>\n\n
+上级法院	shàng jí fǎ yuàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى سوت</p>\n\n
+上纲	shàng gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پرىنسىپقا كۆتۈرمەك</p>\n\n
+上缀	shàng zhuì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇپېرفىكس (گرامماتىكىدا)</p>\n\n
+上缆油	shàng lǎn yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئارقان مېيى</p>\n\n
+上缴	shàng jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاپشۇرۇش؛ يۇقىرىغا تاپشۇرۇش؛ يۇقىرىغا تاپشۇرماق</p>\n\n
+上网	shàng wǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تورغا چىقماق</p>\n\n
+上翅	shàng chì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قانات</p>\n\n
+上耳廓	shàng ěr kuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قۇلاق سۇپرىسى</p>\n\n
+上耳骨	shàng ěr gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قۇلاق سۆڭىكى</p>\n\n
+上耻骨	shàng chǐ gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى نومۇس سۆڭىكى</p>\n\n
+上联	shàng lián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەسنەۋىنىڭ بىرىنچى مىسراسى</p>\n\n
+上肠	shàng cháng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستكى ئۈچەي</p>\n\n
+上肩胛骨	shàng jiānjiǎgǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تاغاق سۆڭىكى</p>\n\n
+上胎	shàng tāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاق سالماق، بالون ئورناتماق (ھارۋىغا)</p>\n\n
+上胚抽	shàng pēi chōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆرەلمە ئوقنىڭ ئۈستى تەرىپى</p>\n\n
+上胚轴拱	shàng pēi zhóu gǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تۆرەلمە ئوقى ئەگمىسى</p>\n\n
+上胞下垂	shàng bāo xià chuí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستكى قاپاقنىڭ سالپىيىش كېسىلى</p>\n\n
+上胶	shàng jiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېلىملىمەك، سىراجلىماق</p>\n\n
+上胶工	shàng jiāo gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېلىملىگۈچى ئىشچى، سىراجلاش ئىشچىسى</p>\n\n
+上脘	shàng guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭۋەن (پەللە نامى)</p>\n\n
+上脚镣	shàng jiǎo liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كىشەن سالماق</p>\n\n
+上腔静脉	shàng qiāng jìng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى بوشلۇق ۋېناسى</p>\n\n
+上腹板	shàng fù bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاشپاقا قورساق چىغىنىقىنىڭ يۇقىرى قىسمى</p>\n\n
+上腹部	shàng fù bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قورساق</p>\n\n
+上膘	shàng biāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەمرىمەك؛ بوردالماق؛ سەمرىمەك، بوردالماق، ئېغىرلىقى ئاشماق، ئەت ئالماق (چارۋا ماللار)；ئەت ئالماق (چارۋا ماللار)</p>\n\n
+上膘的	shàng biāo de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سېمىز، بورداق</p>\n\n
+上膛	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">shàng táng； (مىلتىق ياكى زەمبىرەكنى)بەتلىمەك</p>\n\n
+上臂	shàng bì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى بىلەك</p>\n\n
+上臂围	shàng bì wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى بىلەك ئايلانمىسى</p>\n\n
+上舌骨	shàng shé gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تىل سۆڭىكى</p>\n\n
+上船	shàng chuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمىگە چىقماق</p>\n\n
+上船区	shàng chuán qū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمىگە چىقىش رايونى</p>\n\n
+上色	shàng sè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بويىماق؛ رەڭ بەرمەك؛ ئەلا سورتلۇق؛ يۇقىرى سۈپەتلىك؛ بىرىنچى دەرىجىلىك؛ بويىماق، رەڭ بەرمەك</p>\n\n
+上色剂	shàng sè jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بوياق</p>\n\n
+上色者	shàng sè zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رەڭ بەرگۈچى</p>\n\n
+上苍	shàng cāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خۇدا؛ تەڭرى؛ تەڭرى، خۇدا</p>\n\n
+上药	shàng yào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دورا سۈرمەك</p>\n\n
+上菜器具	shàng cài qì jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەتنوس</p>\n\n
+上菜桌	shàng cài zhuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاماق ئۈستىلى</p>\n\n
+上菜石面桌	上菜［石面］桌； \nshàng cài shí miàn zhuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەرمەر تاماق ئۈستىلى</p>\n\n
+上蓝于	shàng lán yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆك ھەل بەرمەك</p>\n\n
+上蓝工	shàng lán gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆك ھەل بەرگۈچى ئىشچى</p>\n\n
+上虾亚目	shàng xiā yà mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپىكارىدېيە راكلىرى كەنجى ئەترىتى</p>\n\n
+上蜃景	shàng shènjǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئېزىتقۇ، ئۈستۈنكى مىراژ</p>\n\n
+上蜡	shàng là； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">موم سۈرمەك، موملىماق</p>\n\n
+上蜡工	shàng là gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">موم سۈرگۈچى ئىشچى</p>\n\n
+上蜡机	shàng là jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">موم سۈرۈش ماشىنىسى</p>\n\n
+上蝶骨	shàng dié gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى كېپىنەكسىمان سۆڭەك</p>\n\n
+上行下效	shàng xíng xià xiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدىكىلەرنىڭ قىلغىنىنى تۆۋەندىكىلەر دوراپتۇ؛  چوڭلار نېمە قىلسا، كىچىكلەر شۇنى قىلىدۇ</p>\n\n
+上街	shàng jiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كوچىغا چىقماق، بازارغا بارماق</p>\n\n
+上街狂欢	shàng jiē kuáng huān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كوچىغا چىقىپ ئالىجوقىلىق قىلماق</p>\n\n
+上衣	shàng yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستكى كىيىم</p>\n\n
+上表皮	shàng biǎo pí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھاشارات قاسىرىقىنىڭ ئەڭ ئۈستۈنكى موم قەۋىتى؛ ئۈستۈنكى تېرىسى، ئۈستۈنكى قوۋزىقى</p>\n\n
+上装	shàng zhuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈست كىيىم؛ ئارتىسلارنىڭ گىرىم قىلىشى ۋە ياسىنىشى؛ گىرىم قىلماق ۋە ياسانماق</p>\n\n
+上西天去	“上西天去”； shàng xī tiān qù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باقىي ئالەمگە كەتمەك، ئۇ ئالەمگە كەتمەك</p>\n\n
+上覆水域	shàng fù shuǐ yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يانتۇلۇقتىكى سۇ رايونى</p>\n\n
+上访	shàng fǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئورگانلارغا زىيارەت قىلماق؛ يۇقىرى ئورگانلارنى زىيارەت قىلماق</p>\n\n
+上访老户	shàng fǎng lǎo hù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونا ئەرزىيەتچى</p>\n\n
+上诉	shàng sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نارازىلىق ئەرزى، يۇقىرىغا شىكايەت ئەرزى سۇنماق؛ يۇقىرىغا شىكايەت ئەرزى سۇنماق؛ نارازىلىق ئەرزى؛ نارازلىق ئەرزى</p>\n\n
+上诉供述	shàng sù gòng shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەرز</p>\n\n
+上诉权	shàng sù quán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئەرز قىلىش ھوقۇقى</p>\n\n
+上诉案件	shàng sù àn jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نارازىلىق ئەرزى دېلوسى</p>\n\n
+上诉法庭	shàng sù fǎ tíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نارازلىق ئەرزى سوتى؛ نارازىلىق ئەرزى سوتى</p>\n\n
+上诉法院	shàng sù fǎ yuàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نارازىلىق ئەرزى سوتى</p>\n\n
+上诉状	shàng sù zhuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نارازلىق ئەرز خېتى؛ نارازىلىق ئەرز خېتى</p>\n\n
+上诉程序	shàng sù chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نارازلىق ئەرزى تەرتىپى</p>\n\n
+上诉请求复审	shàng sù qǐng qiú fù shěn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا قاراپ چىقىشنى تەلەپ قىلىش ئەرزى</p>\n\n
+上课	shàng kè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەرس بەرمەك؛ دەرس بەرمەك، لېكسىيە سۆزلىمەك؛ دەرسكە بارماق؛ لېكسىيە سۆزلىمەك</p>\n\n
+上调和函数	shàng tiáo hé hán shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇپېرگارمونىك فۇنكسىيە</p>\n\n
+上货	shàng huò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مال سالماق (دۇكانغا)</p>\n\n
+上贼船易下贼船难	上贼船易，下贼船难； \nshàng zéi chuán yì xià zéi chuán nán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوغرى كېمىسىگە چىقىش ئاسان، چۈشۈش تەس</p>\n\n
+上足	shàng zú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى پۇتلار (قورساق پۇتلۇقلاردىكى)；يېتەرلىك، تولۇق</p>\n\n
+上跨交叉	shàng kuà jiāo chā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئارتىلغان ئۆتۈشمە كۆۋرۈك</p>\n\n
+上跨桥	shàng kuà qiáo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا ئارتىلما كۆۋرۈك</p>\n\n
+上路	shàng lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يولغا چىقماق؛ قوزغالماق، ئاتلانماق، ماڭماق</p>\n\n
+上身	shàng shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستكى كىيىم؛ بىرىنچى قېتىم كىيمەك؛ بەدەننىڭ يۇقىرى بۆلىكى</p>\n\n
+上轨道	shàng guǐ dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىزغا چۈشمەك، يولغا چۈشمەك، يولغا سېلىنماق؛ ئىزغا چۈشمەك؛ يولغا چۈشمەك؛ يولغا سېلىنماق</p>\n\n
+上载	shàng zǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يوللاش؛ يۈكلەش (توردا)</p>\n\n
+上轿缠肢	shàng jiào chán zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېچىكىپ قالماق، ئۈلگۈرەلمەي قالماق</p>\n\n
+上辈	shàng bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەجدادلار؛ ئاتا-بوۋىلار؛ ئۆتكەن ئەجدادلار</p>\n\n
+上边	shàng biān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى؛ جەھەتتە؛ ئۈستىدە؛ يۇقىرىدا؛ رەھبەرلىك；... بويىچە؛ يۇقىرى، يۇقىرىدا؛ جەھەتتە، ... بويىچە؛ يۇقىرى ئورۇن (ئورگان)</p>\n\n
+上边带	shàng biān dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى بەلباغ؛ ئۈستۈنكى بەلۋاغ؛ ئۈستۈنكى يان بەلۋاغ</p>\n\n
+上边缘	shàng biān yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چەك، يۇقىرى چېگرا</p>\n\n
+上边缘算子	shàng biān yuán suàn zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چېگرىلىق ئوپېراتور</p>\n\n
+上达	shàng dá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يەتكۈزۈپ بەرمەك</p>\n\n
+上进	shàng jìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالغا ئىلگىرىلىمەك، ئالغا باسماق؛ ئالغا باسماق؛ ئالغا ئىلگىرىلىمەك</p>\n\n
+上述	shàng shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدا ئېيتىلغان (زىكرى قىلىنغان، بايان قىلىنغان)；يۇقىرىدا ئېيتىلغان، زىكرى قىلىنغان؛ يۇقىرىدا بايان قىلىنغان</p>\n\n
+上述事物	shàng shù shì wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدا ئېيتىلغان ئىشلار</p>\n\n
+上述各点	shàng shù gè diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدا بايان قىلىنغان ھەر قايسى نۇقتىلار</p>\n\n
+上送	shàng sòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا يەتكۈزمەك، ئاپىرىپ بەرمەك</p>\n\n
+上部	shàng bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرىنچى توم؛ بىرىنچى توم، بىرىنچى قىسىم؛ بىرىنچى قىسىم؛ بەدەننىڭ يۇقىرى بۆلىكى</p>\n\n
+上部平巷排放沼气法	shàng bù píng xiàng pái fàng zhǎo qì fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىدىكى تۈز خاڭ يولىدىن گاز قويۇۋېتىش ئۇسۇلى</p>\n\n
+上部截槽	shàng bù jié cáo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىدىن ئېرىقچە ئېلىش</p>\n\n
+上部拉线	shàng bù lā xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تارتما سىم</p>\n\n
+上部桅拉索	shàng bù wéi lā suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىدىن ماچتىغا تارتىلىدىغان ئارقان</p>\n\n
+上部结构	shàng bù jié gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدىكى قۇرۇلما</p>\n\n
+上部钉法	shàng bù dìng fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىغا مىخلاش ئۇسۇلى</p>\n\n
+上钩	shàng gōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىلتاققا چۈشمەك؛ قارماققا ئىلىنماق</p>\n\n
+上铸模	shàng zhù mó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەڭگە قېلىپى</p>\n\n
+上铺	shàng pù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قوش قەۋەت كارىۋاتنىڭ ئۈستىدىكى قەۋىتى</p>\n\n
+上链复形	shàng liàn fù xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى زەنجىرلىك كومپلېكس</p>\n\n
+上锁	shàng suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلۇپلىماق، قۇلۇپ سالماق</p>\n\n
+上锁的透明酒柜	shàng suǒ de tòu míng jiǔ guì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلۇپلىنىدىغان كۆرۈنمە ھاراق ئىشكاپى</p>\n\n
+上锁码	shàng suǒ mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلۇپلاش نومۇرى</p>\n\n
+上锁骨	shàng suǒ gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېلىقنىڭ يەلكە سۆڭىكىنىڭ ئاستىدىكى سۆڭىكى</p>\n\n
+上锅筒	shàng guō tǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قازان</p>\n\n
+上门	shàng mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشىك ئالدىغا كەلمەك (كەلتۈرمەك)；ئىشىك ئالدىغا كەلمەك؛ باشقىلارنىڭ ئۆيىگە بارماق</p>\n\n
+上门投递	shàng mén tóu dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشىككىچە يەتكۈزۈش</p>\n\n
+上门投递费	shàng mén tóu dì fèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشىككىچە يەتكۈزۈش ھەققى</p>\n\n
+上门收订	shàng mén shōu dìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىغان بېرىپ مۇشتەرى قوبۇل قىلىش</p>\n\n
+上门服务	shàng mén fú wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىغان بېرىپ مۇلازىمەت قىلىش؛ ئالدىغا بېرىپ مۇلازىمەت قىلىش</p>\n\n
+上闩索	shàng shuān suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاقاق زەنجىرى (ئىشىكنىڭ)</p>\n\n
+上阔下窄的	shàng kuò xià zhǎi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستى كەڭ، ئاستى تار</p>\n\n
+上阵	shàng zhèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇسابىقە ۋە ئەمگەككە قاتناشماق؛ جەڭگە ئاتلانماق</p>\n\n
+上阿图什乡	上阿图什乡【新疆各地】； shàng ā tú shí xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈن ئاتۇش يېزىسى</p>\n\n
+上限	shàng xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماكسىمۇم؛ يۇقىرى چەك؛ يۇقىرىقى چەك؛ ئەڭ يۇقىرى چەك</p>\n\n
+上限寄存器	shàng xiàn jì cún qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چەكلىك رېگىستېر</p>\n\n
+上限幅电路	shàng xiàn fú diàn lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى ئامپلىتۇدا چەكلىگۈچى توك يولى</p>\n\n
+上限接受值	shàng xiàn jiē shòu zhí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چەكتىكى قوبۇل قىلىش قىممىتى</p>\n\n
+上限累加器	shàng xiàn lèi jiā qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چەكلىك جۇغلىغۇچ</p>\n\n
+上限规则	shàng xiàn guī zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چەك قائىدىسى</p>\n\n
+上限链路	shàng xiàn liàn lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى چەك زەنجىرى</p>\n\n
+上集箱	shàng jí xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى كوللېكتور</p>\n\n
+上面	shàng miàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى؛ جەھەتتە؛ ئۈستىدە؛ يۇقىرىدا؛ رەھبەرلىك；... بويىچە؛ يۇقىرى ئورۇن (ئورگان)；يۇقىرى، يۇقىرىدا؛ جەھەتتە، ... بويىچە</p>\n\n
+上面说的人	shàng miàn shuō de rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرىدا دېيىلگەن ئادەم</p>\n\n
+上面还有	shàng miàn hái yǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىدە يەنە بار</p>\n\n
+上面部指数	shàng miàn bù zhǐ shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى يۈز ئىندېكسى</p>\n\n
+上面酵母	shàng miàn jiào mǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈست ئېچىتقۇسى</p>\n\n
+上面长满	shàng miàn cháng mǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستىنى ... قاپلاپ كەتمەك، ئۈستىگە ... ئۆسۈپ كەتمەك</p>\n\n
+上面高	shàng miàn gāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۈزىنىڭ ئۈستى تەرىپى ئېگىز</p>\n\n
+上鞋	shàng xié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چەملىمەك؛ چەم سالماق؛ چەم سالماق، چەملىمەك</p>\n\n
+上颈手枷	shàng jǐng shǒu jiā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاقاق سالماق</p>\n\n
+上颈饰	shàng jǐng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈۋرۈك بوينىدىكى بېزەك</p>\n\n
+上颌	shàng hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇقىرى جاغ، ئۈستۈنكى جاغ</p>\n\n
+上颌动脉	shàng hé dòngmài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى جاغ ئارتېرىيىسى</p>\n\n
+上颌正中囊肿	shàng hé zhēng zhōng náng zhǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى جاغ ئوتتۇرىسىدىكى خالتىلىق ئىششىق</p>\n\n
+上颌神经	shàng hé shénjīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى جاغ نېرۋىسى</p>\n\n
+上颌贩齿槽突，上颌骨	shàng hé fàn chǐ cáo tū , shàng hé gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى جاغ سۆڭىكى</p>\n\n
+上颚	shàng è； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تاڭلاي؛ ئۈستۈنكى ئېڭەك</p>\n\n
+上颚基	shàng è jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تاڭلاي ئۇلى</p>\n\n
+上颚颚骨	shàng è è gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى تاڭلاي سۆڭەك</p>\n\n
+上颞颥骨	shàng niè  gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى چېكە سۆڭىكى</p>\n\n
+上颞颥骨弓	shàng niè  gǔ gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى چېكە سۆڭىكى ئەگمىسى</p>\n\n
+上风	shàng fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەۋزەللىك؛ ئۈستۈنلۈك؛ شامال ئۇرۇلىدىغان تەرەپ؛ ئۈستۈنلۈك، ئەۋزەللىك</p>\n\n
+上风井	shàng fēng jǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خاڭ يولىنىڭ شامال چىقىرىش قۇدۇقى</p>\n\n
+上风舵	shàng fēng duò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شامال رولى</p>\n\n
+上饶市	上饶市【国内省市】； shàng ráo shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاڭراۋ شەھىرى</p>\n\n
+上首	shàng shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆردە ئولتۇرىدىغانلار، تۆرنىڭ ئىگىلىرى، ھۆرمەتلىك</p>\n\n
+上马	shàng mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇتۇنماق؛ ئىشقا تۇتۇنماق، ئىش باشلىماق؛ ئىش باشلىماق؛ ئىشقا ئاتلانماق؛ ئاتلانماق، ئاتقا مىنمەك</p>\n\n
+上骨凸	shàng gǔ tū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېپاپوفىز</p>\n\n
+上髁	shàng kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوشۇق سۆڭىكىنىڭ سىرتقى تومپىقى</p>\n\n
+上鳃骨	shàng sāi gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى ساقاق سۆڭىكى</p>\n\n
+上鸟喙肉	shàng niǎo huì ròu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قۇش تۇمشۇقىسىمان مۇسكۇل</p>\n\n
+上鸟喙骨	shàng niǎo huì gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى قۇش تۇمشۇقىسىمان سۆڭەك</p>\n\n
+上齿槽指数	shàng chǐ cáo zhǐ shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى چىش ئوقۇرى ئىندېكسى</p>\n\n
+上齿龈	shàngchǐ kěn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈستۈنكى چىش مىلكى</p>\n\n
+上龙	shàng lóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پلىئوزاۋر</p>\n\n
+上龙属	shàng lóng shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پلىئوزاۋر ئۇرۇقدىشى</p>\n\n
+下	xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس؛ ياق؛ يەر؛ تۈۋ؛ باماق؛ تەرەپ؛ تۆۋەن؛ ۋاقىت؛ ئالماق؛ بەرمەك؛ چۈشمەك؛ سالماق؛ قىلماق؛ كىرمەك؛ ئىچىدە؛ ياغماق؛ ئاستىدا؛ قايتماق؛ كېيىنكى؛ ئەۋەتمەك؛ چۈشۈرمەك؛ چىقارماق؛ ئارقىسىدا؛ يان تەرەپ؛ بېسىۋالماق؛ تۆۋەنلىمەك؛ يىغىۋالماق؛ پەستىكى، تۆۋەندىكى، ئاستىدىكى، تېگىدىكى؛ چىقارماق، چۈشۈرمەك، بەرمەك، ئەۋەتمەك؛ ھاشىيە، بەتنىڭ تۆۋەنكى ئاق يېرى؛ چۈشۈرمەك، سېلىۋەتمەك، بوشاتماق؛ ئۆز ۋاقتىدا توختاتماق، چۈشمەك؛ تاشلىماق، سالماق، چاچماق؛ چىقىپ كەتمەك؛ ئاست، كېلەركى؛ پەس، تېگى پەس؛ ئورۇن، جاي، يەر، سورۇن؛ پەس، تۆۋەن، ئاست؛ تۇغماق(ھايۋانلار)；قىلىۋاتقان ھەرىكەتن؛ يەر ئاستى، يەر تېگى؛ ئېلىپ تاشلىماق؛ ئامما، كۆپچىلىك؛ بىر سائەت ۋاقىتنى كۆرسىتىدۇ؛ چۈشمەك، تۆۋەنلىمەك، ياغماق؛ كېلەركى، كېيىنكى؛ كېلەركى، كېيىنكى؛ ئىشلەتمەك، بەرمەك، سەرپ قىلماق</p>\n\n
+下一个	xià yī gè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى</p>\n\n
+下一地址	xià yī dì zhǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى ئادرېس</p>\n\n
+下一环境	xià yī huán jìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى مۇھىت</p>\n\n
+下一记录	xià yī jì lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى خاتىرە</p>\n\n
+下上文无关程序文法	xià shàng wén wú guān chéng xù wén fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونتېكىستكە مۇناسىۋەتسىز پروگرامما گرامماتىكىسى</p>\n\n
+下下脚	xià xià jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالدۇق؛ دەسسىمەك؛ چىقىرىندىلار؛ تاشلاندۇقلار؛ ئايىغىنى قويماق</p>\n\n
+下不为例	xià bù wéi lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىككىنچى ئۇنداق قىلماسلىق؛  يەنە تەكرارلانماسلىق؛  پەندىيات قىلماق؛ بۇندىن كېيىن تەكرارلىماسلىق؛ ئىككىنچى قېتىم بۇنداق قىلماسلىق</p>\n\n
+下不了高梁本喝不到老烧酒	下不了高梁本，喝不到老烧酒； \nxià bù le gāo liáng běn hē bù dào lǎo shāo jiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قولنى كەسمىگۈچە قان چىقماس</p>\n\n
+下不来	xià bù lái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشەلمەسلىك؛ تەڭلىكتە قالماق؛ خىجالەتچىلىكتە قالماق</p>\n\n
+下不来台	xià bù lái tái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشەلمەسلىك؛ تەڭلىكتە قالماق، خىجالەتچىلىكتە قالماق</p>\n\n
+下世	xià shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆلمەك، ۋاپات بولماق، تۈگەپ كەتمەك؛ ئۇ دۇنيا، ئاخىرەت، باقىي ئالەم؛ يار يۈزى، پەرىش</p>\n\n
+下丘	xià qiū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى دۆڭچە</p>\n\n
+下丘脑	xià qiū nǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى دۆڭ مېڭە</p>\n\n
+下丘脑神经垂体系统	下丘脑-神经垂体系统； \nxià qiū nǎo shén jīng chuí tǐ xì tǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى دۆڭ مېڭە-نېرۋا گىپوفىز سىستېمىسى</p>\n\n
+下丘脑释放因子	xià qiū nǎo shì fàng yīn zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى دۆڭ مېڭىنىڭ قويۇپ بەرگۈچى فاكتورى</p>\n\n
+下个不停	xià gè bù tíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توختىماي چۈشىۋەرمەك، توختىماي ياغىۋەرمەك</p>\n\n
+下中农	xià zhōng nóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئوتتۇرا دېھقان</p>\n\n
+下中天	xià zhōng tiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆرەن كۇلمىناتسىيە (يۇلتۇزلارنىڭ مېرىدىئاندىن ئۆتۈشى)</p>\n\n
+下中音	xià zhōng yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇبمېدىئانت (مۇزىكىدىكى س ماژور ئىچىدىكى ئا)</p>\n\n
+下主静脉	xià zhǔ jìng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى غول ۋېنا</p>\n\n
+下主音	xià zhǔ yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇبتونىك (7-ئاھاڭ)</p>\n\n
+下乘	xià chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناچار؛ چاكىنا؛ ئوسال ئات؛ ناچار، چاكىنا؛ قابىلىيەتسىز ئادەم</p>\n\n
+下乡	xià xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېزىغا بارماق، يېزىغا چۈشمەك؛ يېزىغا بارماق؛ يېزىغا چۈشمەك</p>\n\n
+下书	xià shū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خەت ئەۋەتمەك</p>\n\n
+下井	xià jǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇدۇققا چۈشۈپ كەتمەك؛ يامان ئەھۋالدا قالماق</p>\n\n
+下人	xià rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مالاي، چاكار</p>\n\n
+下令	xià lìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇيرۇق چۈشۈرمەك</p>\n\n
+下伏矿脉	xià fú kuàng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چوڭقۇر يەر ئاستىدىكى كان تىزمىسى</p>\n\n
+下伞	xià sǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى كۈنلۇكسىمان يۈز (مېدۇزىنىڭ)</p>\n\n
+下传动压力机	xià chuán dòng yā lì jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندىن قوزغىتىلىدىغان پرېس</p>\n\n
+下位属	xià wèi shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئورۇن تەۋەلىكى</p>\n\n
+下位潮	xià wèi cháo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئورۇندىكى دېڭىز سۈيى كۆتۈرۈلۈشى</p>\n\n
+下位的	xià wèi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئورۇندىكى</p>\n\n
+下位类	xià wèi lèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى تۈر</p>\n\n
+下位系	xià wèi xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئورۇن سىستېمىسى</p>\n\n
+下位苞	xià wèi bāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇرۇق چانىقى</p>\n\n
+下位运动神经元病	xià wèi yùn dòng shén jīng yuán bìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئورۇندىكى ھەرىكەت نېۋرونى كېسەللىكى</p>\n\n
+下位锁	xià wèi suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قۇلۇپ</p>\n\n
+下体	xià tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەدەننىڭ تۆۋەن قىسمى، بەلنىڭ تۆۋىنى؛ بەدەننىڭ ئۇياتلىق قىسمى، ئەۋرەت</p>\n\n
+下余	xià yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاشقان؛ قالغان؛ قالدۇق</p>\n\n
+下作	xià zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەتقىلىق، پەسكەش؛ ئاچكۆزلۈك بىلەن يېمەك</p>\n\n
+下侧的	xià cè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى يان تەرەپتىكى</p>\n\n
+下倾	xià qīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قىيسايماق</p>\n\n
+下关	下关【地名】； xià guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شىمونوسېكى</p>\n\n
+下关节	xià guān jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بوغۇم</p>\n\n
+下冲式水轮	xià chōng shì shuǐ lún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە يۈزلەنگەن چىغرىق</p>\n\n
+下冲气流	xià chōng qì liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە يۈزلەنگەن ھاۋا ئېقىمى</p>\n\n
+下凡	xià fán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسماندىن يەرگە چۈشمەك؛ جەننەتتىن پەرىشكە چۈشمەك</p>\n\n
+下击暴流	xià jī bào liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىغان زور ئېقىم</p>\n\n
+下刀具	xià dāo jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆشۈك ئاستىنى قىرىپ تەكشىلەش پىچىقى</p>\n\n
+下切	xià qiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىتىپ كېسىش</p>\n\n
+下切侵蚀	xià qiē qīn shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىك يالاش</p>\n\n
+下划线	xià huá xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى سىزىق</p>\n\n
+下列	xià liè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندە؛ تۆۋەندىكى؛ تۆۋەندە، تۆۋەندىكى</p>\n\n
+下利清谷	xià lì qīng gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەزىم قىلىش ناچارلىقىدىن ئىچ سۈرمەك</p>\n\n
+下刺刀	xià cì dāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نەيزىنى ئېلىۋېتىش، ئىتتىكىنى چىقىرىۋېتىش (مىلتىقتىن)</p>\n\n
+下前尖	xià qián jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالدىنقى ئاستى ئېزىق چىش تاجى</p>\n\n
+下前角索	xià qián jiǎo suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەلكەننىڭ ئاستىنقى ئالدى ئارقىنى</p>\n\n
+下剩	xià shèng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاشقان؛ قالغان؛ قالدۇق</p>\n\n
+下力	xià lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈچ كېتىدىغان، مۈشكۈل، جاپالىق؛ كۈچىمەك، كۈچ سالماق</p>\n\n
+下功夫	xià gōng fū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈچ سەرپ قىلماق، ئەجىر قىلماق؛ ئەمگەك سىڭدۈرمەك</p>\n\n
+下加符	xià jiā fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا قوشۇلىدىغان بەلگە</p>\n\n
+下劲	xià jìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈچىمەك؛ ئەجىر قىلماق؛ غەيرەت قىلماق؛ ئىجتىھاد قىلماق</p>\n\n
+下北美生物带	xià běi měi shēng wù dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى سونوران جانلىقلار زونىسى</p>\n\n
+下午	xià wǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن كېيىن، چۈشتىن كېيىنكى ۋاقىت؛ چۈشتىن كېيىن؛ چۈشتىن كېيىنكى ۋاقىت</p>\n\n
+下午报	《下午报》 （葡、希）； xià wǔ bào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پېشىنلىك</p>\n\n
+下午版	xià wǔ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پېشىنلىك سان</p>\n\n
+下午班	xià wǔ bān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن كېيىنلىك سمېنا</p>\n\n
+下半功率频率	xià bàn gōng lǜ pín lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى يېرىم قۇۋۋەت چاستوتىسى</p>\n\n
+下半场	xià bàn chǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى يېرىم مەيدان (مۇسابىقىدە)</p>\n\n
+下半夜	xià bàn yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈننىڭ ئىككىنچى يېرىمى؛ يېرىم كېچىدىن كېيىن</p>\n\n
+下半旗	xià bàn qí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بايراقنى يېرىم چۈشۈرمەك</p>\n\n
+下半晌	xià bàn shǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن كېيىن</p>\n\n
+下半身	xià bàn shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەدەننىڭ تۆۋەنكى يېرىمى، بەلنىڭ تۆۋىنى</p>\n\n
