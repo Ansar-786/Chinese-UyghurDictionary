@@ -1932,3 +1932,130 @@ Y射线	Y shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8
 万马奔腾	wàn mǎ bēn téng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈمەن تۇلپار بەيگىگە چۈشمەك؛  ھەممە قاينام-تاشقىنلىققا چۆممەك؛ ھەممە قاينام-تاشقىنلىققا چۆممەك؛ تۈمەنلىگەن ئات بەيگىگە چۈشمەك</p>\n\n
 万马皆喑	wànmǎ jiē yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەممە بۇرۇقتۇرما بولۇپ يۈرمەك؛  جانسىز، ئۆلۈك كەيپىيات ھۆكۈم سۈرمەك</p>\n\n
 万马齐喑	wànmǎqí yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەممە بۇرۇقتۇرما بولۇپ يۈرمەك؛  جانسىز، ئۆلۈك كەيپىيات ھۆكۈم سۈرمەك؛ سۆزلىمەسلىك؛ ھېچكىم ئاۋاز چىقارماسلىق (كۆپچىلىك)；گەپ قىلماسلىق؛ ھەممە سۈكۈت قىلماق؛ ھېچكىم ئاۋاز چىقارماسلىق؛ ھەممە بۇرۇقتۇرما بولۇپ قالماق؛ ھەممە بۇرۇقتۇرما بولۇپ يۈرمەك؛ ئۈن-تىن چىقارماسلىق</p>\n\n
+丈二和尚摸不着头脑	zhàng èr hé shang mō bù zhuó tóu nǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھاڭ-تاڭ قالماق؛ ھېچ چۈشىنىپ بولماسلىق</p>\n\n
+丈二金刚	zhàng èr jīn gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پالۋان؛ زەبەردەست؛ ناھايىتى چوڭ؛ ناھايىتى چوڭ، زەبەر-دەست</p>\n\n
+丈人	zhàng rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چوڭ دادا، تاغا (ئۆزىدىن چوڭلارنى ھۆرمەتلەپ ئېيتقاندا)；قېيىن ئاتا (خوتۇننىڭ دادىسى)</p>\n\n
+丈兄	zhàng xiōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېزنە، ئېرىنىڭ ئاكىسى</p>\n\n
+丈夫	zhàng fū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەر؛ ئېرى؛ يىگىت؛ ئەركەك؛ كۈيۆسى؛ ئوغۇل بالا؛ ئەركەك، ئەر، ئوغۇل بالا، يىگىت؛ ئېرى، كۈيۆسى</p>\n\n
+丈夫气慨	zhàng fū qì kǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەرلىك جاسارەت</p>\n\n
+丈母	zhàng mǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قېيىن ئانا (خوتۇننىڭ ئانىسى)</p>\n\n
+丈母娘	zhàng mǔ niáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قېيىن ئانا (خوتۇننىڭ ئانىسى)</p>\n\n
+丈量	zhàng liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆلچىمەك؛ ئۆلچەپ چىقماق؛ ئۆلچىمەك، ئۆلچەپ چىقماق</p>\n\n
+三	sān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆپ؛ ئۈچ؛ نۇرغۇن؛ 3، ئۈچ؛ ئۈچىنچى؛ كۆپ، نۇرغۇن؛ ئۈچ (3)، ئۈچۈنچى</p>\n\n
+三μ事例	sān μshì lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ  مىسال</p>\n\n
+三一式的	sān yī shì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن، ئۈچ نەرسە قوشۇلۇپ بىر پۈتۈن بولغان</p>\n\n
+三一统	sān yī tǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن خۇدا سېرىيىسى</p>\n\n
+三一节	sān yī jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن خۇدا بايرىمى</p>\n\n
+三一节开庭期	sān yī jié kāi tíng qī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن خۇدا بايرىمىدىكى سوت ئېچىش ۋاقتى</p>\n\n
+三一裁	sān yī cái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچتە بىر چوڭلۇقتىكى قەغەز تاختا</p>\n\n
+三丁基锡化合物	sān dīng jī xī huà hé wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىبۇتىل قەلەي بىرىكمىلىرى</p>\n\n
+三丁精	sān dīng jīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىبۇتىرىن</p>\n\n
+三丁锡氯	sān dīng xī lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىبۇتىتىن خلورىد</p>\n\n
+三七	sān qī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يالغان ئادەمگىياھ؛ يالغان مېھىرىگىياھ</p>\n\n
+三七分牌戏	sān qī fēn pái xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ-يەتتە ئۈلۈشلۈك قارتا ئويۇنى</p>\n\n
+三七开	sān qī kāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ-يەتتە ئۈلۈشلۈك ئايرىما</p>\n\n
+三七草	sān qī cǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىنۇرا ئوتى</p>\n\n
+三七草属	sān qī cǎo shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىنۇرا ئۇرۇقدىشى</p>\n\n
+三三两两	sān sān liǎng liǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىككى-ئۈچتىن بولۇشۇپ؛ ئىككى-ئۈچ كىشى بىرگە؛ ئىككىدىن-ئۈچتىن توپ بولماق؛  توپ-توپ بولماق. شالاڭ</p>\n\n
+三三五五	sān sān wǔ wǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ-تۆتتىن بىر بولۇشۇپ، ئۈچتىن-تۆتتىن توپ بولۇپ</p>\n\n
+三三制的	sān sān zhì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچلۈك تۈزۈم</p>\n\n
+三三制的筹资原则	“三三制”的筹资原则； \nsān sān zhì de chóu zī yuán zé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 تەرەپ تەڭ ئۈستىگە ئېلىپ مەبلەغ توپلاش پرىنسىپى</p>\n\n
+三上一下斜坟	sān shàng yī xià xié fén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچى يۇقىرى بىرى تۆۋەن يانتۇ يوللۇق (سارجا)</p>\n\n
+三下两下	sān xià liǎng xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇنداق-بۇنداق قىلىپلا؛ بىر-ئىككى ھەپىلىشىپلا</p>\n\n
+三下五除二	sān xià wǔ chú èr； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېتىك ۋە چاققان بولماق</p>\n\n
+三下采煤	sān xià cǎi méi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خىل يەر ئاستىدا كۆمۈر قېزىش</p>\n\n
+三不幸	sān bù xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ چوڭ بەختسىزلىك</p>\n\n
+三不政策	“三不政策”； sān bù zhèng cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ قىلماسلىق سىياسىتى؛ 3 قىلماسلىق سىياسىتى</p>\n\n
+三不朽	sān bù xiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئۇنتۇلغۇسىز ئىش</p>\n\n
+三不知	sān bù zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھېچنېمىنى بىلمەسلىك</p>\n\n
+三不管	sān bù guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھېچكىمنىڭ كارى بولمايدىغان</p>\n\n
+三世	sān shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئەۋلاد؛ سانسېي (ئامېرىكىدا تۇغۇلۇپ ئۆسكەن ئىككىنچى ئەۋلاد ياپونلار)</p>\n\n
+三丙酮胺	sān bǐng tóng àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاتسېتونامىن</p>\n\n
+三个一组	sān gè yī zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچى بىر گۇرۇپپا بولماق</p>\n\n
+三个人抬不过一个理字	三个人抬不过一个“理”字； \nsān gè rén tái bù guò yī gè lǐ zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەقىقەت ئېگىلەر سۇنماس</p>\n\n
+三个代表	sān gè dài biǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچكە ۋەكىللىك قىلىش</p>\n\n
+三个头	sān gè tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نومۇرى ئوخشاش ئۈچ قارتا</p>\n\n
+三个庄子乡	三个庄子乡【新疆各地】； sān gè zhuāng zǐ xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنگىجاڭزا يېزىسى</p>\n\n
+三个有利于标准	“三个有利于”标准； \nsān gè yǒu lì yú biāo zhǔn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 پايدىلىق  ئۆلچىمى</p>\n\n
+三个离不开	sān gè lí bù kāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 ئايرىلالماسلىق</p>\n\n
+三个突破	sān gè tū pò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3 بۆسۈش</p>\n\n
+三个臭皮匠合成一个诸葛亮	三个臭皮匠，合成一个诸葛亮； \nsān gè chòu pí jiang hé chéng yī gè zhū gě liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ نادان بىرلەشسە بىر ئاقىلغا تەڭ بولار؛  كېڭەشلىك ئىش بۇزۇلماس؛  كۆپنىڭ ئەقلى كۆپ؛ كۆپتىن كۆپ ئەقىل چىقار</p>\n\n
+三串行加法器	sān chuàn xíng jiā fǎ qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئارقىمۇئارقا قوشقۇچ</p>\n\n
+三乙基的	sān yǐ jī de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېتىل</p>\n\n
+三乙基硼烷	sān yǐ jī péng wán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېتىل بوران</p>\n\n
+三乙基胺	sān yǐ jī àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېتىلامىن</p>\n\n
+三乙酰竹桃霉素	sān yǐ xiān zhú táo méi sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاتسېتىل ئولېئاندومىتسىن</p>\n\n
+三乙酸纤维素	sān yǐ suān xiān wéi sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سېلليۇلوزا ترىئاتسېتات</p>\n\n
+三乙酸铝	sān yǐ suān lǚ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاليۇمىن ترىئاتسېتات</p>\n\n
+三乙醇胺	sān yǐ chún àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېتانولامىن</p>\n\n
+三九	sān jiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنجۇ، ئۈچىنچى چىللە</p>\n\n
+三九一一	sān jiǔ yī yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">3911؛ فورات</p>\n\n
+三五成群	sān wǔ chéng qún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ-تۆتتىن توپ-توپ بولۇشماق</p>\n\n
+三井企业集团	sān jǐng qǐ yè jí tuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىتسۇئېي كارخانا گۇرۇھى</p>\n\n
+三井信托银行	sān jǐng xìn tuō yín háng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىتسۇئېي ھاۋالە بانكىسى</p>\n\n
+三井银行	sān jǐng yín háng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىتسۇئېي بانكىسى؛ مىتسئېي بانكىسى</p>\n\n
+三亚乙基四胺	sān yà yǐ jī sì àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېتىلېن تېترامىن</p>\n\n
+三亚乙基蜜胺	sān yà yǐ jī mì àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئېتىلېن مېلامىن</p>\n\n
+三亚市	三亚市【国内省市】； sān yà shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەنيا شەھىرى</p>\n\n
+三亚苯	sān yà běn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىفېنىلېن</p>\n\n
+三交种	sān jiāo zhǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ نەسىداشلىق شالغۇت</p>\n\n
+三产妇	sān chǎn fù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچنى تۇغقان ئايال</p>\n\n
+三亲六眷	sān qīn liù juàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇرۇق-تۇغقانلار</p>\n\n
+三人划艇	sān rén huá tǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىلىك قولۋاق</p>\n\n
+三人同居的关系	sān rén tóng jū de guān xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشى بىرگە تۇرۇش مۇناسىۋىتى (ئەر-خوتۇنلارنىڭ بىرىنىڭ ئاشنىسى كېلىپ شۇ ئائىلىدىكىلەر بىلەن بىللە تۇرۇش)</p>\n\n
+三人小组	sān rén xiǎo zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىلىك گۇرۇپپا</p>\n\n
+三人当家七扯八拉	三人当家，七扯八拉； \nsān rén dāng jiā qī chě bā lā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">موللا كۆپ يەردە قوي ھارام بوپتۇ</p>\n\n
+三人成虎	sān rén chéng hǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يالغان تەكرارلىنىۋەرسە، راست بولۇپ قالىدۇ</p>\n\n
+三人成行	sān rén chéng xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئادەم قاتار مېڭىش</p>\n\n
+三人的	sān rén de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىلىك</p>\n\n
+三人舞	sān rén wǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىلىك تانسا</p>\n\n
+三人行必有我师	三人行，必有我师； \nsān rén xíng bì yǒu wǒ shī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىنىڭ ئىچىدىن بىرەر ئۇستاز تېپىلىدۇ؛ ئۈچ كىشىنىڭ ئىچىدە ئۇستاز بولىدىغان بىرى تېپىلىدۇ</p>\n\n
+三人行，必有我师	sān rén háng , bì yǒu wǒ shī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىنىڭ ئىچىدىن ئۇستاز بولغۇدەك بىرى تېپىلىدۇ</p>\n\n
+三人评议会	sān rén píng yì huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ كىشىلىك باھالاش يىغىنى</p>\n\n
+三从四得	sān cóng sì dé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئىتائەت، تۆت ئەخلاق</p>\n\n
+三从四德	sān cóng sì dé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئىتائەت ۋە تۆت ئالىيجاناب سۈپەت</p>\n\n
+三代	sān dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئەۋلاد</p>\n\n
+三代以内旁系血亲关系	sān dài yǐ nèi páng xì xuè qīn guān xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئەۋلاد ئىچىدىكى شىرەم توغقانلىق مۇناسىۋەت</p>\n\n
+三代品种的	sān dài pǐn zhǒng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى ئەۋلاد پارودا</p>\n\n
+三代磷酸钠	sān dài lín suān nà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاساسلىق ناترىي فوسفات</p>\n\n
+三代虫总科	sān dài chóng zǒng kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئەۋلادلىق قۇرتلار باش ئائىلىسى</p>\n\n
+三令五申	sān lìng wǔ shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا-قايتا بۇيرۇق بەرمەك، تەكرار تاپىلىماق، ئۈست-ئۈستىلەپ تەكىتلىمەك؛ قايتا-قايتا بۇيرۇق بەرمەك؛ ئۈست-ئۈستلەپ جېكىلىمەك؛ قايتا-قايتا تەكىتلىمەك؛  تەكرار تاپىلىماق</p>\n\n
+三件成一套的	sān jiàn chéng yī tào de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەركىبلىك بىر يۈرۈش</p>\n\n
+三价元素	sān jià yuán sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ۋالېنتلىق ئېلېمېنت</p>\n\n
+三价原子	sān jià yuán zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ۋالېنتلىق ئاتوم</p>\n\n
+三价基	sān jià jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىئاد</p>\n\n
+三价染色体组	sān jià rǎn sè tǐ zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىۋالېنت، ئۈچ ۋالېنتلىق</p>\n\n
+三伏	sān fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تومۇز</p>\n\n
+三伏天	sān fú tiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تومۇز كۈنلىرى</p>\n\n
+三伏特计法	sān fú tè jì fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ۋولتمېترلىق ئۇسۇل</p>\n\n
+三位一体	sān wèi yī tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلىك (ئۈچ ئادەم ياكى ئۈچ ئىش بىرلىشىپ بىر پۈتۈن بولماق)；ئۈچ بىرلىك، ئۈچ بىرلەشكەن خۇدا</p>\n\n
+三位一体主日	sān wèi yī tǐ zhǔ rì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن خۇدا مەزھىپىنىڭ ئىبادەت كۈنى</p>\n\n
+三位一体教义	sān wèi yī tǐ jiào yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن خۇدا ئەقىدىسى</p>\n\n
+三位一体教义的从属说	sān wèi yī tǐ jiào yì de cóng shǔ shuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇبئوردىناتسىئونىزم</p>\n\n
+三位一体柱	sān wèi yī tǐ zhù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلىك تۈۋرۈكى</p>\n\n
+三位一体派教徒	sān wèi yī tǐ pai jiào tú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ بىرلەشكەن خۇدا مەزھىپىنىڭ مۇخلىسلىرى</p>\n\n
+三位一体论	sān wèi yī tǐ lùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىتېئىزم</p>\n\n
+三位形态上帝一体论	sān wèi xíng tai shàng dì yī tǐ lùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مودالىستىك مونارخىئانىزم</p>\n\n
+三位形态上帝一体论者	sān wèi xíng tai shàng dì yī tǐ lùn zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مودالىستىك مونارخىئان</p>\n\n
+三位形态说者	sān wèi xíng tai shuō zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مودالىست</p>\n\n
+三位数	sān wèi shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خانىلىق سان</p>\n\n
+三位相互共存说	sān wèi xiāng hù gòng cún shuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىركۇمىنسېسسىيە، ئۈچ ئورۇن ئۆزئارا مەۋجۇت تۇرۇش تەلىماتى (خرىستىئان دىنىدا)</p>\n\n
+三位编码	sān wèi biān mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خانىلىق كودلاشتۇرۇش</p>\n\n
+三位置	sān wèi zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئورۇن</p>\n\n
+三体	sān tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىزوما</p>\n\n
+三体帆船	sān tǐ fān chuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىماران (ئۈچ گەۋدىلىك يەلكەنلىك كېمە)</p>\n\n
+三体性	sān tǐ xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىزومىك</p>\n\n
+三体的	sān tǐ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىزومىك</p>\n\n
+三体碰撞	sān tǐ pèng zhuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ جىسىم سوقۇلۇشى</p>\n\n
+三体问题	sān tǐ wèn tí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ جىسىم مەسىلىسى؛ 3 جىسىم مەسىلىسى</p>\n\n
+三体雄蕊的	sān tǐ xióng ruǐ de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ئاتىلىقلىق</p>\n\n
+三侧开关	sān cè kāi guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپلىك ۋېكليۇچاتېل</p>\n\n
+三侧电源	sān cè diàn yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ تەرەپلىك توك مەنبەسى</p>\n\n
+三便士钉	sān biàn shì dìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر يېرىم ديۇيملىق مىخ</p>\n\n
+三保田	sān bǎo tián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچنى ساقلاپ قالالايدىغان ئېتىز</p>\n\n
+三倍	sān bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسە</p>\n\n
+三倍体	sān bèi tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىپلوئىد</p>\n\n
+三倍器	sān bèi qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسىلىگۈچ</p>\n\n
+三倍字	sān bèi zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسىلەنگەن سۆز</p>\n\n
+三倍字长	sān bèi zì cháng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ ھەسسىلەنگەن سۆز ئۇزۇنلۇقى</p>\n\n
+三倍字长工作	sān bèi zì cháng gōng zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچ خەت ئۇزۇنلۇقىدا ئىشلەش</p>\n\n
