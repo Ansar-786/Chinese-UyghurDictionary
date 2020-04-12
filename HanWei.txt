@@ -3999,3 +3999,871 @@ Y射线	Y shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8
 下半旗	xià bàn qí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بايراقنى يېرىم چۈشۈرمەك</p>\n\n
 下半晌	xià bàn shǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشتىن كېيىن</p>\n\n
 下半身	xià bàn shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەدەننىڭ تۆۋەنكى يېرىمى، بەلنىڭ تۆۋىنى</p>\n\n
+下半部	xià bàn bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى يېرىم قىسىم</p>\n\n
+下南方生物带	xià nán fāng shēng wù dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى جەنۇب جانلىقلار زونىسى</p>\n\n
+下压力	xià yā lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى يۆنەلگەن بېسىم</p>\n\n
+下原尖	xià yuán jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى ئېزىق چىشنىڭ سىرتقى تاجى</p>\n\n
+下厥上冒	xià jué shàng mào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سوغۇقى ئېشىپ كۆڭۈل ئېلىشىش</p>\n\n
+下厥上竭	xià jué shàng jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەنپىيلىك ئاجىزلاپ، مۇسبەتلىك كۈچىيىپ كېتىشى</p>\n\n
+下去	xià qù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بارماق؛ چۈشمەك؛ بارماق داۋاملاشماق؛ داۋاملاشتۇرماق؛ داۋاملاشماق، داۋاملاشتۇرماق</p>\n\n
+下反对	xià fǎn duì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى قارىمۇقارشىلىق</p>\n\n
+下发背	xià fā bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەلگە چىققان قوڭىيوغان</p>\n\n
+下口喙	xià kǒu huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوستوما (كانا ۋە سالجىلارنىڭ ئېغىزى تۈۋىدىكى بىر ئەزاسى)</p>\n\n
+下口目	xià kǒu mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوستوما بېلىقلىرى ئەترىتى</p>\n\n
+下台	xià tái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەختتىن؛ ھاكىمىيەت بېشىدىن چۈشمەك، تەختتىن چۈشمەك؛ پەشتاقتىن چۈشمەك؛ سەھنىدىن چۈشمەك؛ ھاكىمىيەت بېشىدىن چۈشمەك؛ مۈشكۈل ئەھۋالدىن قۇتۇلۇش يولىنى تاپماق؛ سەھنىدىن چۈشمەك، پەشتاقتىن چۈشمەك</p>\n\n
+下合	xià hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى كونيۇكسىيە</p>\n\n
+下合穴	xià hé xué； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شياخې پەللىسى</p>\n\n
+下同	xià tóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندىمۇ ئوخشاش</p>\n\n
+下后侧板	xià hòu cè bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوپلېۋرا (قوش قاناتلىقلار ئەترىتىدىكىلەرنىڭ كېيىنكى ئاساسىي بوغۇمىنڭ ئالدىدىكى ۋە ئۈستىدىكى سۆڭەك ياپراقچىسى)</p>\n\n
+下后内尖	xià hòu nèi jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى ئېزىق چىشنىڭ ئارتقى تاجى</p>\n\n
+下后尖	xià hòu jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى ئارتقى ئېزىق چىش تاجى</p>\n\n
+下向的	xià xiàng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە يۈزلەنگەن، تۆۋەنگە قارىتىلغان</p>\n\n
+下向芽	xià xiàng yá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە بىخلىنىش</p>\n\n
+下向通风	xià xiàng tōng fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە يۈزلەنگەن شامال</p>\n\n
+下吸	xià xī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندىن سۈمۈرۈش</p>\n\n
+下吸式化油器	xià xī shì huà yóu qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندىن سۈمۈرىدىغان كاربيۇراتور</p>\n\n
+下吹机	xià chuí jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە شامالدىتىش ماشىنىسى</p>\n\n
+下周屏幕	xià zhōu píng mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېلەر ھەپتىلىك ئېكراندا</p>\n\n
+下命令	xià mìng lìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇيرۇق چۈشۈرمەك</p>\n\n
+下咽	xià yān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى يۇتقۇنچاق (ھاشاراتنىڭ)；يۇتماق، يۇتۇۋەتمەك</p>\n\n
+下咽骨	xià yān gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى يۇتقۇنچاق سۆڭىكى</p>\n\n
+下品	xià pǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوسال؛ ناچار؛ تۆۋەن سورت؛ تۆۋەن سورت، ناچار، ئوسال، تۆۋەن دەرىجىلىك؛ تۆۋەن دەرىجىلىك</p>\n\n
+下唇	xià chún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇك، ئاستىنقى لەۋ؛ ئاستىنقى لەۋ</p>\n\n
+下唇上叶	xià chún shàng yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇكنىڭ ئالدى ياپراقچىسى</p>\n\n
+下唇沟	xià chún gōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى لەۋ ئېرىقچىسى</p>\n\n
+下唇瓣	xià chún bàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇكسىمان گۈل بەرگى</p>\n\n
+下唇腺	xià chún xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇك بېزى</p>\n\n
+下唇节	xià chún jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇك بوغۇمى (ھاشارات بېشىنىڭ 6-بوغۇمى)</p>\n\n
+下唇茎节	xià chún jīng jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇك غول بوغۇمى (ھاشاراتنىڭ ئالدىنقى ئېڭىكى)</p>\n\n
+下唇须	xià chún xū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى كالپۇك تۈكچىسى (ھاشاراتنىڭ)；ئاستىنقى لەۋ بۇرۇتچىسى</p>\n\n
+下喉	xià hóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇشلارنىڭ بوغۇزى</p>\n\n
+下回	xià huí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇدو قېتىم؛ كېلەركى قېتىم؛ يەنە بىر قېتىم؛ يەنە بىر مەرتەم</p>\n\n
+下圆线虫属	xià yuán xiàn chóng shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گيوسترۇنگىلۇس قۇرتى ئۇرۇقدىشى</p>\n\n
+下地	xià dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېتىزغا چىقماق كارىۋاتتىن چۈشمەك؛ كارىۋاتتىن چۈشمەك؛ ئورنىدىن تۇرماق؛ ئېتىزغا چىقماق</p>\n\n
+下地幔	xià dìmàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەر شارىنىڭ يەر پوستىدىن يادروسىغىچە بولغان قىسمى</p>\n\n
+下场	xià chǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاقىۋەت؛ سەھنىدىن چۈشمەك؛ مەيداندىن چىقىپ كەتمەك؛ سەھنىدىن چۈشمەك، مەيداندىن چىقىپ كەتمەك</p>\n\n
+下坂地水利枢纽	xià  de shuǐlì shū niǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس بەلدىر سۇچىلىق تۈگۈنى</p>\n\n
+下坐骨	xià zuò gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇغۇر (كەسلەنچۈكنىڭ)</p>\n\n
+下坠	xià zhuì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەرگە چۈشمەك، يەرگە قونماق (ئايروپىلان)；تۆۋەنگە چىڭقالماق (قورساق)；تۆۋەنلىمەك، ئولتۇرۇشماق</p>\n\n
+下坠球	xià zhuì qiú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەرگە چۈشكەن توپ</p>\n\n
+下坡	xià pō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يانتۇلۇق، يانباغىر</p>\n\n
+下坡稳定嚣	xià pō wěn dìng xiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يانتۇلۇقتا تۇراقلاشتۇرغۇچ</p>\n\n
+下坡路	xià pō lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېڭىش؛ چېكىنمەك؛ چۈشكۈنلۈك؛ يەر تۆۋىنى؛ پەسكە سوزۇلغان يانتۇ يول؛ چۈشكۈنلۈك، چېكىنمەك؛ پەسكە سوزۇلغان يانتۇ يول، يەر تۆۋىنى،  ئېڭىش</p>\n\n
+下坡道	xià pō dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەسكە سوزۇلغان يانتۇ يول، يەر تۆۋىنى، ئېڭىش؛ چۈشكۈنلۈك، چېكىنمەك</p>\n\n
+下垂	xià chuí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلاش؛ تۆۋەن چۈشمەك، ساڭگىلاپ كەتمەك؛ تۆۋەن چۈشمەك؛ قوساق سېلىپ قالماق؛ ساڭگىلاپ كەتمەك</p>\n\n
+下垂副翼	xià chuí fù yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما قوشۇمچە قانات</p>\n\n
+下垂力矩	xià chuí lì jǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما كۈچ مومېنتى</p>\n\n
+下垂度	xià chuí dù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلاش دەرىجىسى</p>\n\n
+下垂总状花序	xià chuí zǒng zhuàng huā xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما باشاقسىمان گۈل رېتى</p>\n\n
+下垂恶婆草	xià chuí è pó cǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لېپتولوما ئوتى</p>\n\n
+下垂点	下垂（陷）点； \nxià chuí diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلاش نۇقتىسى</p>\n\n
+下垂物	xià chuí wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما جىسىم</p>\n\n
+下垂物装饰	xià chuí wù zhuāng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما بېزەك</p>\n\n
+下垂琼楠	xià chuí qióng nán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بېيلشميېدىيە دەرىخى</p>\n\n
+下垂的	xià chuí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىغان</p>\n\n
+下垂的样式	xià chuí de yàng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلاپ تۇرغان</p>\n\n
+下型箱	xià xíng xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساندۇقسىمان قېلىپ</p>\n\n
+下埃及	xià āi jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى مىسىر</p>\n\n
+下基的	xià jī de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇل ئاستىدىكى</p>\n\n
+下士	xià shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىلادشىي سېرژانت</p>\n\n
+下壳	xià ké； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى قاسىراق</p>\n\n
+下处	xià chǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قونالغۇ؛ چۈشەر جاي؛ چۈشەر جاي، قونالغۇ</p>\n\n
+下大雨	xià dà yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قارا يامغۇر ياغماق</p>\n\n
+下头	xià tóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس؛ ئاست؛ پەستە؛ تۆۋەن؛ تۆۋەندە؛ تۆۋەندىكى؛ تۆۋەندە، پەستە، تۆۋەندىكى؛ تۆۋەن دەرىجىلىك؛ تۆۋەن، ئاست، پەس</p>\n\n
+下夸克	xià kuā kè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچتىن بىر كۋارك</p>\n\n
+下奇努克语	xià qí nǔ kè yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چىنۇك تىلى</p>\n\n
+下奶	xià nǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۈت چۈشۈرمەك، سۈت كەلتۈرمەك (تۇغۇتلۇق ئايالدىن)</p>\n\n
+下子下子儿	下子，下子儿； \nxià zǐ xià zǐ ér； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇخۇم سالماق(بېلىق ياكى ھاشاراتلارنىڭ تۇخۇم سېلىشى)</p>\n\n
+下子午圈	xià zǐ wǔ quān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئانتې مېرىدىئان</p>\n\n
+下子午线	xià zǐ wǔ xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئانتىمېرىدىئان</p>\n\n
+下子座	xià zǐ zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوستروما (زەمبۇرۇغ تەگلىكى)</p>\n\n
+下孔亚纲	xià kǒng yà gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىناپسىد كەنجى سىنىپى</p>\n\n
+下孔目	xià kǒng mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوتېرما بېلىقلىرى ئەترىتى</p>\n\n
+下存	xià cún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالدۇق؛ قالدۇرماق؛ قالدۇق، قالدۇرماق</p>\n\n
+下定义	xià dìng yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەبىر بەرمەك</p>\n\n
+下射	xià shè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قىيسايماق</p>\n\n
+下射曲叶水轮	xià shè qǔ yè shuǐ lún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قىيسايغان ئەگرى قاناتلىق چىغرىق</p>\n\n
+下层	xià céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلام</p>\n\n
+下层人	xià céng rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن تەبىقە كىشىسى</p>\n\n
+下层土排水沟	xià céng tǔ pái shuǐ gōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەن توپا قاتلىمىدىكى زەي قاچۇرۇش ئېرىقى</p>\n\n
+下层地下室	xià céng dì xià shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى يەر ئاستى ئۆيى</p>\n\n
+下层基础	xià céng jī chǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى ئۇل</p>\n\n
+下层密灌丛	xià céng mì guàn cóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلاملىق بۈك چاتقاللىق</p>\n\n
+下层林	xià céng lín； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلام ئورمىنى</p>\n\n
+下层树林	xià céng shù lín； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلام ئورمىنى</p>\n\n
+下层植物	xià céng zhí wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلاملىق ئۆسۈملۈكلەر</p>\n\n
+下层甲板	xià céng jiǎ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى پالۇبا</p>\n\n
+下层矮生植被	xià céng ǎi shēng zhí bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلاملىق پاكار ئۆسۈملۈكلەر يېپىنچىسى</p>\n\n
+下层社会	xià céng shè huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەشكىللىنىپ جىنايەت ئۆتكۈزگۈچىلەر جەمئىيىتى؛ جەمئىيەتنىڭ تۆۋەن قاتلىمى؛ تۆۋەن تەبىقە؛ پېسەندىلەر جەمئىيىتى</p>\n\n
+下层线圈边	xià céng xiàn quān biān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى قەۋەتتىكى كاتۇشكا گىرۋىكى</p>\n\n
+下层绒毛	xià céng róng máo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىۋىت (يۇڭنىڭ تۆۋەن قاتلىمىدىكى تىۋىت)</p>\n\n
+下层结构	xià céng jié gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى قۇرۇلما</p>\n\n
+下层阶级	xià céng jiē jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن تەبىقە</p>\n\n
+下层阶级的	xià céng jiē jí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن تەبىقىدىكى</p>\n\n
+下屈服点	xià qū fú diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ئېگىلىش نۇقتىسى</p>\n\n
+下属	xià shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەۋە؛ قاراشلىق؛ قارىمىقىدا؛ قول ئاستىدا؛ قاراشلىق، تەۋە، قارىمىقىدا، قول ئاستىدا</p>\n\n
+下属音	xià shǔ yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇبدومىنانت (مۇزىكىنىڭ س ياكى ف ماژورى)</p>\n\n
+下山容易上山难	xià shān róng yì shàng shān nán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاغدىن چۈشۈش ئاسان، تاغقا چىقىش تەس</p>\n\n
+下岗	xià gǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش ئورنىدىن قالماق؛ خىزمىتىدىن ئايرىلىش</p>\n\n
+下岗人员	xià gǎng rén yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش ئورنىدىن قالغانلار</p>\n\n
+下岗分流	xià gǎng fēn liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش ئورنىدىن قالدۇرۇپ تارقاقلاشتۇرۇش</p>\n\n
+下崖坡	xià yá pō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">غۇلاشتىن شەكىللەنگەن يانتۇلۇق</p>\n\n
+下工	xià gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشتىن قايتماق، ئىشتىن چۈشمەك؛ ئىشتىن چۈشمەك؛ ئىشتىن قايتماق</p>\n\n
+下工夫	xià gōng fu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەجىر قىلماق؛ كۈچ سەرپ قىلماق؛ ئەمگەك سىڭدۈرمەك؛ كۈچ سەرپ قىلماق، ئەجىر قىلماق</p>\n\n
+下巨虚	xià jù xū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شياجۈيشۈي (پەللە نامى)</p>\n\n
+下巴	xià bā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېڭەك</p>\n\n
+下帖	xià tiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باغاق ئەۋەتمەك؛ تەكلىپنامە ئەۋەتمەك</p>\n\n
+下带	xià dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلۋاغ</p>\n\n
+下店	xià diàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قونالغۇدا قالماق، دەڭگە چۈشمەك، سارايغا چۈشمەك؛ دەڭگە چۈشمەك؛ قونالغۇدا قالماق؛ سارايغا چۈشمەك</p>\n\n
+下廉	xià lián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شياليەن (پەللە نامى)</p>\n\n
+下延	xià yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سوزۇلغان</p>\n\n
+下延火成岩体	xià yán huǒ chéng yán tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سوزۇلغان ئېگېنىتىس</p>\n\n
+下弓	xià gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كامالچىنىڭ تۈۋىدىن ئۇچىغىچە سىيرىپ چالماق (ئىسكىرىپكىنى)</p>\n\n
+下弦	xià xián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاينىڭ كېيىنكى يېرىم چەمبەر ھالىتى</p>\n\n
+下弯龙叶树	xià wān lóng yè shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دراكوفىللۇم چاتقىلى</p>\n\n
+下怀	xià huái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆز ئارزۇسى؛ ئۆز ئارزۇسى، كۆڭلىدىكىدەك؛ كۆڭلىدىكىدەك</p>\n\n
+下悬起重机	xià xuán qǐ zhòng jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما كران</p>\n\n
+下情	xià qíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندىكى (تۆۋەن تەشكىلاتلاردىكى(ئەھۋاللار؛ تۆۋەندىكى (تۆۋەن تەشكىلاتلاردىكى) ئەھۋاللار</p>\n\n
+下意识	xià yì shi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاڭسىز؛ ئاڭسىزلىق؛ بىئىختىيار؛ ئىختىيارسىز؛ ئاڭسىز، ئاڭسىزلىق، ئىختىيارسىز، بىئىختىيار</p>\n\n
+下截部分	xià jié bù fēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېسىندى قىسىم</p>\n\n
+下户线	xià hù xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆيگە تارتىلغان سىم</p>\n\n
+下户线路	xià hù xiàn lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆيگە تارتىلغان لىنىيە</p>\n\n
+下手	xià shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باشلىماق؛ كىرىشمەك؛ ياردەمچى؛ قول سالماق؛ ھەرىكەتكە كەلمەك، قول سالماق، باشلىماق، كىرىشمەك، قولغا ئالماق؛ قولغا ئالماق؛ ھەرىكەتكە كەلمەك؛ جىنايەت ئۆتكۈزمەك؛ كېيىنكى نۆۋەتنى ئالغۇچى</p>\n\n
+下托	xià tuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇبىكۇلۇم (سەقەنقۇرنىڭ مېڭە ئايلانمىسى)</p>\n\n
+下承	xià chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېگىدە ئېسىلىپ تۇرغان، ئاسما</p>\n\n
+下承式桥	xià chéng shì qiáo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسما كۆۋرۈك</p>\n\n
+下投式探空仪	xià tóu shì tàn kōng yí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاشلانما زوند</p>\n\n
+下投式探空仪分配室	xià tóu shì tàn kōng yí fēn pèi shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاشلانما زوند دىسپېتچېرخانىسى</p>\n\n
+下投式探空仪观测	xià tóu shì tàn kōng yí guān cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاشلانما زوندلۇق كۆزىتىش</p>\n\n
+下担子	xià dàn zi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوبازىدىيە؛ تۆۋەنكى بازىدى</p>\n\n
+下拉式选单	xià lā shì xuǎn dān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسما تىزىملىك</p>\n\n
+下拉电阻	xià lā diàn zǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسما قارشىلىق</p>\n\n
+下拉菜单	xià lā cài dān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاسما تىزىملىك</p>\n\n
+下拍	xià pāi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشۈرمە ئۇدار</p>\n\n
+下挡键	xià dǎng jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست خوت كۇنۇپكىسى؛ ئاستىنقى خوت كۇنۇپكىسى</p>\n\n
+下推	xià tuī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ئىتتىرىش، تۆۋەنگە سىلجىتىش؛ تۆۋەنگە ئىتتىرىش</p>\n\n
+下推堆栈	xià tuī duī zhàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا ئىتتىرىش تۇراسى</p>\n\n
+下推存储器	xià tuī cún chǔ qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا ئىتتىرىپ ساقلىغۇچ</p>\n\n
+下推排队	xià tuī pái duì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سىلجىتىپ رەتكە تۇرغۇزۇش</p>\n\n
+下推栈	xià tuī zhàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئىتتىرىش تۇراسى</p>\n\n
+下推翻译机	xià tuī fān yì jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا ئىتتىرىش تەرجىمىسى</p>\n\n
+下推自动机	xià tuī zì dòng jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا ئىتتىرىش ئاپتوماتىك ماشىنىسى</p>\n\n
+下推表	xià tuī biǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ئىتتىرىش جەدۋىلى؛ تۆۋەنگە سىلجىتىش جەدۋىلى</p>\n\n
+下推队列	xià tuī duì liè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا ئىتتىرىش رېتى</p>\n\n
+下插	xià chā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىتىپ قىستۇرماق</p>\n\n
+下搭手	xià dā shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەلگە چىققان قوڭىيوغان</p>\n\n
+下摆	xià bǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېتەك</p>\n\n
+下播状态	xià bō zhuàng tai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا تارقىتىش ھالىتى</p>\n\n
+下操	xià cāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىمناستىكىغا چىقماق؛ گىمناستىكىدىن چۈشمەك</p>\n\n
+下支座	xià zhī zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەگلىك</p>\n\n
+下放	xià fàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە چۈشۈرمەك (ھوقۇقنى، كادىرلارنى)</p>\n\n
+下放矿石	xià fàng kuàng shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رۇدىنى تۆۋەنگە چۈشۈرۈش</p>\n\n
+下文	xià wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇچۇر؛ نەتىجە؛ تۆۋەندە؛ تۆۋەندىكى تېكىست؛ تۆۋەندىكى تېكست، تۆۋەندە؛ تېكستنىڭ تۆۋەن قىسمىدا</p>\n\n
+下料冲床	xià liào chòng chuáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇيمىنى قېلىپتىن ئاجرىتىش پرېسى</p>\n\n
+下料工	xià liào gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشلىنىپ بولغان ماتېرىيالنى ستانوكتىن ياكى قېلىپتىن ئالغۇچى ئىشچى</p>\n\n
+下料模	xià liào mó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاجرىتىش قېلىپى</p>\n\n
+下料锯	xià liào jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مېتال تاياقچە ياكى تۇرۇبىلارنى كېسىدىغان ھەرە، پولات ھەرە</p>\n\n
+下斜耳戳	xià xié ěr chuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلاق ئاستىغا سېلىنغان ئەن</p>\n\n
+下斜肌	xià xié jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قىيپاش مۇسكۇل</p>\n\n
+下方	xià fāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن تەرەپ</p>\n\n
+下方引进	xià fāng yǐn jìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىن كىرگۈزمەك</p>\n\n
+下方的下面的	下方的，下面的； \nxià fāng de xià miàn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندىكى</p>\n\n
+下方耳戳	xià fāng ěr chuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلاق ئاستىغا سېلىنغان ئەن</p>\n\n
+下旋	xià xuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كەينىگە ئايلىنىش</p>\n\n
+下无极链牵引	xià wú jí liàn qiān yǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست زەنجىرلىك سۆرەش</p>\n\n
+下旬	xià xún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچىنچى دېكادا (ئاينىڭ ئۈچىنچى ئون كۈنى)；كېيىنكى ئون كۈن</p>\n\n
+下晚儿	xià wǎn ér； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گۇگۇم ۋاقتى، گۇگۇم چۈشكەندە، كەچ كىرگەندە</p>\n\n
+下曲	xià qǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ئېگىلىش</p>\n\n
+下曳气流	xià yè qì liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سۆرەلگەن ھاۋا ئېقىمى</p>\n\n
+下月	xià yuè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى ئاي، كېلەر ئاي</p>\n\n
+下木	xià mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئورمان چاتقاللىرى</p>\n\n
+下本儿	xià běn ér； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەسمايە سالماق</p>\n\n
+下来	xià lái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشمەك؛ چۈشۈرمەك؛ چۈشمەك، چۈشۈرمەك</p>\n\n
+下极限	xià jí xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى لىمىت</p>\n\n
+下枝	xià zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى پۇتاق</p>\n\n
+下标	xià biāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بۇرجەككە قويۇلىدىغان بەلگە؛ تۆۋەنكى بەلگە؛ ئاتوم سانى بەلگىسى</p>\n\n
+下标变量	xià biāo biàn liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە ئۆزگەرگۈچى مىقدارى</p>\n\n
+下标变量符号	xià biāo biàn liàng fú hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە ئۆزگەرگۈچى مىقدار بەلگىسى</p>\n\n
+下标号	xià biāo hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە نومۇرى</p>\n\n
+下标名	xià biāo míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە نامى</p>\n\n
+下标名称	xià biāo míng chēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە نامى</p>\n\n
+下标字	xià biāo zì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە سۆزى</p>\n\n
+下标形式	xià biāo xíng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە شەكلى</p>\n\n
+下标成分	xià biāo chéng fen； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە تەركىبى</p>\n\n
+下标括号	xià biāo kuò hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە تىرنىقى</p>\n\n
+下标操作符	xià biāo cāo zuò fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە مەشغۇلات بەلگىسى</p>\n\n
+下标数据	xià biāo shù jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە سانلىق مەلۇماتى</p>\n\n
+下标数据名字	xià biāo shù jù míng zi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە سانلىق مەلۇماتنامى</p>\n\n
+下标数据项	xià biāo shù jù xiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە سانلىق مەلۇمات ئەزاسى</p>\n\n
+下标文法	xià biāo wén fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە گرامماتىكىسى</p>\n\n
+下标检查	xià biāo jiǎn chá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىندېكس تەكشۈرۈش</p>\n\n
+下标界	xià biāo jiè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە چېكى</p>\n\n
+下标界限	xià biāo jiè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە جەدۋىلى</p>\n\n
+下标类型	xià biāo lèi xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە تىپى</p>\n\n
+下标约束	xià biāo yuē shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە چەكلەش</p>\n\n
+下标范围	xià biāo fàn wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە دائىرىسى</p>\n\n
+下标表	xià biāo biǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە جەدۋىلى</p>\n\n
+下标表达式	xià biāo biǎo dá shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە ئىپادىسى</p>\n\n
+下标限定名	xià biāo xiàn dìng míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بەلگە چەكلىمە نامى</p>\n\n
+下格	xià gé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كاتەكچە بىكارلاش</p>\n\n
+下桅	xià wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاكار ماچتا</p>\n\n
+下桥楼	xià qiáo lóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى كۆۋرۈك (پاراخوت بىناسىدىكى)</p>\n\n
+下棋	xià qí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاتار ئوينىماق، دامكا ئوينىماق؛ شاھمات ئوينىماق</p>\n\n
+下椎弓凹	xià zhuī gōng āo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئومۇرتقا يايىنىڭ ئويمىنى</p>\n\n
+下榻	xiàtà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قونۇپ قالماق، قونالغۇدا ياتماق، چۈشمەك</p>\n\n
+下槎作物	xià chá zuòwù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى قېتىم تېرىلىدىغان زىرائەت</p>\n\n
+下横木	xià héng mù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى توغرا ياغاچ</p>\n\n
+下横杆	xià héng gǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى توغرا بالداق</p>\n\n
+下橄榄	xià gǎn lǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى زەيتۇنسىمان تەنە</p>\n\n
+下欠	xià qiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالدۇق قەرز؛ قالدۇق قەرز، قەرزنىڭ قالدۇقى؛ قەرز ئېشىپ قالماق؛ قەرز يەنە قېپقالماق؛ قەرزنىڭ قالدۇقى؛ قەرز ئېشىپ قالماق، قەرز يەنە قېپقالماق</p>\n\n
+下次	xià cì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇدو قېتىم؛ يەنە بىر مەرتەم، يەنە بىر قېتىم، كېلەركى قېتىم، بۇدو قېتىم؛ كېلەركى قېتىم؛ يەنە بىر مەرتەم؛ يەنە بىر قېتىم</p>\n\n
+下次尖	xià cì jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىككىنچى ئېزىق چىش تاجى</p>\n\n
+下款	xià kuǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىمزا قويۇلىدىغان ئورۇن</p>\n\n
+下死点	xià sǐ diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پورشېننىڭ ئەڭ تۆۋەنلەش نۇقتىسى</p>\n\n
+下段	xià duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپومېرا (بۇلۇتنىڭ قامچىسىمان تۈكسىز بوشلۇقىنىڭ تېگى)</p>\n\n
+下毒	xià dú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زەھەرلەپ ئۆلتۈرمەك</p>\n\n
+下毛毛雨	xià máo máo yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىم-سىم يامغۇر ياغماق</p>\n\n
+下气	xià qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەل ماڭماق، يەل كەتمەك تۆۋەنكى چى (قۇۋۋەت، جۇڭيىدا)</p>\n\n
+下气烟道	xià qì yān dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈتۈننى پېچ ئاستىدىن چىقىرىش تۇرۇبىسى</p>\n\n
+下水	xià shuǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئازدۇرماق؛ بالاغا تىقماق، يامان يولغا باشلىماق، ئازدۇرماق؛ سۇغا چۈشمەك؛ سۇغا چۈشۈرمەك، سۇغا چۈشمەك؛ سۇغا چىلىماق؛ بالاغا تىقماق؛ سۇغا چۈشۈرمەك؛ ئورىغا ئىتتەرمەك؛ ئېقىم بويلاپ يۈرمەك؛ يامان يولغا باشلىماق</p>\n\n
+下水扳机	xià shuǐ bān jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ترىگگېر (كېمىنى دوك ئۈستىدە تۇتۇپ تۇرغۇچى تەپكە)</p>\n\n
+下水滑道	xià shuǐ huá dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىيرىلدۈرۈپ سۇغا چۈشۈرۈش يولى (كېمىنى)</p>\n\n
+下水管	xià shuǐ guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇندى تۇرۇبىسى</p>\n\n
+下水道	xià shuǐ dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەۋرەز؛ يۇندى يولى؛ يۇندى ئاققۇزۇش يولى؛ يەر ئاستى سۇ يولى</p>\n\n
+下水道工程	xià shuǐ dào gōng chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇندى يولى قۇرۇلۇشى</p>\n\n
+下水道汇流井	xià shuǐ dào huì liú jǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇندى يىغىش قۇدۇقى</p>\n\n
+下水道系统	xià shuǐ dào xì tǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇندى يولى سىستېمىسى</p>\n\n
+下水道蓖栅	xià shuǐ dào bì shān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يۇندى يولى سالاسۇنى</p>\n\n
+下江	xià jiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاڭجياڭنىڭ تۆۋەنكى ئېقىمىدىكى جايلار</p>\n\n
+下沉	xià chén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۆكمەك؛ ئولتۇرۇشماق؛ غەرق بولماق؛ چۆكۈپ كەتمەك؛ چۆكۈپ كەتمەك، ئولتۇرۇشماق؛ چۆكمەك، غەرق بولماق</p>\n\n
+下沉山脉	xià chén shān mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئولتۇرۇشقان تاغ تىزمىسى</p>\n\n
+下沉岸线	xià chén àn xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئولتۇرۇشۇپ كەتكەن قىرغاق لىنىيىسى</p>\n\n
+下沉流	xià chén liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئولتۇرۇشۇش ئېقىمى</p>\n\n
+下沉逆温	xià chén nì wēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش ئىنۋېرسىيىسى</p>\n\n
+下沉速率	xià chén sù lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئولتۇرۇشۇش تېزلىكى</p>\n\n
+下沉陆地	xià chén lù dì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئولتۇرۇشقان قۇرۇقلۇق</p>\n\n
+下沟	xià gōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئېرىقچە</p>\n\n
+下河才知水深浅	xià hé cái zhī shuǐ shēn qiǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەرياغا چۈشكەندە سۇنىڭ چوڭقۇرلۇقى بىلىنەر</p>\n\n
+下沿岸带	xià yán àn dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قىرغاق زونىسى</p>\n\n
+下法	xià fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۈرگە ئىچكۈزۈش</p>\n\n
+下注	xià zhù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىكمەك؛ ئىزاھات؛ ئىزاھلار؛ دو چىقماق؛ دو قويماق (قىماردا)；تىكمەك، دو چىقماق، دو قويماق (قىماردا)</p>\n\n
+下注疮	xià zhù chuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاچاقتىكى جاھىل تەمرەتكە</p>\n\n
+下洗	xià xǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىتىپ سىيپاپ ئۆتۈش</p>\n\n
+下流	xià liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەسكەش؛ رەزىللىك؛ پەسكەشلىك؛ مۇتتەھەملىك؛ تۆۋەن ئېقىن؛ پەسكەش، پەسكەشلىك؛ رەزىللىك، مۇتتەھەملىك</p>\n\n
+下流成分	xià liú chéng fen； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەسكەش تەركىبلەر (ئەسەردىكى)</p>\n\n
+下流话	xià liú huà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەت گەپلەر؛ رەزىل سۆزلەر؛ پەسكەش سۆزلەر</p>\n\n
+下浇口	xià jiāo kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قۇيۇش ئېغىزى</p>\n\n
+下浮	xià fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە لەيلىمەك</p>\n\n
+下海	xià hǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كەسپىي ئارتىس بولۇپ قالماق؛ دېڭىزغا چىقماق</p>\n\n
+下海绿石砂层	xià hǎi lǜ shí shā céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دېڭىز ئاستىدىكى يېشىل قۇم قاتلىمى</p>\n\n
+下消	xià xiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۈيدۈك دۇغلىنىش كېسەللىكى</p>\n\n
+下涝坝乡	下涝坝乡【新疆各地】； xià lào bà xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شيالوبا يېزىسى</p>\n\n
+下游	xià yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالاقلىق؛ تۆۋەن ئېقىن (دەريانىڭ)</p>\n\n
+下游产品	xià yóu chǎn pǐn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىككىلەمچى مەھسۇلات</p>\n\n
+下游物流	xià yóu wù liú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئېقىم</p>\n\n
+下溢	xià yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمىيىپ كېتىش؛ تۆۋەنگە ئاقماق</p>\n\n
+下溢信号	xià yì xìn hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمىيىپ كېتىش سىگنالى</p>\n\n
+下滑角	xià huá jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سىيرىلىش بۇلۇڭى</p>\n\n
+下滑轰炸	xià huá hōng zhà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سىيرىلدۈرۈپ بومباردىمان قىلىش</p>\n\n
+下滑运动员	xià huá yùn dòng yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاڭغا بىلەن تاغدىن تېيىلىپ چۈشكۈچى</p>\n\n
+下滑道	xià huá dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشۈش يولى</p>\n\n
+下滑道信标	xià huá dào xìn biāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشۈش يولى بەلگىسى</p>\n\n
+下滑锋	xià huá fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە سىيرىلىش فرونتى</p>\n\n
+下濑火药	xià lài huǒyào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شىموسې (ياپونىيىدە ئىشلەنگەن پوروخ)</p>\n\n
+下火星峰	xià huǒ xīng fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى مارس چوققىسى</p>\n\n
+下灰岩群	xià huī yán qún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ھاك تاش توپى</p>\n\n
+下烂药	xià làn yào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">غەيۋەت قىلماق</p>\n\n
+下焦	xià jiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاشقازاننىڭ تۆۋەن ئېغىزىدىن داس بوشلۇقىغىچە بولغان قىسىم</p>\n\n
+下焦如渎	xià jiāo rú dú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈچەينىڭ راۋان بولۇشى</p>\n\n
+下牙槽动脉	xià yá cáo dòng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چىش ئوقۇرى ئارتېرىيىسى</p>\n\n
+下牙槽神经	xià yá cáo shén jīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چىش ئوقۇرى نېرۋىسى</p>\n\n
+下牙槽静脉	xià yá cáo jìng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چىش ئوقۇرى ۋېناسى</p>\n\n
+下狱	xià yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈرمىگە چۈشمەك، قامالماق</p>\n\n
+下班	xià bān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشتىن چۈشمەك، خىزمەتتىن قايتماق؛ ئىشتىن چۈشمەك؛ خىزمەتتىن قايتماق</p>\n\n
+下班时间	xià bān shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشتىن چۈشۈش ۋاقتى</p>\n\n
+下瓣	xià bàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قىسمى (قامچا تۈكلۈك قۇرتلارنىڭ)</p>\n\n
+下瓶状体	xià píng zhuàng tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوئاسسىدىيە، ئاستىنقى بوتۇلكىسىمان تەنە</p>\n\n
+下生	xià shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇغۇلماق؛ دۇنياغا كەلمەك</p>\n\n
+下生殖板	xià shēng zhí bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپاندرىيە؛ ھاشاراتنىڭ تۆۋەنكى كۆپىيىش پلاستىنكىسى</p>\n\n
+下甲板	xià jiǎ bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى پالۇبا</p>\n\n
+下界	xià jiè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چەك؛ ئاسماندىن چۈشمەك، پەرىشكە چۈشمەك؛ تۆۋەنكى جىيەك؛ دېڭىز ئاستى، ئوكياننىڭ تېگى؛ بۇ دۇنيا، پانىي دۇنيا</p>\n\n
+下界算法	xià jiè suàn fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چەكنى ھېسابلاش قائىدىسى</p>\n\n
+下略	xià lüè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەندە قىسقارتىلدى</p>\n\n
+下疳	xià gān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شانكىر</p>\n\n
+下病上取	xià bìng shàng qǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەدەننىڭ تۆۋەن تەرىپىدىكى كېسەللىكلەرگە بەدەننىڭ يۇقىرى تەرىپىدىكى پەللىلەرنى تاللاش</p>\n\n
+下痿	xià wěi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇتلار پالەچلىنىش</p>\n\n
+下盘	xià pán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياتقان بىقىن، ياتقان قانات؛ ياتقان بۆلەك</p>\n\n
+下盘斜井	xià pán xié jǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياتقان بۆلەك ئۈستىدىكى يانتۇ قۇدۇق (شاختا)</p>\n\n
+下矢状窦	xià shǐ zhuàng dòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىغان سترېلكىسىمان سىنۇس</p>\n\n
+下石疽	xià shí jū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىزغا چىققان قوڭىيوغان</p>\n\n
+下砧	xià zhēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەندەل</p>\n\n
+下碇	xià dìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">لەڭگەر تاشلىماق (كېمىنى توختىتىش ئۈچۈن)</p>\n\n
+下磨盘	xià mó pán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈگمەننىڭ ئاستى تېشى</p>\n\n
+下磨石	xià mó shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈگمەننىڭ ئاستى تېشى</p>\n\n
+下种	xià zhǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېرىماق؛ ئۇرۇق سالماق؛ تېرىماق، ئۇرۇق سالماق</p>\n\n
+下移	xià yí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا سىلجىش</p>\n\n
+下穿交叉道	xià chuān jiāo chā dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ئۆتكۈزۈش كېسىشمە يولى</p>\n\n
+下穿线	xià chuān xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ئۆتكۈزۈش لىنىيىسى</p>\n\n
+下窍	xià qiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاياللارنىڭ جىنسىي ئەزاسى ۋە مەقئەت</p>\n\n
+下端入口	xià duān rù kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئۇچ كىرىش ئېغىزى</p>\n\n
+下端回路	xià duān huí lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئۇچ كونتۇرى</p>\n\n
+下端桩	xià duān zhuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئۇچ قوزۇقى</p>\n\n
+下笔	xià bǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قەلەم تەۋرەتمەك، قولغا قەلەم ئالماق، يېزىشقا باشلىماق؛ قولغا قەلەم ئالماق؛ قەلەم تەۋرەتمەك؛ يېزىشقا باشلىماق</p>\n\n
+下笔万言	xià bǐ wàn yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلىغا قەلەم ئېلىپلا يېزىۋەتمەك؛  شارت-شۇرتلا قىلىپ يېزىۋەتمەك</p>\n\n
+下笔千言	xià bǐ qiān yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلىغا قەلەم ئېلىپلا يېزىۋەتمەك؛  شارت-شۇرتلا قىلىپ يېزىۋەتمەك</p>\n\n
+下笔如神	xià bǐ rú shén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قەلىمى ئۆتكۈر، قەلىمى پىشقان؛  قۇلىغا قەلەم ئېلىپلا يېزىۋەتمەك</p>\n\n
+下第三系	xià dì sān xì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پالېئوگېن سىستېمىسى</p>\n\n
+下第二尖	xià dì èr jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرىنچى ئېزىق چىش تاجى</p>\n\n
+下等	xià děng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن سورتلۇق، تۆۋەن دەرىجىلىك؛ تۆۋەن سورتلۇق؛ تۆۋەن دەرىجىلىك</p>\n\n
+下等人	xià děng rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پېسەندە</p>\n\n
+下等去处	xià děng qù chǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشرەتخانا</p>\n\n
+下策	xià cè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناتوغرا يول؛ ناچار تەدبىر، ناتوغرا يول؛ ناچار تەدبىر؛ ئەڭ ناچار (يامان) پىلان</p>\n\n
+下籽	xià zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇرۇق چاچماق (ئوت-چۆپ ئۇرۇقىنى)</p>\n\n
+下繁草	xià fán cǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس باراقسانلايدىغان ئوت</p>\n\n
+下纤列	xià xiān liè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىنفۇزورىيە قۇرتىنىڭ نېۋرون سىستېمىسى</p>\n\n
+下级	xià jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن؛ تۆۋەندىكى؛ تۆۋەن، تۆۋەندىكى، تۆۋەن دەرىجە، تۆۋەن دەرىجىلىك؛ تۆۋەن دەرىجە؛ تۆۋەن دەرىجىلىك</p>\n\n
+下级军官	xià jí jūn guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن دەرىجىلىك ئوفىتسېر</p>\n\n
+下纲	xià gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىنفرا سىنىپ (كەنجى سىنىپتىن كېيىن تۇرىدىغان تاكسونومىيىلىك دەرىجە)</p>\n\n
+下线	xià xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىكى سىزىق؛ ئاستىنقى سىزىق</p>\n\n
+下缘复带	xià yuán fù dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەلكەننىڭ ئاستىنقى قوشۇمچە ئارقىنى</p>\n\n
+下网	xià wǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تورنى ئۈزۈش، تورنى توختىتىش</p>\n\n
+下者举之	xià zhě jǔ zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىچ سۈرۈش، مەقئەت ياكى بالىياتقۇ چىقىپ كېتىش قاتارلىق تۆۋەنكى ئەزالار كېسەللىكىنى داۋالاش ئۇسۇلى</p>\n\n
+下联	xià lián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نورۇزنامىنىڭ ئىككىنچى مىسراسى</p>\n\n
+下肋的	xià lèi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قوۋۇرغا ئاستىدىكى</p>\n\n
+下肋骨高	xià lèi gǔ gāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى قوۋۇرغا ئېگىزلىكى (ئۆرە تۇرغان ئادەمنىڭ يېتىم قوۋۇرغىسىنىڭ ئاستىنقى قىرغىقىدىن يەر يۈزىگىچە بولغان ئېگىزلىك)</p>\n\n
+下肢	xià zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇت-ئاياغلار، ئىككى پۇت</p>\n\n
+下胚叶	xià pēi yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوبلاست</p>\n\n
+下胚轴	xià pēi zhóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆرەلمە ئوقنىڭ ئاستى</p>\n\n
+下胚轴的	xià pēi zhóu de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆرەلمە يوپۇرماق ئاستىدىكى؛ ئۇرۇق پەللىسى ئاستىدىكى</p>\n\n
+下胸	xià xiōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇشنىڭ تۆشى</p>\n\n
+下脊索	xià jǐ suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياردەمچى خوردا</p>\n\n
+下脘	xià guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شياۋەن (پەللە نامى)</p>\n\n
+下脚	xià jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەسسىمەك، ئايىغىنى قويماق؛ تاشلاندۇقلار؛ چىقىرىندىلار، قالدۇق</p>\n\n
+下脚料	xià jiǎo liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇرۇچ؛ كېسىندى؛ تاشلاندۇقلار؛ چىقىرىندىلار، قالدۇق</p>\n\n
+下脚毛	xià jiǎo máo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېگىرىشكە يارىمايدىغان قىسقا يۇڭلار</p>\n\n
+下脚衣料	xià jiǎo yī liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇرۇچ</p>\n\n
+下腔静脉	xià qiāng jìng mài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بوشلۇق ۋېناسى</p>\n\n
+下腔静脉综合征	xià qiāng jìng mài zōng hé zhēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى بووشلۇق ۋېناسى يىغىندى كېسەللەك ئالامىتى؛ تۆۋەنكى بوشلۇق ۋېناسى سىندرومىسى</p>\n\n
+下腹下丛	xià fù xià cóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">داس بوشلۇقى نېرۋا چىگىچى</p>\n\n
+下腹甲	xià fù jiǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قورساق چىغىنىقى</p>\n\n
+下舌	xià shé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىل ئاستى ئۆسۈكچىسى (بەزى ھايۋانلاردا)</p>\n\n
+下舍入	xià shě rù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنى پۈتۈنلەش</p>\n\n
+下船	xià chuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمىگە چىقماق؛ كېمىدىن چۈشمەك</p>\n\n
+下芽接	xià yá jiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن بىخلىق ئۇلاق</p>\n\n
+下药	xià yào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوغا بەرمەك؛ دورا بەرمەك؛ زەھەر تاشلىماق، ئوغا بەرمەك؛ زەھەر تاشلىماق</p>\n\n
+下落	xià luò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دېرەك؛ خەۋەر؛ ماكان؛ پەسەيمەك؛ تۆۋەن چۈشمەك؛ تۆۋەن چۈشمەك، پەسەيمەك؛ ئىز-دېرەك، دېرەك، خەۋەر</p>\n\n
+下落不明	xià luò bù míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىز-دېرەكسىز يوقىلىش</p>\n\n
+下落快门	xià luò kuài mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشۈرمە زاتۋور (فوتوكامېرىنىڭ)</p>\n\n
+下落盘	xià luò pán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلىگەن قاتلام</p>\n\n
+下葬	xià zàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەپنە قىلماق، يەرلىكىدە قويماق؛ دەپنە قىلماق؛ يەرلىكىدە قويماق</p>\n\n
+下蚀	xià shí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىن يالىنىش</p>\n\n
+下蛋	xià dàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇخۇم تۇغماق</p>\n\n
+下蜃景	xià shènjǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سۇس مىراژ؛ سۇس ئېزىتقۇ</p>\n\n
+下行	xià xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە چۈشۈرمەك (ئەۋەتمەك)；تاق نومۇرلۇق (پويىز)；كېمىنىڭ تۆۋەنگە مېڭىشى</p>\n\n
+下行多普勒	xià xíng duō pǔ lè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ماڭغان دوپلېر</p>\n\n
+下行式捻线机	xià xíng shì niǎn xiàn jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىتىپ ئېگىرىش ماشىنىسى</p>\n\n
+下行梯段回采法	xià xíng tī duàn huí cǎi fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىتا پەلەمپەيسىمان بۆلەكلەر بويىچە ئايلانما كان قېزىش ئۇسۇلى</p>\n\n
+下行水平分层崩落采矿法	xià xíng shuǐ píng fēn céng bēng luò cǎi kuàng fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە قارىتا گورىزونتال قاتلاملارغا بۆلۈپ غۇلىتىپ كان قېزىش ئۇسۇلى</p>\n\n
+下行管	xià xíng guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە ماڭدۇرۇش تۇرۇبىسى</p>\n\n
+下行色谱法	xià xíng sè pǔ fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش خروماتوگرافىيىسى</p>\n\n
+下行道	xià xíng dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاق نومۇرلۇق يول</p>\n\n
+下衬	xià chèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەستەر قەۋەت</p>\n\n
+下衬垫	xià chèn diàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەگلىك</p>\n\n
+下装	xià zhuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىرىمنى يۇيۇۋېتىپ باشقىدىن كىيىنمەك</p>\n\n
+下裆缝	xià dāng féng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاغ تىكىچى</p>\n\n
+下褶	xià zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن قاتلاق، تۆۋەن پۈرمە</p>\n\n
+下覆羽	xià fù yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قانات ۋە قۇيرۇق ئاستىدىكى پەيلەر</p>\n\n
+下角层	xià jiǎo céng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى مۈڭگۈز قاتلام</p>\n\n
+下角标	xià jiǎo biāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئىندېكس</p>\n\n
+下角环状软骨	xià jiǎo huán zhuàng ruǎn gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالقانسىمان كۆمۈرچەكنىڭ ئاستىنقى بۇرجىكىدىكى كۆمۈرچەك</p>\n\n
+下角符号	xià jiǎo fú hào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى بۇرجەككە قويۇلىدىغان بەلگە</p>\n\n
+下议院	xià yì yuàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن پالاتا، ئاۋام پالاتاسى</p>\n\n
+下访	xià fǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە بېرىپ ئەھۋال ئوقۇش</p>\n\n
+下课	xià kè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەرس تۈگىمەك، دەرستىن چۈشمەك؛ دەرس تۈگىمەك؛ دەرستىن چۈشۈش؛ دەرستىن چۈشمەك</p>\n\n
+下调	xià diào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنگە يۆتكىمەك</p>\n\n
+下贱	xià jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس؛ ئىپلاس؛ پەسكەش؛ پەس، تۆۋەن (تەبىقە)；پەسكەش، ئىپلاس؛ تۆۋەن (تەبىقە)</p>\n\n
+下赌注	xià dǔ zhù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دو تىكمەك، قىماردا پۇل تىكمەك</p>\n\n
+下跌	xià diē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باھاسى چۈشمەك، كاساتلاشماق؛ يىقىلىپ چۈشمەك؛ چۈشمەك، چۈشۈپ كەتمەك</p>\n\n
+下跪	xià guì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىزلانماق</p>\n\n
+下跪者	xià guì zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىزلانغۇچى</p>\n\n
+下蹲	xià dūn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زوڭزىيىپ ئولتۇرماق، زوڭزايماق</p>\n\n
+下身	xià shēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەۋرەت؛ ئىشتان؛ بۇرۇلكا؛ بەدەننىڭ ئۇياتلىق قىسمى، ئەۋرەت؛ ئىشتان، بۇرۇلكا؛ بەدەننىڭ ئۇياتلىق قىسمى؛ بەلنىڭ تۆۋەن قىسمى</p>\n\n
+下身感痛缺失	xià shēn gǎn tòng quē shī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەلنىڭ تۆۋىنى ئاغرىق سېزىمىنى يوقاتماق</p>\n\n
+下身感觉缺失	xià shēn gǎn jué quē shī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەلنىڭ تۆۋىنى سېزىمىنى يوقاتماق</p>\n\n
+下身轻瘫	xià shēn qīng tān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پۇتلار يەڭگىل پالەچلىنىش</p>\n\n
+下车	xià chē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماشىندىن (پويىزدىن، ھارۋىدىن چۈشمەك)</p>\n\n
+下车伊始	xià chē yī shǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھارۋىدىن چۈشەر-چۈشمەيلا؛  مەنسەپكە ئولتۇرا-ئولتۇرمايلا؛  يېڭى ئىش ئورنىغا كېلىش بىلەن تەڭلا؛ ئىش ئورنىغا كېلەر-كەلمەيلا؛ ھارۋىدىن چۈشۈش بىلەن تەڭلا</p>\n\n
+下轮子	xià lún zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاقنى چىقىرىۋالماق</p>\n\n
+下轴承座	xià zhóu chéng zuò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ساقىلىق قازان تەگلىكى</p>\n\n
+下载	xià zǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشۈرۈش؛ توردىن چۈشۈرمەك</p>\n\n
+下载中心	xià zǎi zhōng xīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشۈرۈش مەركىزى</p>\n\n
+下辈	xià bèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەۋلاد؛ بالىلار؛ ياش ئەۋلادلار</p>\n\n
+下边	xià biān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس؛ ئاست؛ پەستە؛ تۆۋەن؛ تۆۋەندە؛ تۆۋەندىكى؛ تۆۋەن دەرىجىلىك</p>\n\n
+下边带	xià biān dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى چاستوتا بەلۋېغى</p>\n\n
+下边带上变频器	xià biān dài shàng biàn pín qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى گىرۋەك بەلبېغىدىكى چاستوتا ئۆزگەرتكۈچ</p>\n\n
+下边缘	xià biān yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى گىرۋەك</p>\n\n
+下达	xià dá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەرمەك؛ چۈشۈرمەك؛ چۈشۈرمەك، بەرمەك</p>\n\n
+下达命令	xià dá mìng lìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇيرۇق چۈشۈرۈش</p>\n\n
+下达命令形式	xià dá mìng lìng xíng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇيرۇق شەكلى</p>\n\n
+下达情报任务	xià dá qíng bào rèn wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاخبارات ۋەزىپىسى چۈشۈرۈش</p>\n\n
+下运动神经元	xià yùn dòng shén jīng yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ھەرىكەت نېۋرونى</p>\n\n
+下逐客令	xià zhú kè lìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مېھماننى قوغلاش بۇيرۇقى چۈشۈرمەك</p>\n\n
+下道	xià dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەسكەش، قىلىقسىز، ئەدەپسىز</p>\n\n
+下部	xià bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاخىرقى توم؛ ئاخىرقى توم، ئاخىرقى قىسىم؛ ئاخىرقى قىسىم؛ بەلنىڭ تۆۋەن قىسمى</p>\n\n
+下部围护侧板	xià bù wéi hù cè bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى قوغداش يان تاختىسى</p>\n\n
+下部穿孔	xià bù chuān kǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى تۆشۈك</p>\n\n
+下部结构	xià bù jié gòu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇل قۇرۇلما؛ ئاستىنقى قۇرۇلما</p>\n\n
+下部肾单位肾变病	xià bù shèn dān wèi shèn biàn bìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى بۆرەك بىرلىكىدىكى بۆرەك كېسىلى</p>\n\n
+下部辅助帆	xià bù fǔ zhù fān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قوشۇمچە يەلكەن</p>\n\n
+下部进料	xià bù jìn liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىن يېقىلغۇ كىرگۈزۈش</p>\n\n
+下部齿轮	xià bù chǐ lún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى چىشلىق چاق</p>\n\n
+下酒	xià jiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زاكۇسكا قىلماق، ھاراقنى زاكۇسكا بىلەن ئىچمەك؛ زاكۇسكا بولماق، زاكۇسكا قىلىشقا باب؛ ھاراقنى زاكۇسكا بىلەن ئىچمەك؛ زاكۇسكا قىلىشقا باپ؛ زاكۇسكا بولماق؛ زاكۇسكا قىلماق</p>\n\n
+下里巴人	xià lǐ bā rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سەھرالىق بەدەۋىلەر؛  ئاممىۋى بەدىئىي ئەدەبىيات؛ ئاممىۋى بەدىئىي ئەدەبىيات؛ سەھرالىق بەدەۋىيلەر</p>\n\n
+下野	xià yě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىياسىي سەھنىدىن چۈشمەك، تەختتىن چۈشمەك، ھاكىمىيەت بېشىدىن چۈشمەك</p>\n\n
+下铁芯	xià tiě xīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىنقى تۆمۈر ئۆزەك</p>\n\n
+下铺	xià pù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىكى ياتاق ئورنى</p>\n\n
+下锁骨	xià suǒ gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ئوقرەك سۆڭىكى</p>\n\n
+下锅筒	xià guō tǒng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى قازان</p>\n\n
+下错窗	xià cuò chuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساڭگىلىما روجەك</p>\n\n
+下镜台	xià jìng tái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇيۇم ئۈستىلى (مىكروسكوپنىڭ)</p>\n\n
+下阵雨	xià zhèn yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆتكۈنچى يامغۇر ياغماق</p>\n\n
+下降	xià jiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەسەيمەك؛ تۆۋەنلىمەك؛ تۆۋەنلەشمەك، تۆۋەن چۈشمەك، پەسەيمەك، ئولتۇرۇشۇپ كەتمەك، تۆۋەنلىمەك؛ تۆۋەنلەشمەك؛ تۆۋەن چۈشمەك؛ تۆۋەنلەش، كېمىيىش؛ ئولتۇرۇشۇپ كەتمەك</p>\n\n
+下降学说	xià jiàng xué shuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش تەلىماتى</p>\n\n
+下降成本	xià jiàng chéng běn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەننەرخنىڭ تۆۋەنلىشى</p>\n\n
+下降托架换位法	xià jiàng tuō jià huàn wèi fǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلىتىش تەگلىكىنى ئالماشتۇرۇش ئۇسۇلى</p>\n\n
+下降时间	xià jiàng shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش ۋاقتى</p>\n\n
+下降段	xià jiàng duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش بۆلىكى</p>\n\n
+下降生长	xià jiàng shēng zhǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆسۈشنىڭ ئاستىلىشىشى</p>\n\n
+下降电压	xià jiàng diàn yā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش بېسىمى؛ توك بېسىمىنىڭ تۆۋەنلىشى</p>\n\n
+下降盘	xià jiàng pán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلىگەن قاتلام</p>\n\n
+下降管	xià jiàng guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش تۇرۇبىسى</p>\n\n
+下降角	xià jiàng jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش بۇلۇڭى</p>\n\n
+下降论者	xià jiàng lùn zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلىتىش نەزەرىيىسى تەرەپدارى</p>\n\n
+下降调速器	xià jiàng diào sù qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلىتىش رېگۇلياتورى</p>\n\n
+下降量	xià jiàng liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش مىقدارى</p>\n\n
+下降锥体	xià jiàng zhuī tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنلەش كونۇسى</p>\n\n
+下限	xià xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مىنىمۇم؛ تۆۋەن چەك؛ ئاخىرقى چەك؛ تۆۋەنكى چەك؛ مىنىمۇم، تۆۋەن چەك</p>\n\n
+下限幅器	xià xiàn fú qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئامپلىتۇدا چەكلىگۈچ</p>\n\n
+下限幅电路	xià xiàn fú diàn lù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن ئامپلىتۇدا چەكلىگۈچى توك يولى</p>\n\n
+下限接受值	xià xiàn jiē shòu zhí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن چەكتە قوبۇللاش قىممىتى</p>\n\n
+下限累加器	xià xiàn lèi jiā qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن چەكتە جۇغلىغۇچ</p>\n\n
+下限规	xià xiàn guī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن چەكتىكى پەركا</p>\n\n
+下限频率	xià xiàn pín lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن چەكلىمىلىك چاستوتا</p>\n\n
+下院	xià yuàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن پالاتا، ئاۋام پالاتاسى</p>\n\n
+下除渣口	xià chú zhā kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى داشقال چىقىرىش ئېغىزى</p>\n\n
+下陷	xià xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئولتۇرۇشۇپ كەتمەك، تۆۋەنلەپ كەتمەك</p>\n\n
+下集箱	xià jí xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى كوللېكتور؛ تۆۋەنكى كوللېكتور</p>\n\n
+下雨	xià yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامغۇر ياغماق</p>\n\n
+下霜	xià shuāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىرو چۈشۈش</p>\n\n
+下面	xià miàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس؛ ئاست؛ پەستە؛ تۆۋەن؛ تۆۋەندە؛ تۆۋەندىكى؛ تۆۋەن دەرىجىلىك؛ تۆۋەن، ئاست، پەس؛ ئاش سېلىش (تاشلاش)；تۆۋەندە، پەستە، تۆۋەندىكى</p>\n\n
+下面划线	xià miàn huá xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا سىزىق سىزماق</p>\n\n
+下面发酵	xià miàn fā jiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىن ئېچىش</p>\n\n
+下面画线	xià miàn huà xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا سىزىق سىزماق (خەتنىڭ)</p>\n\n
+下面铺砌	xià miàn pù qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىغا ياتقۇزماق</p>\n\n
+下领	xià lǐng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەنكى ياقا</p>\n\n
+下颌	xià hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېڭەك؛ ئاست جاغ</p>\n\n
+下颌下的	xià hé xià de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ ئاستىدىكى</p>\n\n
+下颌下神经节	xià hé xià shénjīng jié； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ ئاستى نېرۋا تۈگۈنى</p>\n\n
+下颌下腺	xià hé xià xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ ئاستى بېزى</p>\n\n
+下颌外形	xià hé wàixíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغنىڭ سىرتقى شەكلى</p>\n\n
+下颌弓	xià hé gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ يايى</p>\n\n
+下颌神经	xià hé shénjīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ نېرۋىسى</p>\n\n
+下颌突出的	xià hé tūchū de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ ئۇزۇن</p>\n\n
+下颌管	xià hé guǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ قانىلى</p>\n\n
+下颌联合点	xià hé liánhé diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ تۇتىشىش نۇقتىسى</p>\n\n
+下颌联合高	xià hé liánhé gāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ تۇتىشىش ئېگىزلىكى</p>\n\n
+下颌舌骨肌	xià hé shé gǔ jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ تىل سڭىكى مۇسكۇلى</p>\n\n
+下颌角	xià hé jiǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ بۇلۇڭى</p>\n\n
+下颌角点	xià hé jiǎo diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ بۇلۇڭ نۇقتىسى</p>\n\n
+下颌骨	xià hé gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ (سۆڭەك)</p>\n\n
+下颌骨中点	xià hé gǔ zhōng diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغنىڭ ئوتتۇرا نۇقتىسى</p>\n\n
+下颔盾	xià hàn dùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاست جاغ قاسىرىقى</p>\n\n
+下颚	xià è； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېڭەك؛ ئاست جاغ؛ ئاستىنقى ئېڭەك</p>\n\n
+下颚腺	xià è xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېڭەك بېزى</p>\n\n
+下颚须	xià è xū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېڭەك تۈكچىلىرى (ھاشاراتنىڭ)；ئاستىنقى ئېڭەك بۇرۇتچىسى</p>\n\n
+下颜	xià yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گىپوستوما (قوش قاناتلىقلارنىڭ بېشىنىڭ قورساق تەرىپى)</p>\n\n
+下风	xià fēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامان ئەھۋال؛ ئوڭۇشسىز ئەھۋال؛ پايدىسىز شارائىت؛ شامال ئۇرۇلۇۋاتقان تەرەپ؛ ئوڭۇشسىز ئەھۋال، پايدىسىز شارائىت</p>\n\n
+下风岸	xià fēng àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شامالغا قارشى قىرغاق</p>\n\n
+下风板	xià fēng bǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شامال توسۇش تاختىسى</p>\n\n
+下风波	xià fēng bō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شامالغا قارشى دولقۇن</p>\n\n
+下风涡旋	xià fēng wō xuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شامالغا قارشى قاينام</p>\n\n
+下风的	xià fēng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شامالغا قارشى</p>\n\n
+下风舵	xià fēng duò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېمە يۆنىلىشىنى شامالغا قارشى تەرەپكە توغرىلاش رولى</p>\n\n
+下饭	xià fàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زاكۇسكا؛ تاماق سېيى؛ قوشۇمچە يېمەكلىكلەر؛ تاماقنى سەي بىلەن يېمەك</p>\n\n
+下饲式加煤机	xià sì shì jiā méi jī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاستىدىن كۆمۈر كىرگۈزۈپ بېرىش ماشىنىسى</p>\n\n
+下饲炉排炉	xià sì lú pái lú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىلغۇ ئاستىدىن كىرگۈزۈلىدىغان شالالىق ئوچاق</p>\n\n
+下首	xià shǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېيىنكى نۆۋەتنى ئالغۇچى</p>\n\n
+下马	xià mǎ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خىزمەت ئورنىدىن كەتمەك، يىغىشتۇرۇپ قويماق، ئەمەلدىن قالماق؛ ئاتتىن چۈشمەك؛ ئەمەلدىن قالماق؛ يىغىشتۇرۇپ قويماق؛ ئىشنى توختاتماق؛ خىزمەت ئورنىدىن كەتمەك</p>\n\n
+下马威	xià mǎ wēi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرىنچى ھەيۋە، ھە دېگەندىلا پوپوزا قىلماق؛ بىرىنچى ھەيۋە؛ دەسلەپكى پوپوزا؛ ھە دېگەندىلا پوپوزا قىلماق؛ دەسلەپتىلا چۆچۈتۈپ قويماق؛ دەسلەپتىلا چۆچۈتۈپ قويماق، دەسلەپكى پوپوزا</p>\n\n
+下马崖乡	下马崖乡【新疆各地】； xià mǎ yá xiāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">باي يېزىسى</p>\n\n
+下马看花	xià mǎ kàn huā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەھۋالنى تەپسىلىي كۆزدىن كەچۈرمەك؛ ئاتتىن چۈشۈپ گۈل كۆرمەك؛ ئاتتىن چۈشۈپ گۈل كۆرمەك؛  ئەھۋالنى تەپسىلى كۆزدىن كەچۈرمەك</p>\n\n
+下马观花	xià mǎ guān huā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاتتىن چۈشۈپ گۈل كۆرمەك؛  ئەھۋالنى تەپسىلى كۈزەتمەك</p>\n\n
+下骨突	xià gǔ tū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئومۇرتقىنىڭ بەدەن ئىچىگە قارىغان تەرىپىدىكى تومپىقى</p>\n\n
+下鳃盖骨	xià sāi gài gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساقاق ئاستىدىكى ياپما سۆڭەك</p>\n\n
+下鳍鱼类	xià qí yú lèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۆۋەن پالاقچىلىق بېلىقلار</p>\n\n
+不	bù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بى؛ نا-；ياق؛ ئەمەس؛ نارازىلىق؛ ئادالەتسىز؛ ئەمەس، ياق؛ ياق، ئەمەس؛ ئىنكار قىلغانلىقنى بىلدۈرىدۇ؛ ئادالەتسىزلىك؛ يوقلۇق قوشۇمچىلىرى: -سىز؛ ئەمەس، ياق (ئىنكار)；ئىسىملارنىڭ ئالدىدا كېلىپ يوقلۇق قوشۇمچىسىنىڭ رولىنى ئۆتەيدۇ；-سىز، نا-، بى-قاتالىق يوقلۇق قوشۇمچىلىرى بىلەن ئىپادىلىنىدۇ؛ جۈملىنىڭ ئاخىرىدا كېلىپ سوئال مەنىسىنى ئىپادىلەيدۇ؛ ئۇيغۇرچىدىكى بولۇشسىزلىق قوشۇمچىسى -ما، -مە نىڭ رولىدا كېلىدۇ؛ ئۇيغۇر تىلىدىكى «بى-، نا-» دېگەندەك سۆز ئالدى قوشۇلغۇچىسى</p>\n\n
+不…不…	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">bù …bù …； مەنىداش ئىككى سۆزنىڭ ئالدىدا كېلىپ ئىنكار قىلغانلىقنى تەكىتلىگەنلىكنى بىلدۈرىدۇ؛ مەنىسى قارىمۇ قارشى ئىككى سۆزنىڭ ئالدىدا كېلىپ ئا؛ مەنىسى قارىمۇ قارشى ئىككى سۆزنىڭ ئالدىدا كېلىپ كۆرسىتىلىۋاتقان شەيئىنىڭ ھېچ قايسىغا توغرا كەلمەيدىغانلىقىنى بىلدۈرىدۇ</p>\n\n
+不一	bù yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەك ئەمەس، ئوخشاش ئەمەس؛ ئوخشاش ئەمەس؛ بىردەك ئەمەس</p>\n\n
+不一一	bù yī yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەپسىلىي بايان قىلماسلىق، تەپسىلاتىنى ئېنىق دېمەسلىك</p>\n\n
+不一会儿	bù yī huì ér； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەمدىلا؛ بىر دەمدىلا، ھايال قىلماي، ھېلىلا؛ ھەش-پەش دېگۈچە؛ بىردەمنىڭ ئارىلىقىدىلا</p>\n\n
+不一定	bù yī dìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناتايىن</p>\n\n
+不一端	bù yī duān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تەرەپ بىلەنلا چەكلەنمەسلىك</p>\n\n
+不一而三	bù yī ér sān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا-قايتا، تەكرار، تالاي قېتىملار</p>\n\n
+不一而足	bù yī ér zú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇلا ئەمەس؛ يالغۇز بۇلا ئەمەس؛  بۇلا ئەمەس؛ يالغۇز بۇلا ئەمەس، بۇلا ئەمەس؛ يېتەرلىك، نۇرغۇن، كۆپ؛ يالغۇز بۇلا ئەمەس</p>\n\n
+不一致	bù yī zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەك ئەمەسلىك، بىردەك بولماسلىق، بىر-بىرىگە ئوخشىماسلىق؛ بىردەك بولماسلىق</p>\n\n
+不一致数据	bù yī zhì shù jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەك بولمىغان سانلىق مەلۇمات</p>\n\n
+不一致条件	bù yī zhì tiáo jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەك بولمىغان شەرت</p>\n\n
+不一致的	bù yī zhì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەك بولمىغان</p>\n\n
+不一致配置	bù yī zhì pèi zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىردەك بولمىغان ئورۇنلاشتۇرۇش</p>\n\n
+不丈夫	bù zhàng fū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەركەك ئەمەس</p>\n\n
+不三不四	bù sān bù sì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېگىز-پەس؛ قاملاشمىغان؛ كەلسە-كەلمەس؛ قاملاشمىغان، كەلسە-كەلمەس، ئېگىز-پەس؛ قاملاشمىغان؛  كەلسە-كەلمەس؛  بولار-بولماس؛  ياخشى يامان</p>\n\n
+不上不下	bù shàng bù xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يامانمۇ ئەمەس، ياخشىمۇ ئەمەس؛ ئوڭۇشسىز ئەھۋالدا قالماق؛ ئارىسالدى بولماق</p>\n\n
+不上台面	bù shàng tái miàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس، سالاپەتسىز، قەددى-قامەتسىز</p>\n\n
+不上算	bù shàng suàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پايدىسىز، مەنپەئەتسىز، زىيان تارتماق</p>\n\n
+不下	bù xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دىن ئاز ئەمەس، ئەڭ، كۆپ بولغاندا غا يېتىدۇ؛ ھۇجۇم قىلىپ ئالالماسلىق، ئالالماسلىق؛ قېلىشمايدۇ، قالغۇچىلىكى يوق</p>\n\n
+不下于	bù xià yú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاز ئەمەس؛ كەم ئەمەس؛ قېلىشماسلىق؛ تۆۋەن ئەمەس؛ قالغۇچىلىكى يوق</p>\n\n
+不世	bù shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاز كۆرۈلىدىغان، قالتىس، ئاجايىپ، زور</p>\n\n
+不世之功	bù shì zhī gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زور تۆھپە</p>\n\n
+不严谨的	bù yán jǐn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بوش، چېچىلاڭغۇ، قاتتىق ئەمەس، كەمتۈك</p>\n\n
+不中	bù zhōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ياق؛ بولمايدۇ؛ يارىماسلىق؛ ئەسقاتماسلىق</p>\n\n
+不中听	bù zhōng tīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇلاققا ياقماسلىق، قۇلاققا خۇش ياقماسلىق</p>\n\n
+不中意	bù zhòng yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆڭۈلگە ياقماسلىق</p>\n\n
+不中断电源	bù zhōng duàn diàn yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈزلۈكسىز توك مەنبەسى</p>\n\n
+不中用	bù zhōng yòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەسقاتمايدىغان؛ كارغا كەلمەيدىغان؛ كارغا يارىماس، قولىدىن ئىش كەلمەيدىغان، ئەسقاتمايدىغان؛ قولىدىن ئىش كەلمەس</p>\n\n
+不丹	bù dān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇتان؛ بۇتان</p>\n\n
+不丹族	bù dān zú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇتان مىللىتى، بۇتانلىقلار</p>\n\n
+不丹王国	不丹王国【世界各国】； bù dān wáng guó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۇتان پادىشاھلىقى</p>\n\n
+不为	bù wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىلماسلىق، ئىشلىمەسلىك</p>\n\n
+不为一虱烧棉袄	bù wéi yī shī shāo mián ǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پىتنىڭ ئاچچىقىدا چاپاننى ئوتقا ساپتۇ</p>\n\n
+不为五斗米折腰	bù wéi wǔ dòu mǐ zhé yāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سالاپىتىنى ساقلىماق، كۇرسىنى چۈشۈرۈپ قويماسلىق</p>\n\n
+不为已甚	bù wéi yǐ shèn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆز لايىقىدا بولماق، ئاشۇرۇۋەتمەسلىك؛ ئاشۇرۇۋەتمەسلىك؛ ئۆز لايىقىدا بولماق</p>\n\n
+不为所动	bù wéi suǒ dòng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئازماسلىق؛ تەسىرلەنمەسلىك، ھاياجانلانماسلىق</p>\n\n
+不主故常	bù zhǔ gù cháng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونا قائىدە-يوسۇنلارغا ئېسىلىۋالماسلىق</p>\n\n
+不久	bù jiǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پات ئارىدا؛ پات يېقىندا؛ ئۇزاق ئۆتمەيلا، ئۇزۇن ئۆتمەيلا؛ ئۇزاق ئۆتمەيلا؛ ئۇزۇن ئۆتمەيلا؛ پات يېقىندا، پات ئارىدا</p>\n\n
+不久以前	bù jiǔ yǐ qián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىندا، يېقىنقى يىللاردا</p>\n\n
+不久前	bù jiǔ qián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىندا، يېقىنقى يىللاردا</p>\n\n
+不义	bù yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس، پەسكەش، ئىپلاس، رەزىل</p>\n\n
+不义之财	bù yì zhī cái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھارام مال؛ ھارام پۇل؛ ھارام بايلىق، ھارام مال، ھارام پۇل؛ ھارام بايلىق؛ ھارام مال، ھارام بايلىق؛ ھارام مال؛  ھارام بايلىق</p>\n\n
+不乏	bù fá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆپ؛ ئاز ئەمەس؛ كەم ئەمەس، ئاز ئەمەس، تولۇق، يېتەرلىك</p>\n\n
+不乏其人	bù fá qí rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇنداق كىشىلەر ئاز ئەمەس؛ ئۇنداق كىشىلەر ئاز ئەمەس</p>\n\n
+不习惯	bù xí guàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئادەتلىنەلمەسلىك، ئادىتى بولماسلىق، كۆنەلمەسلىك، كۆنمەسلىك</p>\n\n
+不买账	bù mǎi zhàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تىيىنغا تەڭ قىلماسلىق، ياخشى كۆرمەسلىك؛ ئېتىراپ قىلماسلىق</p>\n\n
+不了	bù le； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇ؛ ئىش ھەرىكەتنىڭ تۈگىمىگەنلىكىنى بىلدۈرىدۇ؛ ئىش-ھەرىكەتنىڭ تۈگىمىگەنلىكىنى بىلدۈرىدۇ</p>\n\n
+不了了之	bù liǎo liǎo zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولدى قىلماق؛ بولدى قىلىپ تاشلاپ قويۇش؛ ئىشنى چالا-بۇلا ئىشلەپ قۇيۇپلا بولدى قىلىپ تاشلاپ قويماق؛ بولدى قىلىپ تاشلاپ قويماق؛ بولسا بولار، بولمىسا قالار؛ بىر ياققا قايرىپ قويماق</p>\n\n
+不了缘	bù le yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈزۈلمەس مۇناسىۋەت</p>\n\n
+不了而了	bù le ér le； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولسا بولار، بولمىسا قالار؛ بولدى قىلىپ تاشلاپ قويماق؛ بىر ياققا قايرىپ قويماق</p>\n\n
+不予	bù yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بەرمەسلىك؛ قىلماسلىق؛ بەرمەسلىك، قىلماسلىق</p>\n\n
+不予处罚	bù yǔ chǔ fá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">جازا بەرمەسلىك</p>\n\n
+不予立案报告书	bù yǔ lì àn bào gào shū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دېلو تۇرغۇزماسلىق دوكلاتى</p>\n\n
+不事	bù shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش قىلماسلىق، ئىش بېجىرمەسلىك</p>\n\n
+不二	bù èr； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەكدىللىق، بىر نىيەت، بىر مەقسەت، يۈز ئۆرۈمەسلىك، ئىككى يۈزلىمىلىك قىلماسلىق؛ ئوخشاش، بىردەك</p>\n\n
+不二价	bù èr jià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوخشاش باھا، بىر خىل باھا</p>\n\n
+不二法门	bù èr fǎ mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەلا ئۇسۇل؛ بىردىنبىر يول؛ بىردىنبىر ئۇسۇل؛ تەڭداشسىز ئۇسۇل؛ ئەلا چارە؛  بىردىنبىر يول</p>\n\n
+不二法门不二门	不二法门，不二门； \nbù èr fǎ mén bù èr mén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەلا ئۇسۇل، بىردىن بىر ئۇسۇل، ئەلا چارە، بىردىن بىر يول</p>\n\n
+不二色	bù èr sè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سادىق، سادىقلىق، ساداقەت، ساداقەتلىك، ئىشەنچلىك</p>\n\n
+不二论	bù èr lùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نوندۇئالىزم</p>\n\n
+不亢不卑	bù kàng bù bēi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەم مەغرۇرلانماسلىق ھەم ئۆزىنى كەمسىتمەسلىك؛ ئۆزىنى چوڭمۇ تۇتماسلىق ۋە پەسمۇ كۆرمەسلىك؛ ئۆزىنى چوڭمۇ تۇتماسلىق، پەسمۇ كۆرمەسلىك؛ مەغرۇرلانماسلىق ھەم ئۆزىنى كەمسىتمەسلىك</p>\n\n
+不交轴光线	bù jiāo zhóu guāng xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىممېترىك ئوق بىلەن كېسىشمەيدىغان نۇر</p>\n\n
+不亦乐乎	bù yì lè hū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناھايىتى يۇقىرى دەرىجىگە يەتكەنلىكنى بىلدۈرىدۇ</p>\n\n
+不产气细菌	bù chǎn qì xì jūn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گاز ھاسىل قىلمايدىغان باكتېرىيە</p>\n\n
+不享有圣俸的	bù xiǎngyǒu shèng fèng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاپائەتسىز، ئىلتىپاتسىز</p>\n\n
+不亲和性	bù qīn hé xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىنلاشماسلىق</p>\n\n
+不亲和的	bù qīn hé de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزلىشەلمەسلىك، ياتسىنماق</p>\n\n
+不人	bù rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نومۇسسىز، ئەخلاقسىز، شەرمەندە، پەسكەش</p>\n\n
+不人虎穴焉得虎子	不人虎穴，焉得虎子； \nbù rén hǔ xué yān dé hǔ zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يولۋاسنىڭ ئۇۋىسىغا كىرمەي تۇرۇپ، يولۋاس بالىسىنى تۇتقىلى بولماس؛  جاندىن كەچمىگۈچە، جانانغا يەتكىلى بولماس</p>\n\n
+不人道	bù rén dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىنسانىيەتسىز، ئىنسانىيەتسىزلىك؛ ئىنسانىيەتسىز؛ ئىنسانىيەتسىزلىك</p>\n\n
+不人道待遇	bù rén dào dài yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھايۋانىي مۇئامىلە</p>\n\n
+不人道行为	bù rén dào héng wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھايۋانىي قىلمىش</p>\n\n
+不仁	bù rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رەھىمسىزلىك؛ شەپقەتسىزلىك؛ سېزىم يوقالماق؛ رەھىمسىزلىك، شەپقەتسىزلىك</p>\n\n
+不仁不义的	bù rén bù yì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شەپقەتسىز، باغرىتاش</p>\n\n
+不仅	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">bù jǐn； ...لا；... لا قالماي；... ... لا ... ئەمەس；... بۇياقتا تۇرسۇن；... لا... ئەمەس；... لا، لا قالماي، ... بۇياقتا تۇرسۇن</p>\n\n
+不仅…而且	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">bùjǐn …érqiě； ... لا قالماي، ... بەلكى</p>\n\n
+不今不古	bù jīn bù gǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەزەلدىن كۆرۈلۈپ باقمىغان؛ غەلىتە، باشقىچە</p>\n\n
+不介入	bù jiè rù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئارىلاشماسلىق، ئارىلىشىپ قالماسلىق</p>\n\n
+不介意	bù jiè yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆڭلىگە ئالماسلىق، كۆڭلىگە كەلمەسلىك، ئېغىر ئالماسلىق</p>\n\n
+不以	bù yǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاساسلانماسلىق، قارىماسلىق</p>\n\n
+不以为奇	bù yǐ wéi qí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەيران قالماسلىق</p>\n\n
+不以为意	bù yǐ wéi yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆڭلىگە ئالماسلىق، كۆڭلىگە كەلمەسلىك</p>\n\n
+不以为然	bù yǐ wéi rán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توغرا دەپ قارىماسلىق، توغرا تاپماسلىق، پەرۋايىغا ئالماسلىق؛ ياقتۇرماسلىق؛  پەرۋاقىلماسلىق؛  پىسەنت قىلماسلىق؛  ئېرەن قىلماسلىق؛ پەرۋايىغا ئالماسلىق؛ توغرا دەپ قارىماسلىق؛ توغرا تاپماسلىق</p>\n\n
+不以为耻	bù yǐ wéi chǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىزا تارتماسلىق، نومۇس قىلماسلىق، نومۇسسىزلىق، ئۇياتسىزلىق</p>\n\n
+不以人废言	bù yǐ rén fèi yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەس كۆرمەي گېپىگە قۇلاق سالماق</p>\n\n
+不休	bù xiū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىنماسلىق؛ بېسىلماسلىق قىلماق؛ تىنماسلىق، بېسىلماسلىق</p>\n\n
+不会	bù huì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىلمەسلىك؛ مۇمكىن ئەمەس، ئىنكار قىلىش قوشۇمچىسى، مايدۇ، مەيدۇ</p>\n\n
+不会不会吧	bù huì bù huì bā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇنداق بولماس (كەلمەي قالماس، دېمەي قويماس)</p>\n\n
+不传声带	bù chuán shēng dài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاناكۇستىك زونا، ئاۋازسىز زونا</p>\n\n
+不伤生	bù shāng shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاخىمسا</p>\n\n
+不伦不类	bù lún bù lèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاملاشمىغان؛ ھېچنېمىگە ئوخشىمايدىغان؛ قاملاشمىغان، ھېچنېمىگە ئوخشىمايدىغان؛ قاملاشمىغان؛  ھېچنېمىگە ئوخشىمايدىغان؛  يا گۆش ئەمەس، يا بەز</p>\n\n
+不伦瑞克	不伦瑞克地名； \nbù lún ruì kè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برائۇنشۋېيگ(گېرمانىيىدە)；برۇنسۋىك (ئامېرىكىدا)</p>\n\n
+不伦瑞克比	bù lún ruì kè bǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برۇنسۋىك نىسبىتى</p>\n\n
+不伦瑞克绿	bù lún ruì kè lǜ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برۇنسۋىك يېشىلى</p>\n\n
+不伦瑞克黑	bù lún ruì kè hēi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برۇنسۋىك قارىسى</p>\n\n
+不但	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">bù dàn； ... لا قالماي；... لا قالماستىن؛ لا قالماستىن، لا قالماي</p>\n\n
+不位移	bù wèi yí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">خانە يۆتكىمەسلىك</p>\n\n
+不住	bù zhù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پىئېلنىڭ كەينىدىن كېلىپ مەقسەتنىڭ ئەمەلگە ئاشمىغانلىقىنى بىلدۈرىدۇ؛ توختىماسلىق، ئۈزۈلمەسلىك</p>\n\n
+不住气	bù zhù qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توختىماي، دەم ئالماي</p>\n\n
+不住的	bù zhù de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇزۇن، ئۇزۇنغىچە</p>\n\n
+不体面	bù tǐ miàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەدەپسىزلىك؛ نومۇسسىزلىق؛ شەرمەندىلىك؛ شەرمەندىلىك، نومۇسلۇق، ئەدەپسىزلىك</p>\n\n
+不作为	bù zuò wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىلىدىغاننى قىلماسلىق</p>\n\n
+不作声	bù zuò shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈن چىقارماسلىق، لام-جىم دېمەسلىك، زۇۋان سۈرمەسلىك</p>\n\n
+不依	bù yī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇنىماسلىق؛ بىردەمدىلا، بىردەمنىڭ ئارىلىقىدىلا، ھەش-پەش دېگۈچە؛ گەپكە كىرمەسلىك؛ ماقۇل بولماسلىق؛ رىئايە قىلماسلىق</p>\n\n
+不依不饶	bù yī bù ráo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېسىلىۋالماق، چاپلىشىۋالماق، ئاۋارە قىلماق</p>\n\n
+不依从	bù yī cóng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قوشۇلماسلىق، ئۇنىماسلىق، رىئايە قىلماسلىق، ماقۇل بولماسلىق، گەپكە كىرمەسلىك</p>\n\n
+不依据词源的	bù yī jù cí yuán de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېتمولوگىيىسىز</p>\n\n
+不便	bù biàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىئەپ؛ ئەپسىز؛ قولايسىز؛ ياقماسلىق؛ ياراشماسلىق؛ پۇل بولماسلىق، پۇلدىن قىسىلىپ قالماق؛ پۇل بولماسلىق؛ قولايسىز، ئەپسىز، بىئەپ؛ پۇلدىن قىسىلماق</p>\n\n
+不便水土	bù biàn shuǐ tǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆنەلمەسلىك، سۈيى ياراشماسلىق</p>\n\n
+不俗	bù sú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نەپىس، زىبا، كېلىشكەن، گۈزەل</p>\n\n
+不俗气的	bù sú qi de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالىيجاناب</p>\n\n
+不保价邮件	bù bǎo jià yóu jiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كاپالەتسىز يوللانما</p>\n\n
+不信	bù xìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشەنمەسلىك؛ جۈملىدە قىلالماسمەنمۇ  ، بارالماسمەنمۇ  دېگەندەك شەكىللەردە كېلىدۇ</p>\n\n
+不信仰宗教	bù xìn yǎng zōng jiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دىنغائىشەنمەسلىك، دىنغا ئېتقاد قىلماسلىق</p>\n\n
+不信仰宗教自由	bù xìn yǎng zōng jiào zì yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دىنغا ئېتقاد قىلماسلىق ئەركىنلىكى</p>\n\n
+不信任投票	bù xìn rèn tóu piào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشەنچسىزلىك بىلدۈرۈپ ئاۋاز بېرىش</p>\n\n
+不信任案	bù xìn rèn àn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشەنچسىزلىك بىلدۈرۈش</p>\n\n
+不修辞的	bù xiū cí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇبالىغىسىز، سەمىمىي</p>\n\n
+不修边幅	bù xiū biān fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزىنى تۈزەشتۈرۈپ يۈرمەسلىك؛ ئۆزىنى تاشلىۋەتمەك؛ ئۆزىنى تاشلىۋەتمەك؛ ئۆزىنى تاشلىۋەتمەك، ئۆزىنى ياسىماسلىق</p>\n\n
+不倒口	bù dǎo kǒu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر گەپتە چىڭ تۇرماق، ئىككى خىل گەپ قىلماسلىق</p>\n\n
+不倒翁	bù dǎo wēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يىقىلماس قورچاق</p>\n\n
+不倒翁虫科	bù dǎo wēng chóng kē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سېدېنتارىيە ئائىلىسى</p>\n\n
+不倦	bù juàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھارماسلىق، تالماسلىق، زېرىكمەسلىك، چارچىماسلىق</p>\n\n
+不值	bù zhí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تېتىماسلىق؛ ئەرزىمەسلىك؛ يارىماسلىق، تېتىماسلىق</p>\n\n
+不值一哂	bùzhí yī shěn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەنىسىز؛ كۆزىگە ئىلماسلىق؛ قىلچە مەنىسى يوق</p>\n\n
+不值一文	bù zhí yī wén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تىيىنغا يارىماسلىق</p>\n\n
+不值一笑	bù zhí yī xiào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يارىماس، كېرەكسىز، يارامسىز، قىلچە قىممىتى يوق</p>\n\n
+不值一谈的	bù zhí yī tán de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىلغا ئالغۇچىلىكى يوق، ئويلانغۇچىلىكى يوق</p>\n\n
+不值一钱	bù zhí yī qián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تىيىنغا يارىماسلىق، ھېچقانداق قىممىتى يوق</p>\n\n
+不值一顾的	bù zhí yī gù de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىلغا ئالغۇچىلىكى يوق، ئويلىنىپ باققۇچىلىقى يوق، مۇزاكىرە قىلغۇچىلىكى يوق؛ ناچار، ئەسك؛ سەت، كۆرۈمسىز</p>\n\n
+不值一驳	bù zhí yī bó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر پەشۋاغا يارىماسلىق</p>\n\n
+不值当	bù zhí dāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەرزىمەسلىك</p>\n\n
+不值得	bù zhí de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەرزىمەسلىك</p>\n\n
+不假思索	bù jiǎ sī suǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەرمەھەل؛ شۇ زامان؛ ئويلىمايلا؛ ئويلاپ كۆرمەستىن، ئويلىمايلا، دەرمەھەل، شۇ زامان؛ ئويلىنىپ تۇرمايلا؛  دەرمەھەل؛  شۇ زامان؛ ئويلاپ كۆرمەستىن</p>\n\n
+不偏不倚	bù piān bù yǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىتەرەپ تۇرماق، بىتەرەپ، ئوبيېكتىپ،؛ دەل، توغرا، خاتا كەتكۈزۈۋەتمەسلىك، )6( كاۋاپمۇ كۆيمىسۇن، زىخمۇ؛ ھېچقايسى تەرەپكە يان باسماسلىق؛  خالىس تۇرماق؛  كاۋاپمۇ كۆيمىسۇن، زىخمۇ؛ ھېچقايسى تەرەپكە يان باسماسلىق؛ خالىس، ئادىل؛ لىللا تۇرماق؛ ھەقىقىي، راست؛ زىخمۇ كۆيمىسۇن؛ كاۋاپمۇ كۆيمىسۇن</p>\n\n
+不偏转的	bù piān zhuǎn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاغمايدىغان</p>\n\n
+不做不休	bù zuò bù xiū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشنى باشقا چىقارماق، ئىشنىڭ ئاخىرىنى چىقارماق، تۈگەتمىگۈچە توختىماسلىق</p>\n\n
+不做作的	bù zuò zuò de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساختىلىق قىلمايدىغان، سەمىمىي</p>\n\n
+不做声	bù zuò shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۈن-تىنسىز؛ ئۈن چىقارماسلىق، لام-جىم دېمەسلىك، زۇۋان سۈرمەسلىك؛ زۇۋان سۈرمەسلىك؛ ئۈن چىقارماسلىق؛ لام-جىم دېمەسلىك</p>\n\n
+不做美不作美	不做美，不作美； \nbù zuò měi bù zuò měi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوڭايلىق تۇغدۇرماسلىق، ئەپلەشتۈرمەسلىك</p>\n\n
+不停电作业	bù tíng diàn zuò yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توك توختاتماي مەشغۇلات قىلىش</p>\n\n
+不偷	bù tōu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوغرىلىماسلىق، ئوغرىلىق قىلماسلىق؛ ساقلانماق، قاچماق، خالىي، بولماق</p>\n\n
+不像	bù xiàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوخشىماسلىق؛ نورمال ئەمەس، غەيرىي</p>\n\n
+不像事	bù xiàng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاملاشمىغان</p>\n\n
+不像样	bù xiàng yàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىزىماسلىق؛ قاملاشماسلىق، قاملاشمىغان</p>\n\n
+不像话	bù xiàng huà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاملاشمىغان</p>\n\n
+不僧不俗	bù sēng bù sú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كەلسە-كەلمەس، قاملاشمىغان، ھىچنېمىگە ئوخشىمايدىغان</p>\n\n
+不光	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">bù guāng； ... قالماي；... لا ئەمەس، ... قالماي، ... قالماستىن；... لا ئەمەس；... قالماستىن</p>\n\n
+不光彩	bù guāng cǎi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شەرمەندىلىك، سەتچىلىك، رەسۋاچىلىق، ئۇيات، سەت</p>\n\n
+不克	bù kè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇربى يەتمەسلىك، قۇدرىتى يەتمەسلىك، قولىدىن كەلمەسلىك، قىلالماسلىق؛ قىلالماسلىق؛ قولىدىن كەلمەسلىك؛ قۇدرىتى يەتمەسلىك؛ قۇربى يەتمەسلىك</p>\n\n
+不免	bù miǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساقلانغىلى بولماسلىق، خالىي بولغىلى بولماسلىق؛ ساقلانغىلى بولماسلىق؛ خالىي بولغىلى بولماسلىق</p>\n\n
+不免招致	bù miǎn zhāo zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇغدۇرماق، پەيدا قىلماق، قوزغىماق، كەلتۈرۈپ چىقارماق، ئېلىپ كەلمەك، گە سەۋەب بولماق</p>\n\n
+不入俗	bù rù sú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالتىس، پەۋقۇلئاددە</p>\n\n
+不入虎穴不得虎子	不入虎穴，不得虎子； \nbù rù hǔ xué bù dé hǔ zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">جاندىن كەچمىگۈچە جانانغا يەتمەس؛ يولۋاسنىڭ ئۇۋىسىغا كىرمەي تۇرۇپ يولۋاس بالىسىنى تۇتالمايسەن</p>\n\n
+不入虎穴焉得虎子	bù rù hǔ xué yān dé hǔ zǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يولۋاسنىڭ ئۇۋىسىغا كىرمىسەڭ، يولۋاس بالىسىنى تۇتالمايسەن؛ جاندىن كەچمىگۈچە، جانانغا يەتكىلى بولماس</p>\n\n
+不公	bù gōng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناھەق؛ ئادىل ئەمەس؛ ئادىل بولماسلىق، ئادىل ئەمەس، ناھەق؛ ئادىل بولماسلىق</p>\n\n
+不公平待遇	bù gōng píng dài yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نالىللا مۇئامىلە</p>\n\n
+不公平的竟争	bù gōng píng de jìng zhēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئادىل بولمىغان رىقابەت</p>\n\n
+不公正	bù gōng zhèng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئادىل بولماسلىق</p>\n\n
+不公正竞争	bù gōng zhèng jìng zhēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نائادىل رىقابەت</p>\n\n
+不公正行为	bù gōng zhèng xíng wéi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئادىل بولماسلىق قىلمىشى، ئادالەتسىزلىك قىلمىشى</p>\n\n
+不共戴天	bù gòng dài tiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەشەددىي؛ چىقىشالماسلىق، سىغىشالماسلىق، پېتىشالماسلىق؛ مۇتلەق چىقىشالماسلىق؛  زادىلا سېغىشالماسلىق؛ چىقىشالماسلىق؛ سىغىشالماسلىق</p>\n\n
+不关	bù guān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇناسىۋەتسىز، ئالاقىسى يوق، چېتىلىشلىقى يوق</p>\n\n
+不关痛痒	bù guān tòng yǎng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزى بىلەن قىلچە مۇناسىۋىتى بولماسلىق؛  ئۆزىنىڭ پايدا-زىيىنى بىلەن مۇناسىۋىتى يوق ئىش؛ ئۆز مەنپەئەتى بىلەن مۇناسىۋەتسىز</p>\n\n
+不关紧要	bù guān jǐn yào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇھىم ئەمەس</p>\n\n
+不兴	bù xīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولمامدۇ؛ بولمايدۇ؛ مودىدىن قالماق (يول قويماسلىقنى ياكى مۇمكىن ئەمەسلىكنى بىلدۈرىدۇ)；يول قويۇلمايدۇ، رۇخسەت قىلىنمايدۇ؛ مودىدىن قالماق</p>\n\n
+不其然而然	bù qí rán ér rán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈتمىگەن يەردىن چىقىپ قالماق؛  ئويلىمىغان يەردىن چىقىپ قالماق</p>\n\n
+不兼容性	bù jiān róng xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماسلاشماسلىق</p>\n\n
+不再	bù zài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يەنە؛ ئەمدى؛ قايتا؛ ئىككىنچى؛ ئىش ھەرىكەت ۋە سۆزلەرنىڭ قايتىلانمايدىغانلىقىنى بىلدۈرىدۇ</p>\n\n
+不再犯罪	bù zài fàn zuì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا جىنايەت ئۆتكۈزمەسلىك</p>\n\n
+不再追诉	bù zài zhuī sù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا سۈرۈشتۈرمەسلىك</p>\n\n
+不冒风险的	bù mào fēng xiǎn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كونىلىقنى ساقلايدىغان، كونسېرۋاتىپ؛ خەتىرى يوق، خەۋپى يوق</p>\n\n
+不冷不热的	bù lěng bù rè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولۇشىچىلا، شۇنچىلىكلا ئانچىكى، قەدىر ئەھۋال، يۈزەكى؛ قىزغىنمۇ ئەمەس، سوغۇقمۇ ئەمەس</p>\n\n
+不准	bù zhǔn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رۇخسەت قىلماسلىق ، يول قويماسلىق، ئۇنىماسلىق، قوشۇلماسلىق، مەنئى قىلماق؛ ناتايىن، بىر نەرسە دېمەك تەس</p>\n\n
+不准擅自处理	bù zhǔn shàn zì chǔ lǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆز مەيلىچە بىر تەرەپ قىلىشقا بولماسلىق</p>\n\n
+不凉不酸	bù liáng bù suān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سوغۇق (مۇئامىلە)</p>\n\n
+不减	bù jiǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئازايماسلىق، ئاز ئەمەس، قېلىشماسلىق</p>\n\n
+不减当年	bù jiǎn dàng nián； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆز ۋاقتىدىكىدەكلا؛  بۇرۇنقى پېتىدىكىدەكلا؛ بۇرۇنقى پېتىدىكىدەكلا؛ ئۆز ۋاقتىدىكىدەكلا</p>\n\n
+不凝气	bù níng qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇيۇشمايدىغان گاز، كوندېنساتسىيىلەنمەيدىغان گاز</p>\n\n
+不凡	bù fán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قالتىس؛ ئاددىي ئەمەس؛ ئاددىي ئەمەس، قالتىس</p>\n\n
+不出	bù chū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يىراق كەتمەسلىك (ئويلىغاندىن)；جايىدىن چىقماق</p>\n\n
+不出所料	bù chū suǒ liào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دېگەندەك بولۇپ چىقماق؛  كۈتكەن يەردىن چىقماق؛  دېگەندەك بولماق؛ ئويلىغان يەردىن چىقماق، دېگەندەك بولماق</p>\n\n
+不分上下	bù fēn shàng xià； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر بىرىدىن قېلىشماسلىق</p>\n\n
+不分彼此	bù fēn bǐ cǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سېنىڭ-مېنىڭ دېمەسلىك؛ سېنىڭ-مېنىڭ دېمەسلىك</p>\n\n
+不分枝	bù fēn zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">شاخلىماسلىق</p>\n\n
+不分皂白	bù fēn zào bái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاق-قارىنى ئايرىماسلىق، ئاق-قارىنى پەرق ئەتمەسلىك</p>\n\n
+不分青红皂白	bù fēn qīng hóng zào bái； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاق-قارىنى ئايرىماسلىق، ئاق-قارىنى پەرق ئەتمەسلىك؛ ئاق-قارىنى پەرق ئەتمەسلىك؛ ئاق-قارىنى ئايرىماسلىق؛ ئاق-قارىنى پەرق ئەتمەسلىك؛  ئاق-قارىنى ئايرىماسلىق</p>\n\n
+不切	bù qiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇۋاپىق بولماسلىق</p>\n\n
+不切合实际的	bù qiè hé shí jì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رومانتىك، رېئاللىققا ئۇيغۇن كەلمەيدىغان</p>\n\n
+不切实际	bù qiè shí jì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەمەلىيەتكە ئۇيغۇن كەلمەسلىك؛ ئەمەلىيەتكە سىغماسلىق؛ ئەمەلىيەتكە سىغماسلىق، ئەمەلىيەتكە ئۇيغۇن كەلمەسلىك</p>\n\n
+不刊之论	bù kān zhī lùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس ھۆكۈم؛  قىل سىغمايدىغان پىكىر؛ قىل سىغمايدىغان پىكىر، ئۆزگەرمەس ھۆكۈم</p>\n\n
+不列颠人	bù liè diān rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برىتونلار، برىتانىيىلىكلەر</p>\n\n
+不列颠化	bù liè diān huà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برىتانلاشتۇرۇش، برىتانلىشىش</p>\n\n
+不列颠合金	bù liè diān hé jīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برىتانىيە قېتىشمىسى</p>\n\n
+不列颠哥伦比亚	bù liè diān gē lún bǐ yà； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برىتانى كولۇمبىيە</p>\n\n
+不列颠群岛	bù liè diān qún dǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برىتانىيە تاقىم ئاراللىرى</p>\n\n
+不列颠锡锑铜合金	bù liè diān xī tī tóng hé jīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">برىتانىيە مېتالى، برىتانىيە قېتىشمىسى، برىتانىيە</p>\n\n
+不则鸣	bù zé míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ناھەقچىلىققا چىداپ تۇرالماسلىق؛ ناھەقچىلىققا ئىچى قاينىماق</p>\n\n
+不利	bù lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىئەپ؛ يامان؛ بەختسىز؛ خەۋپلىك؛ ئوڭۇشسىز؛ رولى يوق؛ زىيانلىق؛ پايدىسىز؛ گال، ئۆتمەس؛ خەيرلىك ئەمەس؛ مۇۋاپىق ئەمەس؛ سەت، يۈزىنى چۈشۈرىدىغان؛ مەغلۇبىيەتكە ئۇچرىماق</p>\n\n
+不利一方	bù lì yī fāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پايدىسىز ئورۇندا تۇرۇۋاتقان تەرەپ</p>\n\n
+不利后果	bù lì hòu guǒ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پايدىسىز ئاقىۋەت</p>\n\n
+不利天气	bù lì tiān qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پايدىسىز ھاۋارايى</p>\n\n
+不到	bù dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاز؛ كەم؛ يېتەرسىز؛ يەتمەسلىك؛ يېتەرسىزلىك؛ يېتەرسىز، يېتەرسىزلىك؛ يەتمەسلىك، ئاز، كەم</p>\n\n
+不到一点	bù dào yī diǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كەسىر سان</p>\n\n
+不到乌江不尽头不乌江心不死	不到乌江不尽头，不乌江心不死； \nbù dào wū jiāng bù jìn tóu bù wū jiāng xīn bù sǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەقسەتكە يەتمىگۈچە نىيەتتىن يانماسلىق، ئۆلگۈچە پەيلىدىن يانماسلىق، مۇرادىغا يەتمىگۈچە نىيىتىدىن يانماسلىق</p>\n\n
+不到火候不揭锅	bù dào huǒ hou bù jiē guō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۇغۇلمىغان موزايغا قوزۇق قاققىلى بولماس</p>\n\n
+不到黄河心不死	bù dào huáng hé xīn bù sǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەقسەتكە يەتمىگۈچە نىيەتتىن يانماسلىق، ئۆلگۈچە پەيلىدىن يانماسلىق، مۇرادىغا يەتمىگۈچە نىيىتىدىن يانماسلىق؛ ئۆلگۈچە پەيلىدىن يانماسلىق؛  بۇرنىغا يېمىگۈچە نىيىتىدىن يانماسلىق؛ مەقسەتكە يەتمىگۈچە نىيىتىدىن يانماسلىق</p>\n\n
+不剌剌	bù lá lá； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۇچقاندەك چاپماق</p>\n\n
+不力	bù lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">غەيرەتسىز؛ ئىجتىھاتسىز؛ تىرىشماسلىق؛ تىرىشماسلىق، غەيرەتسىز ئىجتىھاسىز</p>\n\n
+不加	bù jiā； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چەتكە قاقماق، يەكلىمەك</p>\n\n
+不务正业	bù wù zhèng yè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توغرا كەسىپ بىەلن شۇغۇللانماسلىق؛  ئۆز كەسپى بىلەن شۇغۇللانماسلىق؛ توغرا كەسىپ بىلەن شۇغۇللانماسلىق</p>\n\n
+不务正业的	bù wù zhèng yè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توغرا كەسپ بىلەن شۇغۇللانمايدىغان، بىكار تەلەپ</p>\n\n
+不务空名	bù wù kōng míng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇرۇق ئاتاققا بېرىلمەسلىك؛ قۇرۇق ئاتاققا بېرىلمەسلىك</p>\n\n
+不动主义	bù dòng zhǔ yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىمموبىلىزم</p>\n\n
+不动产	bù dòng chǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆچمەس مۈلۈك؛ كۆچمەس مۈلۈك، ئەمەلىي مۈلۈك؛ كۆچمەس مۈلۈك، مۇقىم مۈلۈك</p>\n\n
+不动产信托	bù dòng chǎn xìn tuō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆچمەس مۈلۈك ھاۋالىسى</p>\n\n
+不动产分有证	bù dòng chǎn fēn yǒu zhèng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆچمەس مۈلۈك ئۈلۈش گۇۋاھنامىسى</p>\n\n
+不动产物权	bù dòng chǎn wù quán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇقىم مۈلۈك ھوقۇقى</p>\n\n
+不动声色	bù dòng shēng sè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">گەپ قىلماسلىق، ئۈندىمەسلىك، غىت قىلماسلىق، ھېسسىياتىنى بىلدۈرمەسلىك، چىرايىدىن چاندۇرماسلىق، ھولۇقماي-تەمتىرىمەي، رەڭگى-رويىنى ئۆزگەرتمەي، تەرىنى بۇزماي؛ ھودۇقماسلىق؛  رەڭگىرويى ئۆزگەرمەسلىك؛  تەمكىنلىك؛ ھودۇقماسلىق؛ تەمتىرىمەسلىك؛ تەرىنى بۇزماسلىق</p>\n\n
+不动孢子	bùdòng bāozǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەركەتلەنمەيدىغان سپورا</p>\n\n
+不动感情	bù dòng gǎn qíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىزغىنلىقى يوق، ھېسسىياتى يوق، مۇھەببىتى يوق، ئىشقى يوق، قىزىمايدىغان، ھاياجانلانمايدىغان، قوزغالمايدىغان، تەسىرلەنمەيدىغان، ئىچى پۇشمايدىغان، مۆرىمەيدىغان</p>\n\n
+不动细菌属	bù dòng xì jūn shǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاتسىنتوباكتېر ئۇرۇقدىشى</p>\n\n
+不劳而成	bù láo ér chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەقسىتىگە ئاسانلا يەتمەك، ھېچقانچە كۈچىمەيلا مۇرادىغا يەتمەك</p>\n\n
+不劳而获	bù láo ér huò； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەييارتاپلىق، ئىشلىمەي چىشلىمەك، تەييارغا ھەييار بولماق، تېرىماي ئورماق؛ تەييارتاپلىق؛ ئىشلىمەي چىشلىمەك؛ تېرىماي ئورماق؛ تەييارغا ھەييار بولماق؛ تەييارغا ھەييار بولۇش؛ ئىشلىمەي چىشلىمەك؛  تەييارغا ھەييار بولماق؛  تېرىماي ئورماق</p>\n\n
+不勃	bù bó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پاراللېل تەرەققىي قىلماق</p>\n\n
+不匀	bù yún； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەكشى ئەمەس</p>\n\n
+不匹配	bù pǐ pèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماسلاشماسلىق، ماس كەلمەسلىك</p>\n\n
+不匹配字符	bù pǐ pèi zì fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماس كەلمەيدىغان ھەرپ-بەلگە</p>\n\n
+不匹配数据	bù pǐ pèi shù jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماس كەلمەيدىغان سانلىق مەلۇمات</p>\n\n
+不匹配时间	bù pǐ pèi shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماس كەلمەس ۋاقىت</p>\n\n
+不匹配表	bù pǐ pèi biǎo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماس كەلمەيدىغان جەدۋەل</p>\n\n
+不协和音	bù xié hé yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەڭكەشسىز ئاۋاز</p>\n\n
+不协调	bù xié diào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ماسلاشماسلىق</p>\n\n
+不卑不亢	bù bēi bù kàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزىنى چوڭمۇ تۇتماسلىق، پەسمۇ تۇتماسلىق</p>\n\n
+不单	bù dān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىرلا... ئەمەس، يالغۇز... ئەمەس، ... ئەمەس；... لا قالماستىن،... لا قالماي；... لا ئەمەس؛ بىرلا ... ئەمەس؛ يالغۇز ... ئەمەس</p>\n\n
+不即不离	bù jí bù lí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىنلىشاي دېسە تېخى، يىراقلىشاي دېسە تېخى؛ يېقىنلىشىپمۇ كەتمەسلىك ۋە يىراقلىشىپمۇ كەتمەسلىك؛ يېقىنمۇ ئەمەس، يىراقمۇ ئەمەس؛ يېقىنمۇ ئەمەس يىراقمۇ ئەمەس</p>\n\n
+不厌	bù yàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زېرىكمەسلىك</p>\n\n
+不厌其烦	bù yàn qí fán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاۋارىگەچىلىكتىن قاچماسلىق، مالال كۆرمەسلىك؛ ئاۋارىچىلىقتىن قورقماسلىق، زېرىكىشلىكلىكىدىن قورقماسلىق؛ ئاۋارىگەرچىلىكتىن قاچماسلىق؛  ئېغىر كۆرمەسلىك؛  ئېرىنمەسلىك؛  مالال كۆرمەسلىك؛  قايتا-قايتا؛  تەپسىلىي</p>\n\n
+不厌其详	bù yàn qí xiáng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئاۋارىچىلىقتىن قورقماسلىق، زېرىكىشلىكلىكىدىن قورقماسلىق، ئېرىنمەستىن ئىنچىكە ئىشلىمەك؛ ئېرىنمەستىن؛  تەپسىلىي</p>\n\n
+不及	bù jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېتىشەلمەسلىك؛ يەتمەسلىك، يېتىشەلمەسلىك؛ ئۈلگۈرەلمەسلىك</p>\n\n
+不及事	bù jí shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشقا ئاشماسلىق، ۋەزىپىنى ئورۇندىيالماسلىق</p>\n\n
+不及物动词	bù jí wù dòng cí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆتۈمسىز پېئىل</p>\n\n
+不反跳的	bù fǎn tiào de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قاڭقىمايدىغان، سەكرىمەيدىغان، يانمايدىغان</p>\n\n
+不发光体	bù fā guāng tǐ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پارقىرىماس جىسىم؛ يورۇقلۇق چىقارمايدىغان جىسىم</p>\n\n
+不受妨害	bù shòu fáng hài； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">زىيانكەشلىككە ئۇچرىماسلىق</p>\n\n
+不受法律追究	bù shòu fǎ lǜ zhuī jiū； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قانۇنىي جەھەتتىن سۈرۈشتۈرلمەسلىك</p>\n\n
+不受法律限制	bù shòu fǎ lǜ xiàn zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قانۇننىڭ چەكلىمىسىگە ئۇچرىماسلىق</p>\n\n
+不受非法侵犯	bù shòu fēi fǎ qīn fàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قانۇنسىز دەخلى-تەرۇزگە ئۇچرىماسلىق</p>\n\n
+不变	bù biàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەسلىك، ئۆزگەرتمەسلىك، ئۆزگەرمەس</p>\n\n
+不变不革	bù biàn bù gé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يا ئىسلاھات، يا ئىنقىلاب قىلماسلىق؛ ھەممە ئىش كونىچە بولماق</p>\n\n
+不变价格	bù biàn jià gé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مۇقىم باھا؛ ئۆزگەرمەس باھا</p>\n\n
+不变值	bù biàn zhí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس قىممەت</p>\n\n
+不变幅度	bù biàn fú dù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس ئامپلىتۇدا</p>\n\n
+不变式	bù biàn shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس ئىپادە</p>\n\n
+不变形钢	bù biàn xíng gāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دېفورماتسىيىلەنمەيدىغان پولات</p>\n\n
+不变性	bù biàn xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەسلىك؛ ئۆزگەرمەسلىك خۇسۇسىيىتى</p>\n\n
+不变数	bù biàn shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس مىقدار</p>\n\n
+不变标量	bù biàn biāo liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس سكاليار</p>\n\n
+不变特征	bù biàn tè zhēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس ئالاھىدىلىك</p>\n\n
+不变的	bù biàn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس</p>\n\n
+不变积分	bù biàn jī fēn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس ئىنتېگرال</p>\n\n
+不变资本	bù biàn zī běn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس كاپىتال؛ تۇراقلىق كاپىتال</p>\n\n
+不变量	bù biàn liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆزگەرمەس مىقدار</p>\n\n
+不只	<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">bù zhǐ； ... لا قالماي；... لا قالماي، ... لا قالماستىن；... لا قالماستىن</p>\n\n
+不可	bù kě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولماسلىق؛ بولماسلىق، مۇمكىن بولماسلىق، قەتئىي بولماسلىق</p>\n\n
+不可一世	bù kě yī shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">جاھانغا پاتماي قالماق، ئالەمگە سىغماي قالماق، قىنىغا پاتماي قالماق؛ جاھانغا پاتماي قالماق؛  ئالەمگە سىغماي كەتمەك؛  تېرىسىگە پاتماي قالماق؛ جاھانغا پاتماي قالماق؛ قىنىغا پاتماي قالماق</p>\n\n
+不可交换的	bù kě jiāo huàn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئالماشتۇرغىلى بولمايدىغان</p>\n\n
+不可亲	bù kě qīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېقىنچىلىق قىلغىلى بولمايدىغان، يېقىنچىلىقنى كۆتۈرمەيدىغان</p>\n\n
+不可人性	bù kě rén xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆتكۈزمەسلىك</p>\n\n
+不可仲裁的争端	bù kě zhòng cái de zhēng duān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كېسىم قىلىغلى بولمايدىغان تالاش-تارتىش</p>\n\n
+不可企及	bù kě qǐ jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېرىشكىلى بولمايدىغان، مۇيەسسەر بولغىلى بولمايدىغان، قول يەتمەيدىغان؛ كۆپ ئارقىدا قالماق، يېتىشىۋالغىلى بولماسلىق؛ مۇيەسسەر بولغىلى بولمايدىغان؛ ئېرىشكىلى بولمايدىغان؛ قول يەتمەيدىغان؛ يېتىشىۋالغىلى بولماسلىق؛  ئېرىشكىلى بولماسلىق؛  قول يەتمەس</p>\n\n
+不可侵反	bù kě qīn fǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تاجاۋۇز قىلغىلى بولمايدىغان، دەخلىسىز، دەخلى-تەرۈز يەتكۈزگىلى بولمايدىغان</p>\n\n
+不可侵犯	bù kě qīn fàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەخلىسىز</p>\n\n
+不可偏废	bù kě piān fèi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىر تەرەپكىلا ئەھمىيەت بېرىپ يەنە بىر تەرەپكە سەل قاراشقا بولمايدۇ؛ بىرىنى دەپ، بىرىدىن كىچىشكە بولماسلىق؛  ھېچقايسىغا سەل قاراشقا بولماسلىق؛ بىرىنى دەپ بىرىدىن كېچىشكە بولمايدۇ</p>\n\n
+不可分性	bù kě fēn xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بۆلۈنمەسلىك</p>\n\n
+不可分散风险	bù kě fēn sàn fēng xiǎn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تارقاقلاشتۇرۇشقا بولمايدىغان خەۋپ-خەتەر</p>\n\n
+不可压缩性	bù kě yā suō xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىسىلماسلىق</p>\n\n
+不可同日而语	bù kě tóng rì ér yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سېلىشتۇرغىلى بولماسلىق؛  بىر تاياقتا ھەيدىگىلى بولماسلىق</p>\n\n
+不可同日而语不可同年而语	不可同日而语，不可同年而语； \nbù kě tóng rì ér yǔ bù kě tóng nián ér yǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەڭ قويغىلى بولماسلىق، بىر تاياقتا ھەيدىگىلى بولماسلىق، سېلىشتۇرغىلى بولماسلىق</p>\n\n
+不可名状	bù kě míng zhuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېيتقۇسىز؛ ئېيتقىلى بولماسلىق؛ دېگىلى بولماسلىق</p>\n\n
+不可名状的	bù kě míng zhuàng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېيتقىلى بولمايدىغان، دېگىلى بولمايدىغان، ئېيتقۇسىز</p>\n\n
+不可告人	bù kě gào rén； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يوشۇرۇن؛ خۇپىيانە؛ ئېيتقۇسىز؛ ئېغىزدىن چىقارغۇسىز، خەققە دېگىلى بولمايدىغان؛ خەتەرلىك، خەۋپلىك؛ يوشۇرۇن، خۇپىيانە</p>\n\n
+不可奈何	bù kě nai hé； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئامالسىزلىق، ئىلاجسىزلىق، نائىلاج</p>\n\n
+不可对易性	bù kě duì yì xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كوممۇتاتسىيىلەنمەسلىك</p>\n\n
+不可屏蔽中断	bù kě píng bì zhōng duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">توسۇشقا بولماس ئۈزۈلۈش</p>\n\n
+不可开交	bù kě kāi jiāo； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىش-ھەرىكەتنىڭ چەكتىن ئاشقانلىقىنى بىلدۈرىدۇ؛ قۇتۇلالماسلىق؛ ئاخىرلاشتۇرالماسلىق؛ قول ئۈزەلمەسلىك؛ ئاجراتقىلى بولماسلىق؛  قۇتۇلغىلى بولماسلىق</p>\n\n
+不可引渡的罪行	bù kě yǐn dù de zuì xíng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆتكۈزۈپ بېرىشكە بولمايدىغان جىنايەت</p>\n\n
+不可归责于承租人的事由	bù kě guī zé yú chéng zū rén de shì yóu； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىجارەت ئالغۇچىدىن كۆرەىلى بولمايدىغان سەۋەب</p>\n\n
+不可当	bù kě dāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چاتاق بولدى، يامان بولدى</p>\n\n
+不可思议	bù kě sī yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەقىل يەتمەيدىغان؛ چۈشىنىپ بولماسلىق؛ ئەقىل يەتمەسلىك؛  چۈشىنىپ بولماسلىق؛  ئەقىلگە سىغماسلىق</p>\n\n
+不可思议的	bù kě sī yì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئادەمنىڭ ئېسىگە كەلمەيدىغان، ئادەمنىڭ ئەقلى يەتمەيدىغان، ئۇخلاپ چۈشىگىمۇ كىرمەيدىغان؛ ئويلاپ باقمىغان، خىيالغا كەلتۈرۈپ باقمىغان؛ غايىپتىن پە؛ ئاجايىپ، سىرلىق، بىلىپ بولمايدىغان؛ ئادەمنىڭ ئىشەنگۈسى كەلمەيدىغان؛ پەرەز قىلغىلى بولمايدىغان</p>\n\n
+不可恢复错误	bù kě huī fù cuò wù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەسلىگە كەلتۈرگىلى بولمايدىغان خاتالىق</p>\n\n
+不可懂串音	bù kě dǒng chuàn yīn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشىنىكسىز ئۆتۈشمە ئاۋاز</p>\n\n
+不可懂噪声	bù kě dǒng zào shēng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۈشىنىكسىز شاۋقۇن</p>\n\n
+不可执行属性	bù kě zhí xíng shǔ xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىجرا قىلىشقا بولمايدىغان خۇسۇسى يەت</p>\n\n
+不可抗力	bù kě kàng lì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېڭىش مۇمكىن بولمايدىغان كۈچ، يەڭگىلى بولمايدىغان كۈچ، قارشى تۇرغۇسىز كۈچ؛ يېڭىش مۇمكىن بولمايدىغان كۈچ؛ تاقابىل تۇرغىلى بولمايدىغان؛ يەڭگىلى بولمايدىغان كۈچ؛ قارشى تۇرغۇسىز كۈچ</p>\n\n
+不可抗拒	bù kě kàng jù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەڭ كەلگىلى بولماسلىق، قارشى تۇرغىلى بولماسلىق؛ تەڭ كەلگىلى بولماسلىق؛ قارشى تۇرغىلى بولماسلىق</p>\n\n
+不可拆卸的	bù kě chāi xiè de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چۇۋۇشقا بولمايدىغان</p>\n\n
+不可挽回	bù kě wǎn huí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئورنىغا كەلتۈرگىلى بولماسلىق</p>\n\n
+不可捉摸	bù kě zhuō mō； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سىرلىق؛ تېگى-تەكتىگە يەتكىلى بولماسلىق؛ ئەقىل يەتمەسلىك؛ چۈشىنىپ بولماسلىق</p>\n\n
+不可控成本	bù kě kòng chéng běn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تىزگىنلەنمەس تەننەرخ</p>\n\n
+不可操作时间	bù kě cāo zuò shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەشغۇلات ئېلىپ بېرىشقا بولماس ۋاقىت</p>\n\n
+不可操作的	bù kě cāo zuò de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">مەشغۇلات ئېلىپ بېرىشقا بولمايدىغان</p>\n\n
+不可擦存储器	bù kě cā cún chǔ qì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆچۈرگىلى بولمايدىغان ساقلىغۇچ</p>\n\n
+不可收拾	bù kě shōu shi； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يىغىشتۇرغىلى بولماسلىق، ئوڭلىغىلى بولماسلىق، تەرتىپكە سالغىلى بولماسلىق</p>\n\n
+不可救的	bù kě jiù de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قۇتقۇزغىلى بولمايدىغان، ساقلاپ قالغىلى بولمايدىغان</p>\n\n
+不可救药	bù kě jiù yào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تۈزەلمەس؛ تۈزەلمەس، قۇتقۇزغىلى بولمايدىغان؛ قۇتقۇزغىلى بولمايدىغان؛ قۇتقۇزۇۋالغىلى بولماسلىق؛ ساقايماس؛  تۈزەلمەس؛  ئوڭشالماس</p>\n\n
+不可数集	bù kě shù jí； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سانالماس توپلام</p>\n\n
+不可更新资源	bù kě gēng xīn zī yuán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">يېڭىلانمايدىغان بايلىق</p>\n\n
+不可枚举	bù kě méi jǔ； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھەددى-ھېسابسىز، سان-ساناقسىز، ساناپ تۈگەتكۈسىز، ئېيتىپ تۈگەتكۈسىز</p>\n\n
+不可比成本	bù kě bǐ chéng běn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سېلىشتۇرۇلماس تەننەرخ</p>\n\n
+不可浮动阶段	bù kě fú dòng jiē duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆرلەتكىلى (لەيلەتكىلى) بولماس باسقۇچ</p>\n\n
+不可满足性	bù kě mǎn zú xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قانائەتلەنمەسلىكى؛ قانائەتلەنمەسلىك</p>\n\n
+不可理喻	bù kě lǐ yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىغەرەز؛ بەغەرەز، غەرەز ئۇقمايدىغان؛ غەرەز ئۇقمايدىغان؛ بىغەرەزلىك، غەرەز ئۇقماسلىق</p>\n\n
+不可用时间	bù kě yòng shí jiān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىشلەتكىلى بولمايدىغان ۋاقىت</p>\n\n
+不可知的	bù kě zhī de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىلگىلى بولمايدىغان</p>\n\n
+不可知论	bù kě zhī lùn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىلگىلى بولماسلىق نەزەرىيىسى</p>\n\n
+不可知论者	bù kě zhī lùn zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بىلگىلى بولماسلىق نەزەرىيىسى تەرەپدارلىرى</p>\n\n
+不可磨灭	bù kě mó miè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئۆچمەس؛ يوقالماس؛ ئۆچمەس، يوقالماس؛ ئۆچمەس؛  يۇقالماس؛  ئۇنتۇلماس</p>\n\n
+不可禁止中断	bù kě jìn zhǐ zhōng duàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چەكلىگىلى بولمايدىغان ئۈزۈلۈش</p>\n\n
+不可等闲视之	bù kě děng xián shì zhī； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېتىبارسىز قارىماسلىق، سەل قارىماسلىق</p>\n\n
+不可约函数	bù kě yuē hán shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىخچاملىغىلى بولمايدىغان فۇنكسىيە، قىسقارتقىلى بولمايدىغان فۇنكسىيە</p>\n\n
+不可约多项式	bù kě yuē duō xiàng shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىخچاملىغىلى بولمايدىغان كۆپ ئەزالىق</p>\n\n
+不可约张量	bù kě yuē zhāng liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىخچاملىغىلى بولمايدىغان تېنزور، قىسقارماس تېنزور</p>\n\n
+不可约张量算符	bù kě yuē zhāng liàng suàn fú； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىسقارماس تېنزور ئوپېراتور</p>\n\n
+不可约方程	bù kě yuē fāng chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىخچاملىغىلى بولمايدىغان تەڭلىمە، ئىخچاملانمايدىغان تەڭلىمە، قىسقارتقىلى بولمايدىغان تەڭلىمە</p>\n\n
+不可约表示	bù kě yuē biǎo shì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىسقارماس ئىپادە</p>\n\n
+不可终日	bù kě zhōng rì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۈننى كەچ قىلالماسلىق</p>\n\n
+不可编辑属性	bù kě biān jí shǔ xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەھرىرلەشكە بولماسلىق خۇسۇسىيىتى</p>\n\n
+不可缺少的	bù kě quē shǎo de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كەم بولسا بولمايدىغان</p>\n\n
+不可缺的	bù kě quē de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">بولمىسا بولمايدىغان</p>\n\n
+不可耐	bù kě nai； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چىدىغىلى بولماسلىق، چىداپ تۇرغىلى بولماسلىق</p>\n\n
+不可胜数	bù kě shèng shù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سان-ساناقسىز؛ ساناپ تۈگەتكۈسىز؛ ھەددى-ھېسابسىز؛ ساناپ تۈگەتكۈسىز، سان-ساناقسىز؛  ھەددى-ھېسابسىز</p>\n\n
+不可胜数的	bù kě shèng shù de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">سان-ساناقسىز، ھەددى-ھېسابسىز، ھېسابى يوق، ساناپ تۈگەتكۈسىز</p>\n\n
+不可胜言	bù kě shèng yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">نۇرغۇن، كۆپ مىقداردا، كۆپلەپ، بىر مۇنچە</p>\n\n
+不可胜道	bù kě shèng dào； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئېيتىپ تۈگەتكۈسىز</p>\n\n
+不可能主义	bù kě néng zhǔ yì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىمپوسسىبىلىزم</p>\n\n
+不可能主义者	bù kě néng zhǔ yì zhě； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىمپوسسىبىلىزمچى</p>\n\n
+不可行的	bù kě xíng de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قىلغىلى بولمايدىغان</p>\n\n
+不可裁决的争端	bù kě cái jué de zhēng duān； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھۆكۈم قىلغىلى بولمايدىغان تالاش-تارتىش</p>\n\n
+不可见光	bù kě jiàn guāng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆزگە كۆرۈنمەيدىغان يورۇقلۇق؛ كۆرۈنمەس يورۇقلۇق</p>\n\n
+不可见光域	bù kě jiàn guāng yù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆزگە كۆرۈنمەيدىغان يورۇقلۇق ساھەسى</p>\n\n
+不可见射线	bù kě jiàn shè xiàn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆزگە كۆرۈنمەيدىغان نۇر</p>\n\n
+不可见物质	bù kě jiàn wù zhì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">كۆرۈنمەس ماددا</p>\n\n
+不可言	bù kě yán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىپادىلىگىلى بولمايدىغان، بايان قىلىپ بەرگىلى بولمايدىغان، دەپ بەرگىلى بولمايدىغان، تەسۋىرلىگىلى بولمايدىغان</p>\n\n
+不可言状	bù kě yán zhuàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">تەسۋىرلىگۈسىز، تەسۋىرلەپ بولماسلىق، ئېيتىپ تۈگەتكۈسىز؛ تەسۋىرلىگۈسىز؛ ئېيتىپ بولماسلىق؛ تەسۋىرلەپ بولماسلىق؛ ئېيتىپ تۈگەتكۈسىز</p>\n\n
+不可识别的	bù kě shí bié de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">پەرق ئەتكىلى بولمايدىغان</p>\n\n
+不可读的	bù kě dú de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئوقۇغىلى بولمايدىغان</p>\n\n
+不可起诉的补贴	bù kě qǐ sù de bǔ tiē； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">دەۋاسىز ياردەم</p>\n\n
+不可辩驳	bù kě biàn bó； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">رەددىيە بەرگىلى بولمايدىغان؛  رەت قىلغىلى بولمايدىغان</p>\n\n
+不可逆	bù kě nì； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئەكسىگە يانماس</p>\n\n
+不可逆反应	bù kě nì fǎn yīng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماس رېئاكسىيە؛ قايتماس رېئاكسىيە</p>\n\n
+不可逆循环	bù kě nì xún huán； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماس ئايلىنىش</p>\n\n
+不可逆性	bù kě nì xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماسلىق؛ قايتماسلىق؛ ئەكسىگە يانماس خۇسۇسىيىتى</p>\n\n
+不可逆热力学	bù kě nì rè lì xué； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماس ئىسسىقلىق دىنامىكىسى</p>\n\n
+不可逆的	bù kě nì de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماس؛ ئەكسىگە يانمايدىغان</p>\n\n
+不可逆过程	bù kě nì guò chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماس جەريان؛ قايتماس جەريان</p>\n\n
+不可逆过程热力学	bù kě nì guò chéng rè lì xué； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتماس(جەريان) تېرمودىنامىكا</p>\n\n
+不可逾越	bù kě yú yuè； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ھالقىپ ئۆتكىلى بولماسلىق؛ ھالقىپ ئۆتكىلى بولماسلىق</p>\n\n
+不可避免的	bù kě bì miǎn de； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ساقلانغىلى بولمايدىغان، قېچىپ قۇتۇلغىلى بولمايدىغان، ئۆزنى قاچۇرغىلى بولمايدىغان، چەكلىگىلى بولمايدىغان</p>\n\n
+不可重用例程	bù kě zhòng yòng lì chéng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا ئىشلەتكىلى بولمايدىغان تەرتىپ</p>\n\n
+不可重用属性	bù kě zhòng yòng shǔ xìng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا ئىشلەتكىلى بولمايدىغان خۇسۇسىيەت</p>\n\n
+不可重用程序	bù kě zhòng yòng chéng xù； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">قايتا ئىشلەتكىلى بولمايدىغان پروگرامما</p>\n\n
+不可限量	bù kě xiàn liàng； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">چەكلەنمەس مىقدار</p>\n\n
+不吃劲	bù chī jìn； \n<p style="direction:rtl; text-indent=30px; color: #FF8000; font-family:AdobeNaskh-Medium; font-size:18px;">ئىرەن قىلماسلىق، پەرۋا قىلماسلىق، پىسەنت قىلماسلىق، ئېتىبارسىز قارىماق، كارى بولماسلىق، كېرەك يوق، كارايىتى چاغلىق</p>\n\n
